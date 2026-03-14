@@ -32,6 +32,14 @@ jobs:
           --env-file .env.example \
           mlb_pipeline_img:latest
 
+    - name: Commit Action Generated Data for Streamlit Cloud
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add data/
+        git commit -m "Auto-update MLB scraped data from GitHub Actions" || echo "No new data to commit"
+        git push origin main || echo "Nothing to push"
+        
     - name: Upload Data Artifacts
       uses: actions/upload-artifact@v4
       with:
