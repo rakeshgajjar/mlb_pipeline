@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  pipeline:
+    build: .
+    image: mlb_data_pipeline:latest
+    container_name: mlb_pipeline_run
+    volumes:
+      - ./data:/app/data
+    env_file:
+      - .env
