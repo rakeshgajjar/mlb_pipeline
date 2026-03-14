@@ -1,0 +1,18 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+831616,S,2026,2026-03-13T17:05:00Z,Final,Tampa Bay Rays,6,Boston Red Sox,7,JetBlue Park
+831565,S,2026,2026-03-13T17:05:00Z,Final,Baltimore Orioles,8,Philadelphia Phillies,11,BayCare Ballpark
+831563,S,2026,2026-03-13T17:05:00Z,Final,New York Yankees,6,Atlanta Braves,7,CoolToday Park
+831623,S,2026,2026-03-13T17:07:00Z,Final,Minnesota Twins,1,Toronto Blue Jays,6,TD Ballpark
+831778,S,2026,2026-03-13T20:05:00Z,Final,San Diego Padres,13,Athletics,9,Hohokam Stadium
+831933,S,2026,2026-03-13T20:05:00Z,Final,Chicago Cubs,2,Chicago White Sox,4,Camelback Ranch
+831879,S,2026,2026-03-13T20:10:00Z,Final,Cleveland Guardians,2,Los Angeles Angels,5,Tempe Diablo Stadium
+831731,S,2026,2026-03-13T20:10:00Z,Final,Texas Rangers,9,Colorado Rockies,4,Salt River Fields at Talking Stick
+831935,S,2026,2026-03-13T20:10:00Z,Final,Athletics,13,Milwaukee Brewers,4,American Family Fields of Phoenix
+831464,S,2026,2026-03-13T22:05:00Z,Final,New York Mets,8,Washington Nationals,3,CACTI Park of the Palm Beaches
+831512,S,2026,2026-03-13T22:05:00Z,Final,Pittsburgh Pirates,7,Detroit Tigers,5,Publix Field at Joker Marchant Stadium
+831567,S,2026,2026-03-13T22:05:00Z,Final,Houston Astros,4,St. Louis Cardinals,5,Roger Dean Chevrolet Stadium
+831462,S,2026,2026-03-13T22:10:00Z,Final,Miami Marlins,1,New York Mets,0,Clover Park
+831891,S,2026,2026-03-13T23:05:00Z,Final,Cincinnati Reds,6,San Francisco Giants,1,Scottsdale Stadium
+831958,S,2026,2026-03-14T01:05:00Z,Final,Arizona Diamondbacks,11,Kansas City Royals,5,Surprise Stadium
+831759,S,2026,2026-03-14T01:05:00Z,Final,San Francisco Giants,0,Cincinnati Reds,1,Goodyear Ballpark
+831801,S,2026,2026-03-14T01:10:00Z,Final,Los Angeles Dodgers,10,Seattle Mariners,7,Peoria Stadium
