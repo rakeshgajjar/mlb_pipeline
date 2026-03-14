@@ -1,0 +1,40 @@
+name: Run MLB Pipeline (Remote / Simulated Server)
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch: # Allows you to run this manually from the GitHub Actions UI
+  schedule:
+    - cron: '0 8 * * *' # Runs every day at 08:00 UTC (Optional, you can remove this)
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v2
+
+    - name: Build Docker Image
+      run: |
+        docker build -t mlb_pipeline_img:latest .
+
+    - name: Create Data Directory
+      run: mkdir -p ./data
+
+    - name: Run Pipeline in Docker
+      run: |
+        docker run --name mlb_pipeline_container \
+          -v ${{ github.workspace }}/data:/app/data \
+          --env-file .env.example \
+          mlb_pipeline_img:latest
+
+    - name: Upload Data Artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: mlb-pipeline-data
+        path: ./data/*
+        retention-days: 7
