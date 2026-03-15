@@ -22,11 +22,8 @@ class DataTransformer:
             logger.error(f"Failed to load JSON: {e}")
             raise
 
-    def to_csv(self) -> str:
-        data = self._load_json()
+    def process_schedule(self, data: dict) -> list:
         games_list = []
-        
-        # Parse MLB schedule schema safely
         for date_info in data.get('dates', []):
             date = date_info.get('date', 'Unknown')
             for game in date_info.get('games', []):
@@ -43,12 +40,60 @@ class DataTransformer:
                     'venue': game.get('venue', {}).get('name')
                 }
                 games_list.append(game_dict)
-                
-        if not games_list:
-            logger.warning("No games found in JSON payload.")
+        return games_list
+        
+    def process_standings(self, data: dict) -> list:
+        standings_list = []
+        for record in data.get('records', []):
+            league = record.get('league', {}).get('name', 'Unknown')
+            for team_rec in record.get('teamRecords', []):
+                team_dict = {
+                    'league': league,
+                    'team': team_rec.get('team', {}).get('name'),
+                    'wins': team_rec.get('wins'),
+                    'losses': team_rec.get('losses'),
+                    'win_pct': team_rec.get('winningPercentage'),
+                    'games_back': team_rec.get('gamesBack'),
+                    'streak': team_rec.get('streak', {}).get('streakCode')
+                }
+                standings_list.append(team_dict)
+        return standings_list
+        
+    def process_stats(self, data: dict) -> list:
+        stats_list = []
+        for stat_group in data.get('stats', []):
+            for split in stat_group.get('splits', []):
+                player = split.get('player', {}).get('fullName')
+                team = split.get('team', {}).get('name')
+                stat = split.get('stat', {})
+                stat_dict = {
+                    'player': player,
+                    'team': team,
+                    **stat
+                }
+                # Keep only simple types
+                filtered = {k: v for k, v in stat_dict.items() if not isinstance(v, (dict, list))}
+                stats_list.append(filtered)
+        return stats_list
+
+    def to_csv(self) -> str:
+        data = self._load_json()
+        
+        if "schedule" in self.base_name or "test_data" in self.base_name:
+            records = self.process_schedule(data)
+        elif "standings" in self.base_name:
+            records = self.process_standings(data)
+        elif "stats" in self.base_name:
+            records = self.process_stats(data)
+        else:
+            logger.warning(f"Unknown data type for {self.base_name}, skipping.")
             return ""
 
-        df = pd.DataFrame(games_list)
+        if not records:
+            logger.warning(f"No records found in JSON payload {self.base_name}.")
+            return ""
+
+        df = pd.DataFrame(records)
         csv_path = os.path.join(self.output_dir, f"{self.base_name}.csv")
         df.to_csv(csv_path, index=False)
         logger.info(f"Generated CSV output at {csv_path}")
@@ -58,7 +103,6 @@ class DataTransformer:
         data = self._load_json()
         
         root = ET.Element("MLBSchedule")
-        
         for date_info in data.get('dates', []):
             date_elem = ET.SubElement(root, "Date", value=date_info.get('date', 'Unknown'))
             for game in date_info.get('games', []):
@@ -85,9 +129,7 @@ class DataTransformer:
                 venue_elem = ET.SubElement(game_elem, "Venue")
                 venue_elem.text = str(game.get('venue', {}).get('name', ''))
 
-        # Pretty-print XML
         xmlstr = minidom.parseString(ET.tostring(root)).toprettyxml(indent="    ")
-        
         xml_path = os.path.join(self.output_dir, f"{self.base_name}.xml")
         with open(xml_path, "w", encoding='utf-8') as f:
             f.write(xmlstr)
@@ -98,7 +140,9 @@ class DataTransformer:
     def run(self):
         try:
             csv_path = self.to_csv()
-            xml_path = self.to_xml()
+            xml_path = ""
+            if "schedule" in self.base_name or "test_data" in self.base_name:
+                xml_path = self.to_xml()
             return csv_path, xml_path
         except Exception as e:
             logger.error(f"Transformer failed: {e}")

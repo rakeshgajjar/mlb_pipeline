@@ -16,16 +16,17 @@ def main():
     logger.info("Starting MLB Pipeline")
     
     scraper = MLBScraper()
-    json_path = scraper.run()
-    logger.info(f"Scraper completed. Output: {json_path}")
-    
-    transformer = DataTransformer(json_path)
-    csv_path, xml_path = transformer.run()
+    filepaths = scraper.run()
+    logger.info(f"Scraper completed. Outputs: {filepaths}")
     
     logger.info("Pipeline Execution Summary:")
-    logger.info(f"JSON: {json_path}")
-    logger.info(f"CSV:  {csv_path}")
-    logger.info(f"XML:  {xml_path}")
+    for name, json_path in filepaths.items():
+        if json_path:
+            transformer = DataTransformer(json_path)
+            csv_path, xml_path = transformer.run()
+            logger.info(f"[{name}] Extracted to CSV: {csv_path}")
+            if xml_path:
+                logger.info(f"[{name}] Extracted to XML: {xml_path}")
 
 if __name__ == "__main__":
     main()

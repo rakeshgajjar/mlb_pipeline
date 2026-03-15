@@ -1,0 +1,18 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+831459,S,2026,2026-03-14T16:05:00Z,Final,Miami Marlins,4,Washington Nationals,1,CACTI Park of the Palm Beaches
+831562,S,2026,2026-03-14T17:05:00Z,Final,Baltimore Orioles,6,Pittsburgh Pirates,8,LECOM Park
+831613,S,2026,2026-03-14T17:05:00Z,Final,Tampa Bay Rays,9,Minnesota Twins,6,Lee Health Sports Complex
+831514,S,2026,2026-03-14T17:05:00Z,Final,Philadelphia Phillies,6,New York Yankees,4,George M. Steinbrenner Field
+831614,S,2026,2026-03-14T17:07:00Z,Final,Detroit Tigers,6,Toronto Blue Jays,1,TD Ballpark
+831460,S,2026,2026-03-14T17:10:00Z,Final,St. Louis Cardinals,7,Miami Marlins,7,Roger Dean Chevrolet Stadium
+831850,S,2026,2026-03-14T20:05:00Z,Final,Kansas City Royals,1,Athletics,12,Hohokam Stadium
+831953,S,2026,2026-03-14T20:05:00Z,Final,Arizona Diamondbacks,8,San Francisco Giants,7,Scottsdale Stadium
+831728,S,2026,2026-03-14T20:05:00Z,Final,Texas Rangers,3,Cincinnati Reds,4,Goodyear Ballpark
+831770,S,2026,2026-03-14T20:05:00Z,Final,San Diego Padres,2,Texas Rangers,22,Surprise Stadium
+831809,S,2026,2026-03-14T20:05:00Z,Final,Los Angeles Dodgers,2,Chicago White Sox,7,Camelback Ranch
+831928,S,2026,2026-03-14T20:10:00Z,Final,Chicago Cubs,3,Colorado Rockies,4,Salt River Fields at Talking Stick
+831877,S,2026,2026-03-14T20:10:00Z,Final,Cleveland Guardians,5,San Diego Padres,8,Peoria Stadium
+831747,S,2026,2026-03-14T20:10:00Z,Final,Seattle Mariners,2,Los Angeles Angels,6,Tempe Diablo Stadium
+831860,S,2026,2026-03-14T20:10:00Z,Final,Colorado Rockies,4,Milwaukee Brewers,8,American Family Fields of Phoenix
+831508,S,2026,2026-03-14T22:05:00Z,Final,New York Mets,2,Houston Astros,8,CACTI Park of the Palm Beaches
+831566,S,2026,2026-03-14T22:05:00Z,Final,Boston Red Sox,1,Atlanta Braves,10,CoolToday Park
