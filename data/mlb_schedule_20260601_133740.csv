@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824832,R,2026,2026-05-31T16:15:00Z,Final,Toronto Blue Jays,5,Baltimore Orioles,9,Oriole Park at Camden Yards
+822729,R,2026,2026-05-31T17:35:00Z,Final,San Diego Padres,2,Washington Nationals,4,Nationals Park
+823373,R,2026,2026-05-31T17:35:00Z,Final,Minnesota Twins,3,Pittsburgh Pirates,9,PNC Park
+824430,R,2026,2026-05-31T17:40:00Z,Final,Boston Red Sox,9,Cleveland Guardians,4,Progressive Field
+822976,R,2026,2026-05-31T17:40:00Z,Final,Los Angeles Angels,2,Tampa Bay Rays,5,Tropicana Field
+824512,R,2026,2026-05-31T17:40:00Z,Final,Atlanta Braves,4,Cincinnati Reds,6,Great American Ball Park
+823621,R,2026,2026-05-31T17:40:00Z,Final,Miami Marlins,1,New York Mets,10,Citi Field
+824592,R,2026,2026-05-31T18:10:00Z,Final,Detroit Tigers,1,Chicago White Sox,2,Rate Field
+824187,R,2026,2026-05-31T18:10:00Z,Final,Milwaukee Brewers,2,Houston Astros,0,Daikin Park
+822895,R,2026,2026-05-31T18:35:00Z,Final,Kansas City Royals,3,Texas Rangers,6,Globe Life Field
+824354,R,2026,2026-05-31T19:10:00Z,Final,San Francisco Giants,19,Colorado Rockies,6,Coors Field
+825001,R,2026,2026-05-31T20:05:00Z,Final,New York Yankees,13,Athletics,8,Sutter Health Park
+823133,R,2026,2026-05-31T20:10:00Z,Final,Arizona Diamondbacks,2,Seattle Mariners,3,T-Mobile Park
+823944,R,2026,2026-05-31T20:10:00Z,Final,Philadelphia Phillies,1,Los Angeles Dodgers,9,UNIQLO Field at Dodger Stadium
+823053,R,2026,2026-05-31T23:20:00Z,Final,Chicago Cubs,1,St. Louis Cardinals,5,Busch Stadium
