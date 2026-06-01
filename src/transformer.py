@@ -1,28 +1,52 @@
-import csv
 import json
 import logging
 import os
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+from typing import List, Dict, Tuple, Optional
 import pandas as pd
 
-logger = logging.getLogger(__name__)
+logger: logging.Logger = logging.getLogger(__name__)
 
 class DataTransformer:
-    def __init__(self, json_filepath: str):
-        self.json_filepath = json_filepath
-        self.output_dir = os.path.dirname(json_filepath)
-        self.base_name = os.path.splitext(os.path.basename(json_filepath))[0]
+    """Transforms MLB JSON data into CSV and XML formats."""
+    
+    def __init__(self, json_filepath: str) -> None:
+        """Initialize transformer with a JSON file path.
+        
+        Args:
+            json_filepath: Path to the JSON file to transform
+        """
+        self.json_filepath: str = json_filepath
+        self.output_dir: str = os.path.dirname(json_filepath)
+        self.base_name: str = os.path.splitext(os.path.basename(json_filepath))[0]
 
-    def _load_json(self) -> dict:
+    def _load_json(self) -> Dict:
+        """Load and parse JSON file.
+        
+        Returns:
+            Parsed JSON data as dictionary
+            
+        Raises:
+            json.JSONDecodeError: If JSON is invalid
+            IOError: If file cannot be read
+        """
         try:
             with open(self.json_filepath, 'r', encoding='utf-8') as f:
                 return json.load(f)
         except Exception as e:
-            logger.error(f"Failed to load JSON: {e}")
+            logger.error(f"Failed to load JSON: {e}", exc_info=True)
             raise
 
-    def process_schedule(self, data: dict) -> list:
+    def process_schedule(self, data: Dict) -> List[Dict]:
+        """Extract schedule data from JSON into flat records.
+        
+        Args:
+            data: Raw JSON data with 'dates' and 'games' structure
+            
+        Returns:
+            List of dictionaries containing game information
+        """
         games_list = []
         for date_info in data.get('dates', []):
             date = date_info.get('date', 'Unknown')
@@ -42,7 +66,15 @@ class DataTransformer:
                 games_list.append(game_dict)
         return games_list
         
-    def process_standings(self, data: dict) -> list:
+    def process_standings(self, data: Dict) -> List[Dict]:
+        """Extract standings data from JSON into flat records.
+        
+        Args:
+            data: Raw JSON data with 'records' and 'teamRecords' structure
+            
+        Returns:
+            List of dictionaries containing team standings
+        """
         standings_list = []
         for record in data.get('records', []):
             league = record.get('league', {}).get('name', 'Unknown')
@@ -59,7 +91,15 @@ class DataTransformer:
                 standings_list.append(team_dict)
         return standings_list
         
-    def process_stats(self, data: dict) -> list:
+    def process_stats(self, data: Dict) -> List[Dict]:
+        """Extract player stats from JSON into flat records.
+        
+        Args:
+            data: Raw JSON data with 'stats' containing player statistics
+            
+        Returns:
+            List of dictionaries containing player statistics
+        """
         stats_list = []
         for stat_group in data.get('stats', []):
             for split in stat_group.get('splits', []):
@@ -77,6 +117,14 @@ class DataTransformer:
         return stats_list
 
     def to_csv(self) -> str:
+        """Transform JSON data to CSV format.
+        
+        Returns:
+            Path to the generated CSV file
+            
+        Raises:
+            ValueError: If data type cannot be determined or no records found
+        """
         data = self._load_json()
         
         if "schedule" in self.base_name or "test_data" in self.base_name:
@@ -100,7 +148,19 @@ class DataTransformer:
         return csv_path
 
     def to_xml(self) -> str:
+        """Transform schedule JSON data to XML format.
+        
+        Only supports schedule data type. Returns empty string for other types.
+        
+        Returns:
+            Path to the generated XML file, or empty string if not schedule data
+        """
         data = self._load_json()
+        
+        # Only generate XML for schedule data
+        if "schedule" not in self.base_name and "test_data" not in self.base_name:
+            logger.info(f"XML generation not supported for data type {self.base_name}")
+            return ""
         
         root = ET.Element("MLBSchedule")
         for date_info in data.get('dates', []):
@@ -137,7 +197,15 @@ class DataTransformer:
         logger.info(f"Generated XML output at {xml_path}")
         return xml_path
 
-    def run(self):
+    def run(self) -> Tuple[str, str]:
+        """Execute full transformation pipeline (JSON -> CSV -> XML if applicable).
+        
+        Returns:
+            Tuple of (csv_path, xml_path). xml_path is empty string if not generated.
+            
+        Raises:
+            Exception: If transformation fails
+        """
         try:
             csv_path = self.to_csv()
             xml_path = ""
@@ -145,5 +213,5 @@ class DataTransformer:
                 xml_path = self.to_xml()
             return csv_path, xml_path
         except Exception as e:
-            logger.error(f"Transformer failed: {e}")
+            logger.error(f"Transformer failed: {e}", exc_info=True)
             raise

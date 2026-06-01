@@ -23,7 +23,7 @@ This is a robust, production-ready data pipeline for Major League Baseball data 
 
 ## Running Locally
 
-### Using Python Map
+### Using Python venv
 1. Create a virtual environment and install dependencies:
    ```bash
    python -m venv venv
@@ -50,5 +50,17 @@ Ensure dev dependencies are installed (`pytest`), then run:
 pytest tests/
 ```
 
+## Architecture Notes
+- **Scraper** (`src/scraper.py`): Fetches MLB data from statsapi.mlb.com with retry logic
+- **Transformer** (`src/transformer.py`): Converts JSON to CSV (all data types) and XML (schedule only)
+- **Config** (`src/config.py`): Environment-based configuration with current year defaults
+- **Main** (`src/main.py`): Orchestrates scraper → transformer pipeline with error handling
+- **Dashboard** (`streamlit_app.py`): Interactive visualization of the latest loaded data
+
 ## Future State (Phase 2)
-Further steps will involve MariaDB insertion using an ORM like SQLAlchemy and setting up Terraform to persist runs.
+Further steps will involve:
+- MariaDB insertion using an ORM like SQLAlchemy
+- Terraform infrastructure setup to persist runs
+- Enhanced XML generation for non-schedule data types
+- Scheduled pipeline execution (via cron or workflow)
+- Data validation and quality checks

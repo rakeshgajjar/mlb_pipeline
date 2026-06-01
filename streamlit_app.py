@@ -2,30 +2,53 @@ import streamlit as st
 import pandas as pd
 import os
 import glob
+import logging
+from datetime import datetime
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 st.set_page_config(page_title="MLB Score & Stats Dashboard", layout="wide", page_icon="⚾")
 
 st.title("⚾ MLB Data Pipeline Dashboard")
 st.markdown("This dashboard automatically visualizes the latest data pulled by the MLB data pipeline.")
 
+
 @st.cache_data
-def load_latest_data(prefix: str):
+def load_latest_data(prefix: str) -> pd.DataFrame | None:
+    """Load the latest CSV file for a given data prefix.
+    
+    Args:
+        prefix: Data prefix to search for (e.g., 'schedule', 'standings')
+        
+    Returns:
+        DataFrame with loaded data, or None if not found or error occurred
+    """
     data_dir = "./data"
     if not os.path.exists(data_dir):
+        logger.warning(f"Data directory not found: {data_dir}")
         return None
     
     # Find all CSV files matching the prefix
     csv_files = glob.glob(os.path.join(data_dir, f"mlb_{prefix}_*.csv"))
     if not csv_files:
+        logger.info(f"No CSV files found for prefix: {prefix}")
         return None
         
     # Get the latest file based on modification time
     latest_file = max(csv_files, key=os.path.getmtime)
+    logger.info(f"Loading latest data from {latest_file}")
     
     try:
         df = pd.read_csv(latest_file)
+        logger.info(f"Successfully loaded {len(df)} records from {latest_file}")
         return df
     except Exception as e:
+        logger.error(f"Error loading {latest_file}: {e}", exc_info=True)
         st.error(f"Error loading {latest_file}: {e}")
         return None
 
