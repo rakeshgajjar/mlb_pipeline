@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+822971,R,2026,2026-06-02T22:40:00Z,Final,Detroit Tigers,8,Tampa Bay Rays,0,Tropicana Field
+823460,R,2026,2026-06-02T22:40:00Z,Final,San Diego Padres,2,Philadelphia Phillies,3,Citizens Bank Park
+824754,R,2026,2026-06-02T22:45:00Z,Final,Baltimore Orioles,4,Boston Red Sox,2,Fenway Park
+822728,R,2026,2026-06-02T22:45:00Z,Final,Miami Marlins,7,Washington Nationals,3,Nationals Park
+823541,R,2026,2026-06-02T23:05:00Z,Final,Cleveland Guardians,9,New York Yankees,4,Yankee Stadium
+824511,R,2026,2026-06-02T23:10:00Z,Final,Kansas City Royals,3,Cincinnati Reds,4,Great American Ball Park
+824918,R,2026,2026-06-02T23:15:00Z,Final,Toronto Blue Jays,3,Atlanta Braves,4,Truist Park
+823700,R,2026,2026-06-02T23:40:00Z,Final,Chicago White Sox,4,Minnesota Twins,6,Target Field
+823782,R,2026,2026-06-02T23:40:00Z,Final,San Francisco Giants,3,Milwaukee Brewers,8,American Family Field
+823052,R,2026,2026-06-02T23:45:00Z,Final,Texas Rangers,7,St. Louis Cardinals,4,Busch Stadium
+824675,R,2026,2026-06-03T00:05:00Z,Final,Athletics,2,Chicago Cubs,1,Wrigley Field
+824189,R,2026,2026-06-03T00:10:00Z,Final,Pittsburgh Pirates,10,Houston Astros,6,Daikin Park
+824026,R,2026,2026-06-03T01:38:00Z,Final,Colorado Rockies,8,Los Angeles Angels,2,Angel Stadium
+825079,R,2026,2026-06-03T01:40:00Z,Final,Los Angeles Dodgers,6,Arizona Diamondbacks,5,Chase Field
+823129,R,2026,2026-06-03T01:40:00Z,Final,New York Mets,3,Seattle Mariners,8,T-Mobile Park
