@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824269,R,2026,2026-06-06T17:10:00Z,Final,Seattle Mariners,4.0,Detroit Tigers,0.0,Comerica Park
+823697,R,2026,2026-06-06T18:10:00Z,Final,Kansas City Royals,3.0,Minnesota Twins,2.0,Target Field
+823048,R,2026,2026-06-06T18:15:00Z,Final,Cincinnati Reds,5.0,St. Louis Cardinals,6.0,Busch Stadium
+824669,R,2026,2026-06-06T18:20:00Z,Final,San Francisco Giants,2.0,Chicago Cubs,3.0,Wrigley Field
+822808,R,2026,2026-06-06T19:07:00Z,Final,Baltimore Orioles,4.0,Toronto Blue Jays,6.0,Rogers Centre
+823454,R,2026,2026-06-06T20:05:00Z,Final,Chicago White Sox,6.0,Philadelphia Phillies,3.0,Citizens Bank Park
+825075,R,2026,2026-06-06T20:10:00Z,Final,Washington Nationals,6.0,Arizona Diamondbacks,1.0,Chase Field
+824184,R,2026,2026-06-06T20:10:00Z,Final,Athletics,2.0,Houston Astros,13.0,Daikin Park
+824915,R,2026,2026-06-06T20:10:00Z,Final,Pittsburgh Pirates,3.0,Atlanta Braves,6.0,Truist Park
+823859,R,2026,2026-06-06T20:10:00Z,Final,Tampa Bay Rays,3.0,Miami Marlins,4.0,loanDepot park
+822891,R,2026,2026-06-06T23:35:00Z,Final,Cleveland Guardians,6.0,Texas Rangers,0.0,Globe Life Field
+824351,R,2026,2026-06-07T01:10:00Z,Final,Milwaukee Brewers,7.0,Colorado Rockies,1.0,Coors Field
+823942,R,2026,2026-06-07T02:10:00Z,Final,Los Angeles Angels,2.0,Los Angeles Dodgers,9.0,UNIQLO Field at Dodger Stadium
+823292,R,2026,2026-06-07T02:10:00Z,Final,New York Mets,2.0,San Diego Padres,3.0,Petco Park
+823539,R,2026,2026-06-06T23:35:00Z,Postponed,Boston Red Sox,,New York Yankees,,Yankee Stadium
