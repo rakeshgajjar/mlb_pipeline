@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+822970,R,2026,2026-06-10T17:10:00Z,Final,Boston Red Sox,5,Tampa Bay Rays,7,Tropicana Field
+824428,R,2026,2026-06-10T17:10:00Z,Final,New York Yankees,8,Cleveland Guardians,4,Progressive Field
+823215,R,2026,2026-06-10T19:45:00Z,Final,Washington Nationals,10,San Francisco Giants,11,Oracle Park
+823287,R,2026,2026-06-10T20:10:00Z,Final,Cincinnati Reds,4,San Diego Padres,5,Petco Park
+824831,R,2026,2026-06-10T22:35:00Z,Final,Seattle Mariners,2,Baltimore Orioles,7,Oriole Park at Camden Yards
+823372,R,2026,2026-06-10T22:40:00Z,Final,Los Angeles Dodgers,8,Pittsburgh Pirates,9,PNC Park
+824266,R,2026,2026-06-10T22:40:00Z,Final,Minnesota Twins,6,Detroit Tigers,4,Comerica Park
+823856,R,2026,2026-06-10T22:40:00Z,Final,Arizona Diamondbacks,0,Miami Marlins,8,loanDepot park
+822804,R,2026,2026-06-10T23:07:00Z,Final,Philadelphia Phillies,7,Toronto Blue Jays,4,Rogers Centre
+823618,R,2026,2026-06-10T23:10:00Z,Final,St. Louis Cardinals,9,New York Mets,2,Citi Field
+824103,R,2026,2026-06-10T23:40:00Z,Final,Texas Rangers,6,Kansas City Royals,4,Kauffman Stadium
+824590,R,2026,2026-06-10T23:40:00Z,Final,Atlanta Braves,1,Chicago White Sox,2,Rate Field
+824348,R,2026,2026-06-11T00:40:00Z,Final,Chicago Cubs,2,Colorado Rockies,3,Coors Field
+824996,R,2026,2026-06-11T01:05:00Z,Final,Milwaukee Brewers,3,Athletics,4,Las Vegas Ballpark
+824022,R,2026,2026-06-11T01:38:00Z,Final,Houston Astros,2,Los Angeles Angels,3,Angel Stadium
