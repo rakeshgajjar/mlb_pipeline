@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823694,R,2026,2026-06-13T18:10:00Z,Final,St. Louis Cardinals,9,Minnesota Twins,6,Target Field
+822802,R,2026,2026-06-13T19:07:00Z,Final,New York Yankees,3,Toronto Blue Jays,1,Rogers Centre
+824828,R,2026,2026-06-13T20:05:00Z,Final,San Diego Padres,9,Baltimore Orioles,3,Oriole Park at Camden Yards
+822725,R,2026,2026-06-13T20:05:00Z,Final,Seattle Mariners,3,Washington Nationals,8,Nationals Park
+823369,R,2026,2026-06-13T20:05:00Z,Final,Miami Marlins,2,Pittsburgh Pirates,3,PNC Park
+824508,R,2026,2026-06-13T20:10:00Z,Final,Arizona Diamondbacks,1,Cincinnati Reds,2,Great American Ball Park
+824426,R,2026,2026-06-13T20:10:00Z,Final,Detroit Tigers,1,Cleveland Guardians,3,Progressive Field
+824749,R,2026,2026-06-13T20:10:00Z,Final,Texas Rangers,3,Boston Red Sox,6,Fenway Park
+823616,R,2026,2026-06-13T20:10:00Z,Final,Atlanta Braves,3,New York Mets,1,Citi Field
+824587,R,2026,2026-06-13T20:10:00Z,Final,Los Angeles Dodgers,7,Chicago White Sox,1,Rate Field
+824100,R,2026,2026-06-13T23:10:00Z,Final,Houston Astros,8,Kansas City Royals,7,Kauffman Stadium
+823776,R,2026,2026-06-13T23:10:00Z,Final,Philadelphia Phillies,9,Milwaukee Brewers,8,American Family Field
+824995,R,2026,2026-06-14T02:05:00Z,Final,Colorado Rockies,5,Athletics,7,Las Vegas Ballpark
+823213,R,2026,2026-06-14T02:05:00Z,Final,Chicago Cubs,6,San Francisco Giants,1,Oracle Park
+824019,R,2026,2026-06-14T02:07:00Z,Final,Tampa Bay Rays,0,Los Angeles Angels,8,Angel Stadium
