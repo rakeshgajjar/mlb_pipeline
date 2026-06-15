@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823368,R,2026,2026-06-14T16:15:00Z,Final,Miami Marlins,4.0,Pittsburgh Pirates,2.0,PNC Park
+824823,R,2026,2026-06-14T17:35:00Z,Final,San Diego Padres,5.0,Baltimore Orioles,2.0,Oriole Park at Camden Yards
+822722,R,2026,2026-06-14T17:35:00Z,Final,Seattle Mariners,1.0,Washington Nationals,10.0,Nationals Park
+822801,R,2026,2026-06-14T17:37:00Z,Final,New York Yankees,8.0,Toronto Blue Jays,3.0,Rogers Centre
+824506,R,2026,2026-06-14T17:40:00Z,Final,Arizona Diamondbacks,5.0,Cincinnati Reds,3.0,Great American Ball Park
+823615,R,2026,2026-06-14T17:40:00Z,Final,Atlanta Braves,1.0,New York Mets,8.0,Citi Field
+824099,R,2026,2026-06-14T18:10:00Z,Final,Houston Astros,0.0,Kansas City Royals,4.0,Kauffman Stadium
+823693,R,2026,2026-06-14T18:10:00Z,Final,St. Louis Cardinals,4.0,Minnesota Twins,5.0,Target Field
+824586,R,2026,2026-06-14T18:10:00Z,Final,Los Angeles Dodgers,4.0,Chicago White Sox,6.0,Rate Field
+823777,R,2026,2026-06-14T18:10:00Z,Final,Philadelphia Phillies,0.0,Milwaukee Brewers,4.0,American Family Field
+824994,R,2026,2026-06-14T19:05:00Z,Final,Colorado Rockies,23.0,Athletics,9.0,Las Vegas Ballpark
+823212,R,2026,2026-06-14T19:10:00Z,Final,Chicago Cubs,1.0,San Francisco Giants,5.0,Oracle Park
+824021,R,2026,2026-06-14T20:07:00Z,Final,Tampa Bay Rays,8.0,Los Angeles Angels,3.0,Angel Stadium
+824751,R,2026,2026-06-14T23:20:00Z,Final,Texas Rangers,6.0,Boston Red Sox,4.0,Fenway Park
+824424,R,2026,2026-06-14T17:40:00Z,Postponed,Detroit Tigers,,Cleveland Guardians,,Progressive Field
