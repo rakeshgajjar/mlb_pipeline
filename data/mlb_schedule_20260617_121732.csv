@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823451,R,2026,2026-06-16T22:40:00Z,Final,Miami Marlins,2.0,Philadelphia Phillies,8.0,Citizens Bank Park
+822723,R,2026,2026-06-16T22:45:00Z,Final,Kansas City Royals,4.0,Washington Nationals,6.0,Nationals Park
+824750,R,2026,2026-06-16T22:45:00Z,Final,Toronto Blue Jays,6.0,Boston Red Sox,1.0,Fenway Park
+823535,R,2026,2026-06-16T23:05:00Z,Final,Chicago White Sox,2.0,New York Yankees,12.0,Yankee Stadium
+824504,R,2026,2026-06-16T23:10:00Z,Final,New York Mets,3.0,Cincinnati Reds,5.0,Great American Ball Park
+824912,R,2026,2026-06-16T23:15:00Z,Suspended,San Francisco Giants,,Atlanta Braves,,Truist Park
+823775,R,2026,2026-06-16T23:40:00Z,Final,Cleveland Guardians,1.0,Milwaukee Brewers,2.0,American Family Field
+823045,R,2026,2026-06-16T23:45:00Z,Final,San Diego Padres,2.0,St. Louis Cardinals,3.0,Busch Stadium
+824667,R,2026,2026-06-17T00:05:00Z,Final,Colorado Rockies,5.0,Chicago Cubs,2.0,Wrigley Field
+822888,R,2026,2026-06-17T00:05:00Z,Final,Minnesota Twins,12.0,Texas Rangers,2.0,Globe Life Field
+824182,R,2026,2026-06-17T00:10:00Z,Final,Detroit Tigers,2.0,Houston Astros,4.0,Daikin Park
+825070,R,2026,2026-06-17T01:40:00Z,Final,Los Angeles Angels,7.0,Arizona Diamondbacks,0.0,Chase Field
+824991,R,2026,2026-06-17T01:40:00Z,Final,Pittsburgh Pirates,6.0,Athletics,5.0,Sutter Health Park
+823128,R,2026,2026-06-17T01:40:00Z,Final,Baltimore Orioles,1.0,Seattle Mariners,3.0,T-Mobile Park
+823939,R,2026,2026-06-17T02:10:00Z,Final,Tampa Bay Rays,0.0,Los Angeles Dodgers,1.0,UNIQLO Field at Dodger Stadium
