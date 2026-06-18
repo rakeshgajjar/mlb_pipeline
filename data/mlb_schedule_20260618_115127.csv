@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824503,R,2026,2026-06-17T16:40:00Z,Final,New York Mets,9,Cincinnati Reds,1,Great American Ball Park
+822721,R,2026,2026-06-17T17:05:00Z,Final,Kansas City Royals,6,Washington Nationals,2,Nationals Park
+823450,R,2026,2026-06-17T17:05:00Z,Final,Miami Marlins,12,Philadelphia Phillies,4,Citizens Bank Park
+824912,R,2026,2026-06-17T18:00:00Z,Final,San Francisco Giants,7,Atlanta Braves,2,Truist Park
+824178,R,2026,2026-06-17T18:10:00Z,Final,Detroit Tigers,2,Houston Astros,4,Daikin Park
+823044,R,2026,2026-06-17T18:15:00Z,Final,San Diego Padres,6,St. Louis Cardinals,1,Busch Stadium
+823940,R,2026,2026-06-17T19:10:00Z,Final,Tampa Bay Rays,4,Los Angeles Dodgers,5,UNIQLO Field at Dodger Stadium
+825072,R,2026,2026-06-17T19:40:00Z,Final,Los Angeles Angels,1,Arizona Diamondbacks,8,Chase Field
+824746,R,2026,2026-06-17T22:45:00Z,Final,Toronto Blue Jays,3,Boston Red Sox,0,Fenway Park
+823536,R,2026,2026-06-17T23:05:00Z,Final,Chicago White Sox,5,New York Yankees,10,Yankee Stadium
+824913,R,2026,2026-06-17T23:15:00Z,Final,San Francisco Giants,7,Atlanta Braves,5,Truist Park
+823774,R,2026,2026-06-17T23:40:00Z,Final,Cleveland Guardians,4,Milwaukee Brewers,9,American Family Field
+824668,R,2026,2026-06-18T00:05:00Z,Final,Colorado Rockies,6,Chicago Cubs,8,Wrigley Field
+824992,R,2026,2026-06-18T01:40:00Z,Final,Pittsburgh Pirates,12,Athletics,4,Sutter Health Park
+823127,R,2026,2026-06-18T01:40:00Z,Final,Baltimore Orioles,5,Seattle Mariners,3,T-Mobile Park
