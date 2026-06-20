@@ -1,0 +1,15 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824663,R,2026,2026-06-19T18:20:00Z,Final,Toronto Blue Jays,2,Chicago Cubs,16,Wrigley Field
+824264,R,2026,2026-06-19T22:40:00Z,Final,Chicago White Sox,3,Detroit Tigers,4,Comerica Park
+823534,R,2026,2026-06-19T23:05:00Z,Final,Cincinnati Reds,0,New York Yankees,5,Yankee Stadium
+822966,R,2026,2026-06-19T23:10:00Z,Final,Washington Nationals,2,Tampa Bay Rays,5,Tropicana Field
+823853,R,2026,2026-06-19T23:10:00Z,Final,San Francisco Giants,3,Miami Marlins,4,loanDepot park
+824910,R,2026,2026-06-19T23:15:00Z,Final,Milwaukee Brewers,2,Atlanta Braves,3,Truist Park
+822886,R,2026,2026-06-20T00:05:00Z,Final,San Diego Padres,7,Texas Rangers,9,Globe Life Field
+824179,R,2026,2026-06-20T00:10:00Z,Final,Cleveland Guardians,3,Houston Astros,9,Daikin Park
+824097,R,2026,2026-06-20T00:15:00Z,Final,St. Louis Cardinals,5,Kansas City Royals,6,Kauffman Stadium
+824345,R,2026,2026-06-20T00:40:00Z,Final,Pittsburgh Pirates,3,Colorado Rockies,4,Coors Field
+824990,R,2026,2026-06-20T01:40:00Z,Final,Los Angeles Angels,11,Athletics,12,Sutter Health Park
+825069,R,2026,2026-06-20T01:45:00Z,Final,Minnesota Twins,5,Arizona Diamondbacks,9,Chase Field
+823936,R,2026,2026-06-20T02:10:00Z,Final,Baltimore Orioles,5,Los Angeles Dodgers,6,UNIQLO Field at Dodger Stadium
+823124,R,2026,2026-06-20T02:10:00Z,Final,Boston Red Sox,6,Seattle Mariners,2,T-Mobile Park
