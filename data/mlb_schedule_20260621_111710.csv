@@ -1,0 +1,15 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824263,R,2026,2026-06-20T17:10:00Z,Final,Chicago White Sox,1,Detroit Tigers,4,Comerica Park
+823532,R,2026,2026-06-20T17:35:00Z,Final,Cincinnati Reds,10,New York Yankees,2,Yankee Stadium
+824665,R,2026,2026-06-20T18:20:00Z,Final,Toronto Blue Jays,8,Chicago Cubs,6,Wrigley Field
+822885,R,2026,2026-06-20T20:05:00Z,Final,San Diego Padres,6,Texas Rangers,4,Globe Life Field
+822967,R,2026,2026-06-20T20:10:00Z,Final,Washington Nationals,4,Tampa Bay Rays,3,Tropicana Field
+823854,R,2026,2026-06-20T20:10:00Z,Final,San Francisco Giants,3,Miami Marlins,6,loanDepot park
+824909,R,2026,2026-06-20T20:10:00Z,Final,Milwaukee Brewers,3,Atlanta Braves,4,Truist Park
+824180,R,2026,2026-06-20T23:15:00Z,Final,Cleveland Guardians,8,Houston Astros,1,Daikin Park
+823447,R,2026,2026-06-20T23:15:00Z,Final,New York Mets,3,Philadelphia Phillies,15,Citizens Bank Park
+824342,R,2026,2026-06-21T01:10:00Z,Final,Pittsburgh Pirates,1,Colorado Rockies,2,Coors Field
+824988,R,2026,2026-06-21T02:05:00Z,Final,Los Angeles Angels,7,Athletics,0,Sutter Health Park
+823937,R,2026,2026-06-21T02:10:00Z,Final,Baltimore Orioles,3,Los Angeles Dodgers,2,UNIQLO Field at Dodger Stadium
+823126,R,2026,2026-06-21T02:10:00Z,Final,Boston Red Sox,5,Seattle Mariners,1,T-Mobile Park
+825068,R,2026,2026-06-21T02:10:00Z,Final,Minnesota Twins,16,Arizona Diamondbacks,8,Chase Field
