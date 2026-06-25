@@ -1,0 +1,17 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823850,R,2026,2026-06-24T16:10:00Z,Final,Texas Rangers,2,Miami Marlins,4,loanDepot park
+823613,R,2026,2026-06-24T17:10:00Z,Final,Chicago Cubs,10,New York Mets,3,Citi Field
+823611,R,2026,2026-06-24T23:10:00Z,Final,Chicago Cubs,10,New York Mets,5,Citi Field
+824583,R,2026,2026-06-24T18:10:00Z,Final,Cleveland Guardians,4,Chicago White Sox,3,Rate Field
+824341,R,2026,2026-06-24T19:10:00Z,Final,Boston Red Sox,6,Colorado Rockies,8,Coors Field
+824018,R,2026,2026-06-24T20:07:00Z,Final,Baltimore Orioles,6,Los Angeles Angels,7,Angel Stadium
+823367,R,2026,2026-06-24T22:40:00Z,Final,Seattle Mariners,1,Pittsburgh Pirates,11,PNC Park
+822965,R,2026,2026-06-24T22:40:00Z,Final,Kansas City Royals,3,Tampa Bay Rays,5,Tropicana Field
+824259,R,2026,2026-06-24T22:40:00Z,Final,New York Yankees,4,Detroit Tigers,2,Comerica Park
+822719,R,2026,2026-06-24T22:45:00Z,Final,Philadelphia Phillies,5,Washington Nationals,4,Nationals Park
+822798,R,2026,2026-06-24T23:07:00Z,Final,Houston Astros,3,Toronto Blue Jays,1,Rogers Centre
+824500,R,2026,2026-06-24T23:10:00Z,Final,Milwaukee Brewers,6,Cincinnati Reds,5,Great American Ball Park
+823691,R,2026,2026-06-24T23:40:00Z,Final,Los Angeles Dodgers,4,Minnesota Twins,3,Target Field
+823041,R,2026,2026-06-24T23:45:00Z,Final,Arizona Diamondbacks,9,St. Louis Cardinals,4,Busch Stadium
+823284,R,2026,2026-06-25T00:40:00Z,Final,Atlanta Braves,2,San Diego Padres,5,Petco Park
+823208,R,2026,2026-06-25T01:45:00Z,Final,Athletics,1,San Francisco Giants,2,Oracle Park
