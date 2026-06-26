@@ -1,0 +1,10 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+822961,R,2026,2026-06-25T16:10:00Z,Final,Kansas City Royals,2.0,Tampa Bay Rays,13.0,Tropicana Field
+823366,R,2026,2026-06-25T16:35:00Z,Final,Seattle Mariners,1.0,Pittsburgh Pirates,5.0,PNC Park
+823209,R,2026,2026-06-25T19:45:00Z,Final,Athletics,9.0,San Francisco Giants,6.0,Oracle Park
+824258,R,2026,2026-06-25T22:40:00Z,Final,Houston Astros,2.0,Detroit Tigers,1.0,Comerica Park
+822717,R,2026,2026-06-25T22:45:00Z,Final,Philadelphia Phillies,10.0,Washington Nationals,5.0,Nationals Park
+822797,R,2026,2026-06-25T23:07:00Z,Final,Texas Rangers,6.0,Toronto Blue Jays,5.0,Rogers Centre
+823612,R,2026,2026-06-25T23:10:00Z,Final,Chicago Cubs,4.0,New York Mets,3.0,Citi Field
+824747,R,2026,2026-06-25T23:10:00Z,Final,New York Yankees,3.0,Boston Red Sox,6.0,Fenway Park
+823042,R,2026,2026-06-25T23:45:00Z,Postponed,Arizona Diamondbacks,,St. Louis Cardinals,,Busch Stadium
