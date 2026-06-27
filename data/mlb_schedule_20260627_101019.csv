@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824255,R,2026,2026-06-26T22:40:00Z,Final,Houston Astros,0,Detroit Tigers,8,Comerica Park
+823363,R,2026,2026-06-26T22:40:00Z,Final,Cincinnati Reds,6,Pittsburgh Pirates,4,PNC Park
+824824,R,2026,2026-06-26T23:05:00Z,Final,Washington Nationals,1,Baltimore Orioles,3,Oriole Park at Camden Yards
+822796,R,2026,2026-06-26T23:07:00Z,Final,Texas Rangers,5,Toronto Blue Jays,4,Rogers Centre
+824423,R,2026,2026-06-26T23:10:00Z,Final,Seattle Mariners,3,Cleveland Guardians,1,Progressive Field
+822962,R,2026,2026-06-26T23:10:00Z,Final,Arizona Diamondbacks,1,Tampa Bay Rays,6,Tropicana Field
+823610,R,2026,2026-06-26T23:10:00Z,Final,Philadelphia Phillies,2,New York Mets,1,Citi Field
+824743,R,2026,2026-06-26T23:10:00Z,Final,New York Yankees,1,Boston Red Sox,6,Fenway Park
+824582,R,2026,2026-06-26T23:40:00Z,Final,Kansas City Royals,1,Chicago White Sox,22,Rate Field
+823773,R,2026,2026-06-26T23:45:00Z,Final,Chicago Cubs,2,Milwaukee Brewers,6,American Family Field
+823688,R,2026,2026-06-27T00:10:00Z,Final,Colorado Rockies,8,Minnesota Twins,9,Target Field
+823039,R,2026,2026-06-27T00:15:00Z,Final,Miami Marlins,4,St. Louis Cardinals,0,Busch Stadium
+824014,R,2026,2026-06-27T01:38:00Z,Final,Athletics,9,Los Angeles Angels,3,Angel Stadium
+823285,R,2026,2026-06-27T01:45:00Z,Final,Los Angeles Dodgers,1,San Diego Padres,7,Petco Park
+823206,R,2026,2026-06-27T02:15:00Z,Final,Atlanta Braves,3,San Francisco Giants,1,Oracle Park
