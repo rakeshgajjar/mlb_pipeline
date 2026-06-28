@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824257,R,2026,2026-06-27T17:10:00Z,Final,Houston Astros,8,Detroit Tigers,6,Comerica Park
+824745,R,2026,2026-06-27T17:10:00Z,Final,New York Yankees,1,Boston Red Sox,4,Fenway Park
+822794,R,2026,2026-06-27T19:07:00Z,Final,Texas Rangers,7,Toronto Blue Jays,4,Rogers Centre
+823364,R,2026,2026-06-27T20:05:00Z,Final,Cincinnati Reds,9,Pittsburgh Pirates,7,PNC Park
+823609,R,2026,2026-06-27T20:10:00Z,Final,Philadelphia Phillies,2,New York Mets,6,Citi Field
+824581,R,2026,2026-06-27T20:10:00Z,Final,Kansas City Royals,1,Chicago White Sox,2,Rate Field
+822960,R,2026,2026-06-27T22:10:00Z,Final,Arizona Diamondbacks,2,Tampa Bay Rays,4,Tropicana Field
+824825,R,2026,2026-06-27T23:05:00Z,Final,Washington Nationals,4,Baltimore Orioles,3,Oriole Park at Camden Yards
+824421,R,2026,2026-06-27T23:10:00Z,Final,Seattle Mariners,3,Cleveland Guardians,4,Progressive Field
+823689,R,2026,2026-06-27T23:10:00Z,Final,Colorado Rockies,8,Minnesota Twins,5,Target Field
+823770,R,2026,2026-06-27T23:10:00Z,Final,Chicago Cubs,8,Milwaukee Brewers,2,American Family Field
+823038,R,2026,2026-06-27T23:15:00Z,Final,Miami Marlins,5,St. Louis Cardinals,1,Busch Stadium
+823283,R,2026,2026-06-28T00:40:00Z,Final,Los Angeles Dodgers,15,San Diego Padres,3,Petco Park
+823207,R,2026,2026-06-28T01:05:00Z,Final,Atlanta Braves,0,San Francisco Giants,5,Oracle Park
+824015,R,2026,2026-06-28T01:38:00Z,Final,Athletics,2,Los Angeles Angels,5,Angel Stadium
