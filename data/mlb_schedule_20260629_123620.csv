@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824821,R,2026,2026-06-28T17:35:00Z,Final,Washington Nationals,6,Baltimore Orioles,4,Oriole Park at Camden Yards
+823362,R,2026,2026-06-28T17:35:00Z,Final,Cincinnati Reds,4,Pittsburgh Pirates,9,PNC Park
+822795,R,2026,2026-06-28T17:37:00Z,Final,Texas Rangers,3,Toronto Blue Jays,2,Rogers Centre
+824256,R,2026,2026-06-28T17:40:00Z,Final,Houston Astros,7,Detroit Tigers,5,Comerica Park
+824422,R,2026,2026-06-28T17:40:00Z,Final,Seattle Mariners,5,Cleveland Guardians,6,Progressive Field
+822959,R,2026,2026-06-28T17:40:00Z,Final,Arizona Diamondbacks,1,Tampa Bay Rays,5,Tropicana Field
+823608,R,2026,2026-06-28T17:40:00Z,Final,Philadelphia Phillies,5,New York Mets,4,Citi Field
+823686,R,2026,2026-06-28T18:10:00Z,Final,Colorado Rockies,2,Minnesota Twins,3,Target Field
+824580,R,2026,2026-06-28T18:10:00Z,Final,Kansas City Royals,5,Chicago White Sox,4,Rate Field
+823769,R,2026,2026-06-28T18:10:00Z,Final,Chicago Cubs,4,Milwaukee Brewers,3,American Family Field
+823037,R,2026,2026-06-28T18:15:00Z,Final,Miami Marlins,1,St. Louis Cardinals,2,Busch Stadium
+824011,R,2026,2026-06-28T19:15:00Z,Final,Athletics,1,Los Angeles Angels,4,Angel Stadium
+823204,R,2026,2026-06-28T20:05:00Z,Final,Atlanta Braves,2,San Francisco Giants,3,Oracle Park
+823281,R,2026,2026-06-28T20:10:00Z,Final,Los Angeles Dodgers,4,San Diego Padres,2,Petco Park
+824744,R,2026,2026-06-28T23:20:00Z,Final,New York Yankees,4,Boston Red Sox,5,Fenway Park
