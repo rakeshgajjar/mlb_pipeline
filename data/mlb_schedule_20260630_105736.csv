@@ -1,0 +1,14 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824822,R,2026,2026-06-29T22:35:00Z,Final,Chicago White Sox,8,Baltimore Orioles,2,Oriole Park at Camden Yards
+823444,R,2026,2026-06-29T22:40:00Z,Final,Pittsburgh Pirates,11,Philadelphia Phillies,7,Citizens Bank Park
+823529,R,2026,2026-06-29T23:05:00Z,Final,Detroit Tigers,7,New York Yankees,3,Yankee Stadium
+822792,R,2026,2026-06-29T23:07:00Z,Final,New York Mets,1,Toronto Blue Jays,2,Rogers Centre
+824741,R,2026,2026-06-29T23:10:00Z,Final,Washington Nationals,3,Boston Red Sox,6,Fenway Park
+824420,R,2026,2026-06-29T23:10:00Z,Final,Texas Rangers,6,Cleveland Guardians,3,Progressive Field
+823771,R,2026,2026-06-29T23:40:00Z,Final,Cincinnati Reds,3,Milwaukee Brewers,5,American Family Field
+824662,R,2026,2026-06-30T00:05:00Z,Final,San Diego Padres,2,Chicago Cubs,3,Wrigley Field
+824176,R,2026,2026-06-30T00:10:00Z,Final,Minnesota Twins,5,Houston Astros,4,Daikin Park
+824339,R,2026,2026-06-30T00:40:00Z,Final,Miami Marlins,10,Colorado Rockies,7,Coors Field
+824986,R,2026,2026-06-30T01:40:00Z,Final,Los Angeles Dodgers,9,Athletics,4,Sutter Health Park
+823121,R,2026,2026-06-30T01:40:00Z,Final,Los Angeles Angels,2,Seattle Mariners,6,T-Mobile Park
+825065,R,2026,2026-06-30T01:40:00Z,Final,San Francisco Giants,4,Arizona Diamondbacks,5,Chase Field
