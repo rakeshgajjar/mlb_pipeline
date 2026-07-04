@@ -1,0 +1,14 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824659,R,2026,2026-07-03T20:05:00Z,Final,St. Louis Cardinals,17,Chicago Cubs,1,Wrigley Field
+822714,R,2026,2026-07-03T22:45:00Z,Final,Pittsburgh Pirates,5,Washington Nationals,9,Nationals Park
+823527,R,2026,2026-07-03T23:05:00Z,Final,Minnesota Twins,2,New York Yankees,5,Yankee Stadium
+824498,R,2026,2026-07-03T23:10:00Z,Final,Baltimore Orioles,3,Cincinnati Reds,0,Great American Ball Park
+824417,R,2026,2026-07-03T23:10:00Z,Final,Chicago White Sox,3,Cleveland Guardians,4,Progressive Field
+824904,R,2026,2026-07-03T23:15:00Z,Final,New York Mets,3,Atlanta Braves,5,Truist Park
+824336,R,2026,2026-07-04T00:10:00Z,Final,San Francisco Giants,3,Colorado Rockies,15,Coors Field
+824173,R,2026,2026-07-04T00:15:00Z,Final,Tampa Bay Rays,3,Houston Astros,1,Daikin Park
+824013,R,2026,2026-07-04T01:38:00Z,Final,Boston Red Sox,5,Los Angeles Angels,2,Angel Stadium
+824982,R,2026,2026-07-04T01:40:00Z,Final,Miami Marlins,12,Athletics,5,Sutter Health Park
+825062,R,2026,2026-07-04T01:45:00Z,Final,Milwaukee Brewers,7,Arizona Diamondbacks,4,Chase Field
+823933,R,2026,2026-07-04T02:10:00Z,Final,San Diego Padres,3,Los Angeles Dodgers,4,UNIQLO Field at Dodger Stadium
+823120,R,2026,2026-07-04T02:10:00Z,Final,Toronto Blue Jays,2,Seattle Mariners,0,T-Mobile Park
