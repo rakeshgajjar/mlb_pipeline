@@ -1,0 +1,9 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824089,R,2026,2026-07-06T18:10:00Z,Final,Philadelphia Phillies,1,Kansas City Royals,15,Kauffman Stadium
+822958,R,2026,2026-07-06T22:40:00Z,Final,New York Yankees,5,Tampa Bay Rays,1,Tropicana Field
+822712,R,2026,2026-07-06T22:45:00Z,Final,Houston Astros,11,Washington Nationals,12,Nationals Park
+824900,R,2026,2026-07-06T23:15:00Z,Final,New York Mets,7,Atlanta Braves,6,Truist Park
+823036,R,2026,2026-07-06T23:45:00Z,Final,Milwaukee Brewers,4,St. Louis Cardinals,3,Busch Stadium
+823282,R,2026,2026-07-07T01:40:00Z,Final,Arizona Diamondbacks,8,San Diego Padres,0,Petco Park
+823205,R,2026,2026-07-07T01:45:00Z,Final,Toronto Blue Jays,1,San Francisco Giants,10,Oracle Park
+823930,R,2026,2026-07-07T02:10:00Z,Final,Colorado Rockies,7,Los Angeles Dodgers,8,UNIQLO Field at Dodger Stadium
