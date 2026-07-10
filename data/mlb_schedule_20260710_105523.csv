@@ -1,0 +1,14 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823359,R,2026,2026-07-09T16:35:00Z,Final,Atlanta Braves,10,Pittsburgh Pirates,5,PNC Park
+823606,R,2026,2026-07-09T17:10:00Z,Final,Kansas City Royals,3,New York Mets,7,Citi Field
+822954,R,2026,2026-07-09T17:10:00Z,Final,New York Yankees,12,Tampa Bay Rays,4,Tropicana Field
+824816,R,2026,2026-07-09T17:35:00Z,Final,Chicago Cubs,2,Baltimore Orioles,3,Oriole Park at Camden Yards
+823683,R,2026,2026-07-09T17:40:00Z,Final,Cleveland Guardians,5,Minnesota Twins,2,Target Field
+824577,R,2026,2026-07-09T18:10:00Z,Final,Boston Red Sox,2,Chicago White Sox,1,Rate Field
+824251,R,2026,2026-07-09T22:40:00Z,Final,Athletics,1,Detroit Tigers,4,Comerica Park
+823846,R,2026,2026-07-09T22:40:00Z,Final,Seattle Mariners,4,Miami Marlins,8,loanDepot park
+824494,R,2026,2026-07-09T23:10:00Z,Final,Philadelphia Phillies,1,Cincinnati Reds,0,Great American Ball Park
+823034,R,2026,2026-07-09T23:45:00Z,Final,Milwaukee Brewers,8,St. Louis Cardinals,4,Busch Stadium
+822877,R,2026,2026-07-10T00:05:00Z,Final,Los Angeles Angels,6,Texas Rangers,7,Globe Life Field
+823277,R,2026,2026-07-10T01:40:00Z,Final,Arizona Diamondbacks,3,San Diego Padres,1,Petco Park
+823201,R,2026,2026-07-10T01:45:00Z,Final,Colorado Rockies,2,San Francisco Giants,8,Oracle Park
