@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824252,R,2026,2026-07-10T22:40:00Z,Final,Philadelphia Phillies,2.0,Detroit Tigers,10.0,Comerica Park
+822709,R,2026,2026-07-10T22:45:00Z,Final,New York Yankees,5.0,Washington Nationals,3.0,Nationals Park
+824817,R,2026,2026-07-10T23:05:00Z,Final,Kansas City Royals,3.0,Baltimore Orioles,5.0,Oriole Park at Camden Yards
+824493,R,2026,2026-07-10T23:10:00Z,Final,Chicago Cubs,0.0,Cincinnati Reds,4.0,Great American Ball Park
+822955,R,2026,2026-07-10T23:10:00Z,Final,Seattle Mariners,2.0,Tampa Bay Rays,7.0,Tropicana Field
+823845,R,2026,2026-07-10T23:10:00Z,Final,Cleveland Guardians,3.0,Miami Marlins,2.0,loanDepot park
+823604,R,2026,2026-07-10T23:15:00Z,Final,Boston Red Sox,6.0,New York Mets,2.0,Citi Field
+824575,R,2026,2026-07-10T23:40:00Z,Final,Athletics,1.0,Chicago White Sox,14.0,Rate Field
+822878,R,2026,2026-07-11T00:05:00Z,Final,Houston Astros,3.0,Texas Rangers,7.0,Globe Life Field
+823685,R,2026,2026-07-11T00:10:00Z,Final,Los Angeles Angels,4.0,Minnesota Twins,3.0,Target Field
+823033,R,2026,2026-07-11T00:15:00Z,Final,Atlanta Braves,1.0,St. Louis Cardinals,2.0,Busch Stadium
+823278,R,2026,2026-07-11T01:40:00Z,Final,Toronto Blue Jays,5.0,San Diego Padres,3.0,Petco Park
+823927,R,2026,2026-07-11T02:10:00Z,Final,Arizona Diamondbacks,9.0,Los Angeles Dodgers,3.0,UNIQLO Field at Dodger Stadium
+823200,R,2026,2026-07-11T02:15:00Z,Final,Colorado Rockies,4.0,San Francisco Giants,3.0,Oracle Park
+823357,R,2026,2026-07-10T22:40:00Z,Postponed,Milwaukee Brewers,,Pittsburgh Pirates,,PNC Park
