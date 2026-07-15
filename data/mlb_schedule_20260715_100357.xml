@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-07-14">
+        <Game>
+            <GamePk>823443</GamePk>
+            <GameType>A</GameType>
+            <GameDate>2026-07-15T00:00:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>American League All-Stars</Name>
+                    <Score>4</Score>
+                </Away>
+                <Home>
+                    <Name>National League All-Stars</Name>
+                    <Score>0</Score>
+                </Home>
+            </Teams>
+            <Venue>Citizens Bank Park</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
