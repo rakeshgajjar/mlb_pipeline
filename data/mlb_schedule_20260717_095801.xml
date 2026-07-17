@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-07-16">
+        <Game>
+            <GamePk>823440</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-07-16T22:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>New York Mets</Name>
+                    <Score>4</Score>
+                </Away>
+                <Home>
+                    <Name>Philadelphia Phillies</Name>
+                    <Score>1</Score>
+                </Home>
+            </Teams>
+            <Venue>Citizens Bank Park</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
