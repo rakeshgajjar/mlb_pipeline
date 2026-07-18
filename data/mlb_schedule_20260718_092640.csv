@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824766,R,2026,2026-07-17T17:35:00Z,Final,Tampa Bay Rays,0.0,Boston Red Sox,10.0,Fenway Park
+824737,R,2026,2026-07-17T23:10:00Z,Final,Tampa Bay Rays,3.0,Boston Red Sox,5.0,Fenway Park
+823524,R,2026,2026-07-17T23:05:00Z,Final,Los Angeles Dodgers,2.0,New York Yankees,1.0,Yankee Stadium
+824901,R,2026,2026-07-17T23:15:00Z,Final,Texas Rangers,1.0,Atlanta Braves,15.0,Truist Park
+822789,R,2026,2026-07-17T23:15:00Z,Final,Chicago White Sox,12.0,Toronto Blue Jays,4.0,Rogers Centre
+823766,R,2026,2026-07-17T23:40:00Z,Final,Miami Marlins,1.0,Milwaukee Brewers,2.0,American Family Field
+824655,R,2026,2026-07-18T00:05:00Z,Final,Minnesota Twins,5.0,Chicago Cubs,2.0,Wrigley Field
+824170,R,2026,2026-07-18T00:10:00Z,Final,Baltimore Orioles,3.0,Houston Astros,2.0,Daikin Park
+824090,R,2026,2026-07-18T00:10:00Z,Final,San Diego Padres,6.0,Kansas City Royals,7.0,Kauffman Stadium
+824332,R,2026,2026-07-18T00:40:00Z,Final,Cincinnati Reds,7.0,Colorado Rockies,2.0,Coors Field
+824009,R,2026,2026-07-18T01:38:00Z,Final,Detroit Tigers,2.0,Los Angeles Angels,1.0,Angel Stadium
+824981,R,2026,2026-07-18T01:40:00Z,Final,Washington Nationals,23.0,Athletics,4.0,Sutter Health Park
+825060,R,2026,2026-07-18T01:40:00Z,Final,St. Louis Cardinals,5.0,Arizona Diamondbacks,4.0,Chase Field
+823115,R,2026,2026-07-18T02:10:00Z,Final,San Francisco Giants,7.0,Seattle Mariners,0.0,T-Mobile Park
+824414,R,2026,2026-07-17T23:10:00Z,Postponed,Pittsburgh Pirates,,Cleveland Guardians,,Progressive Field
