@@ -1,0 +1,17 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824414,R,2026,2026-07-18T17:10:00Z,Final,Pittsburgh Pirates,7.0,Cleveland Guardians,1.0,Progressive Field
+824412,R,2026,2026-07-18T23:10:00Z,Final,Pittsburgh Pirates,3.0,Cleveland Guardians,5.0,Progressive Field
+824657,R,2026,2026-07-18T18:20:00Z,Final,Minnesota Twins,2.0,Chicago Cubs,6.0,Wrigley Field
+823441,R,2026,2026-07-18T19:05:00Z,Final,New York Mets,1.0,Philadelphia Phillies,6.0,Citizens Bank Park
+822790,R,2026,2026-07-18T19:07:00Z,Final,Chicago White Sox,0.0,Toronto Blue Jays,1.0,Rogers Centre
+824331,R,2026,2026-07-18T19:10:00Z,Final,Cincinnati Reds,3.0,Colorado Rockies,10.0,Coors Field
+824169,R,2026,2026-07-18T20:10:00Z,Final,Baltimore Orioles,4.0,Houston Astros,2.0,Daikin Park
+824088,R,2026,2026-07-18T20:10:00Z,Final,San Diego Padres,1.0,Kansas City Royals,6.0,Kauffman Stadium
+825059,R,2026,2026-07-18T20:10:00Z,Final,St. Louis Cardinals,3.0,Arizona Diamondbacks,5.0,Chase Field
+824738,R,2026,2026-07-18T20:10:00Z,Final,Tampa Bay Rays,6.0,Boston Red Sox,7.0,Fenway Park
+824899,R,2026,2026-07-18T20:10:00Z,Final,Texas Rangers,7.0,Atlanta Braves,6.0,Truist Park
+823763,R,2026,2026-07-18T20:10:00Z,Final,Miami Marlins,6.0,Milwaukee Brewers,8.0,American Family Field
+823116,R,2026,2026-07-19T00:08:00Z,Final,San Francisco Giants,3.0,Seattle Mariners,4.0,T-Mobile Park
+824979,R,2026,2026-07-19T02:05:00Z,Final,Washington Nationals,1.0,Athletics,15.0,Sutter Health Park
+824008,R,2026,2026-07-19T02:07:00Z,Final,Detroit Tigers,7.0,Los Angeles Angels,0.0,Angel Stadium
+823523,R,2026,2026-07-19T00:08:00Z,Postponed,Los Angeles Dodgers,,New York Yankees,,Yankee Stadium
