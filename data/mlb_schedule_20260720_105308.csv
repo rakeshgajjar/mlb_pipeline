@@ -1,0 +1,17 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+822786,R,2026,2026-07-19T16:15:00Z,Final,Chicago White Sox,3,Toronto Blue Jays,0,Rogers Centre
+823523,R,2026,2026-07-19T16:35:00Z,Final,Los Angeles Dodgers,8,New York Yankees,2,Yankee Stadium
+823521,R,2026,2026-07-19T23:20:00Z,Final,Los Angeles Dodgers,1,New York Yankees,2,Yankee Stadium
+824739,R,2026,2026-07-19T17:35:00Z,Final,Tampa Bay Rays,1,Boston Red Sox,6,Fenway Park
+823439,R,2026,2026-07-19T17:35:00Z,Final,New York Mets,6,Philadelphia Phillies,1,Citizens Bank Park
+824897,R,2026,2026-07-19T17:35:00Z,Final,Texas Rangers,5,Atlanta Braves,8,Truist Park
+824411,R,2026,2026-07-19T17:40:00Z,Final,Pittsburgh Pirates,7,Cleveland Guardians,1,Progressive Field
+824168,R,2026,2026-07-19T18:10:00Z,Final,Baltimore Orioles,5,Houston Astros,2,Daikin Park
+824086,R,2026,2026-07-19T18:10:00Z,Final,San Diego Padres,19,Kansas City Royals,2,Kauffman Stadium
+823764,R,2026,2026-07-19T18:10:00Z,Final,Miami Marlins,1,Milwaukee Brewers,3,American Family Field
+824653,R,2026,2026-07-19T18:20:00Z,Final,Minnesota Twins,1,Chicago Cubs,10,Wrigley Field
+824330,R,2026,2026-07-19T19:10:00Z,Final,Cincinnati Reds,9,Colorado Rockies,6,Coors Field
+824978,R,2026,2026-07-19T20:05:00Z,Final,Washington Nationals,5,Athletics,2,Sutter Health Park
+824007,R,2026,2026-07-19T20:07:00Z,Final,Detroit Tigers,2,Los Angeles Angels,3,Angel Stadium
+823113,R,2026,2026-07-19T20:10:00Z,Final,San Francisco Giants,3,Seattle Mariners,6,T-Mobile Park
+825057,R,2026,2026-07-19T20:10:00Z,Final,St. Louis Cardinals,7,Arizona Diamondbacks,8,Chase Field
