@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824409,R,2026,2026-07-21T22:40:00Z,Final,Minnesota Twins,2.0,Cleveland Guardians,5.0,Progressive Field
+823437,R,2026,2026-07-21T22:40:00Z,Final,Los Angeles Dodgers,2.0,Philadelphia Phillies,1.0,Citizens Bank Park
+822787,R,2026,2026-07-21T23:07:00Z,Final,Tampa Bay Rays,12.0,Toronto Blue Jays,2.0,Rogers Centre
+824895,R,2026,2026-07-21T23:15:00Z,Final,San Diego Padres,8.0,Atlanta Braves,3.0,Truist Park
+824085,R,2026,2026-07-21T23:40:00Z,Final,San Francisco Giants,2.0,Kansas City Royals,3.0,Kauffman Stadium
+823760,R,2026,2026-07-21T23:40:00Z,Final,New York Mets,4.0,Milwaukee Brewers,0.0,American Family Field
+824652,R,2026,2026-07-22T00:05:00Z,Final,Detroit Tigers,2.0,Chicago Cubs,11.0,Wrigley Field
+822871,R,2026,2026-07-22T00:05:00Z,Final,Chicago White Sox,0.0,Texas Rangers,10.0,Globe Life Field
+824165,R,2026,2026-07-22T00:10:00Z,Final,Miami Marlins,3.0,Houston Astros,5.0,Daikin Park
+824329,R,2026,2026-07-22T00:40:00Z,Final,Washington Nationals,7.0,Colorado Rockies,8.0,Coors Field
+824005,R,2026,2026-07-22T01:38:00Z,Final,St. Louis Cardinals,1.0,Los Angeles Angels,5.0,Angel Stadium
+825056,R,2026,2026-07-22T01:40:00Z,Final,Athletics,5.0,Arizona Diamondbacks,6.0,Chase Field
+823114,R,2026,2026-07-22T01:40:00Z,Final,Cincinnati Reds,4.0,Seattle Mariners,2.0,T-Mobile Park
+823519,R,2026,2026-07-21T23:05:00Z,Postponed,Pittsburgh Pirates,,New York Yankees,,Yankee Stadium
+824735,R,2026,2026-07-21T23:10:00Z,Postponed,Baltimore Orioles,,Boston Red Sox,,Fenway Park
