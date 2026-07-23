@@ -1,0 +1,18 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823518,R,2026,2026-07-22T17:05:00Z,Final,Pittsburgh Pirates,5,New York Yankees,3,Yankee Stadium
+823519,R,2026,2026-07-22T23:05:00Z,Final,Pittsburgh Pirates,0,New York Yankees,2,Yankee Stadium
+824735,R,2026,2026-07-22T17:35:00Z,Final,Baltimore Orioles,3,Boston Red Sox,6,Fenway Park
+824732,R,2026,2026-07-22T23:10:00Z,Final,Baltimore Orioles,5,Boston Red Sox,1,Fenway Park
+824083,R,2026,2026-07-22T18:10:00Z,Final,San Francisco Giants,4,Kansas City Royals,5,Kauffman Stadium
+823761,R,2026,2026-07-22T18:10:00Z,Final,New York Mets,3,Milwaukee Brewers,4,American Family Field
+824327,R,2026,2026-07-22T19:10:00Z,Final,Washington Nationals,8,Colorado Rockies,0,Coors Field
+825055,R,2026,2026-07-22T19:40:00Z,Final,Athletics,5,Arizona Diamondbacks,15,Chase Field
+823110,R,2026,2026-07-22T19:40:00Z,Final,Cincinnati Reds,5,Seattle Mariners,3,T-Mobile Park
+824004,R,2026,2026-07-22T20:07:00Z,Final,St. Louis Cardinals,1,Los Angeles Angels,0,Angel Stadium
+824408,R,2026,2026-07-22T22:40:00Z,Final,Minnesota Twins,10,Cleveland Guardians,6,Progressive Field
+823438,R,2026,2026-07-22T22:40:00Z,Final,Los Angeles Dodgers,9,Philadelphia Phillies,5,Citizens Bank Park
+822784,R,2026,2026-07-22T23:07:00Z,Final,Tampa Bay Rays,4,Toronto Blue Jays,2,Rogers Centre
+824896,R,2026,2026-07-22T23:15:00Z,Final,San Diego Padres,6,Atlanta Braves,7,Truist Park
+822873,R,2026,2026-07-23T00:05:00Z,Final,Chicago White Sox,4,Texas Rangers,2,Globe Life Field
+824650,R,2026,2026-07-23T00:10:00Z,Final,Detroit Tigers,5,Chicago Cubs,1,Wrigley Field
+824166,R,2026,2026-07-23T00:10:00Z,Final,Miami Marlins,2,Houston Astros,5,Daikin Park
