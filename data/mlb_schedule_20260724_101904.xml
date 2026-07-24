@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-07-23">
+        <Game>
+            <GamePk>824893</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-07-23T16:15:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>San Diego Padres</Name>
+                    <Score>5</Score>
+                </Away>
+                <Home>
+                    <Name>Atlanta Braves</Name>
+                    <Score>6</Score>
+                </Home>
+            </Teams>
+            <Venue>Truist Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>824406</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-07-23T17:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Minnesota Twins</Name>
+                    <Score>3</Score>
+                </Away>
+                <Home>
+                    <Name>Cleveland Guardians</Name>
+                    <Score>1</Score>
+                </Home>
+            </Teams>
+            <Venue>Progressive Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>822785</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-07-23T19:07:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Tampa Bay Rays</Name>
+                    <Score>1</Score>
+                </Away>
+                <Home>
+                    <Name>Toronto Blue Jays</Name>
+                    <Score>3</Score>
+                </Home>
+            </Teams>
+            <Venue>Rogers Centre</Venue>
+        </Game>
+        <Game>
+            <GamePk>823042</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-07-23T21:15:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Arizona Diamondbacks</Name>
+                    <Score>10</Score>
+                </Away>
+                <Home>
+                    <Name>St. Louis Cardinals</Name>
+                    <Score>6</Score>
+                </Home>
+            </Teams>
+            <Venue>Busch Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>824247</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-07-23T22:40:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Kansas City Royals</Name>
+                    <Score>3</Score>
+                </Away>
+                <Home>
+                    <Name>Detroit Tigers</Name>
+                    <Score>4</Score>
+                </Home>
+            </Teams>
+            <Venue>Comerica Park</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>

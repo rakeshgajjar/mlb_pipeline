@@ -1,0 +1,6 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824893,R,2026,2026-07-23T16:15:00Z,Final,San Diego Padres,5,Atlanta Braves,6,Truist Park
+824406,R,2026,2026-07-23T17:10:00Z,Final,Minnesota Twins,3,Cleveland Guardians,1,Progressive Field
+822785,R,2026,2026-07-23T19:07:00Z,Final,Tampa Bay Rays,1,Toronto Blue Jays,3,Rogers Centre
+823042,R,2026,2026-07-23T21:15:00Z,Final,Arizona Diamondbacks,10,St. Louis Cardinals,6,Busch Stadium
+824247,R,2026,2026-07-23T22:40:00Z,Final,Kansas City Royals,3,Detroit Tigers,4,Comerica Park
