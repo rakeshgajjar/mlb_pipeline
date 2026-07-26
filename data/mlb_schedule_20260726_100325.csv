@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824244,R,2026,2026-07-25T17:10:00Z,Final,Kansas City Royals,3,Detroit Tigers,2,Comerica Park
+822704,R,2026,2026-07-25T20:05:00Z,Final,Arizona Diamondbacks,3,Washington Nationals,5,Nationals Park
+823197,R,2026,2026-07-25T20:05:00Z,Final,Los Angeles Angels,2,San Francisco Giants,9,Oracle Park
+824734,R,2026,2026-07-25T20:10:00Z,Final,Toronto Blue Jays,6,Boston Red Sox,0,Fenway Park
+823841,R,2026,2026-07-25T20:10:00Z,Final,San Diego Padres,7,Miami Marlins,2,loanDepot park
+823435,R,2026,2026-07-25T22:05:00Z,Final,New York Yankees,3,Philadelphia Phillies,1,Citizens Bank Park
+822948,R,2026,2026-07-25T22:10:00Z,Final,Cleveland Guardians,0,Tampa Bay Rays,3,Tropicana Field
+823355,R,2026,2026-07-25T22:40:00Z,Final,Chicago Cubs,11,Pittsburgh Pirates,0,PNC Park
+824811,R,2026,2026-07-25T23:05:00Z,Final,Atlanta Braves,2,Baltimore Orioles,3,Oriole Park at Camden Yards
+823679,R,2026,2026-07-25T23:10:00Z,Final,Athletics,0,Minnesota Twins,2,Target Field
+824571,R,2026,2026-07-25T23:10:00Z,Final,Houston Astros,4,Chicago White Sox,1,Rate Field
+823758,R,2026,2026-07-25T23:10:00Z,Final,Colorado Rockies,5,Milwaukee Brewers,8,American Family Field
+823600,R,2026,2026-07-25T23:15:00Z,Final,Los Angeles Dodgers,4,New York Mets,3,Citi Field
+823027,R,2026,2026-07-25T23:15:00Z,Final,Cincinnati Reds,0,St. Louis Cardinals,7,Busch Stadium
+822869,R,2026,2026-07-25T23:15:00Z,Final,Seattle Mariners,1,Texas Rangers,7,Globe Life Field
