@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+822950,R,2026,2026-07-26T16:15:00Z,Final,Cleveland Guardians,0,Tampa Bay Rays,1,Tropicana Field
+822706,R,2026,2026-07-26T17:35:00Z,Final,Arizona Diamondbacks,7,Washington Nationals,10,Nationals Park
+823354,R,2026,2026-07-26T17:35:00Z,Final,Chicago Cubs,7,Pittsburgh Pirates,8,PNC Park
+824730,R,2026,2026-07-26T17:35:00Z,Final,Toronto Blue Jays,1,Boston Red Sox,6,Fenway Park
+824810,R,2026,2026-07-26T17:35:00Z,Final,Atlanta Braves,3,Baltimore Orioles,2,Oriole Park at Camden Yards
+824246,R,2026,2026-07-26T17:40:00Z,Final,Kansas City Royals,5,Detroit Tigers,4,Comerica Park
+823599,R,2026,2026-07-26T17:40:00Z,Final,Los Angeles Dodgers,3,New York Mets,8,Citi Field
+823840,R,2026,2026-07-26T17:40:00Z,Final,San Diego Padres,5,Miami Marlins,3,loanDepot park
+823678,R,2026,2026-07-26T18:10:00Z,Final,Athletics,8,Minnesota Twins,11,Target Field
+824572,R,2026,2026-07-26T18:10:00Z,Final,Houston Astros,3,Chicago White Sox,12,Rate Field
+823755,R,2026,2026-07-26T18:10:00Z,Final,Colorado Rockies,2,Milwaukee Brewers,11,American Family Field
+823028,R,2026,2026-07-26T18:15:00Z,Final,Cincinnati Reds,5,St. Louis Cardinals,3,Busch Stadium
+822870,R,2026,2026-07-26T18:35:00Z,Final,Seattle Mariners,6,Texas Rangers,4,Globe Life Field
+823194,R,2026,2026-07-26T20:05:00Z,Final,Los Angeles Angels,4,San Francisco Giants,3,Oracle Park
+823433,R,2026,2026-07-26T23:20:00Z,Final,New York Yankees,4,Philadelphia Phillies,11,Citizens Bank Park
