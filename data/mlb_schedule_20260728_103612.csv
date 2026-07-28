@@ -1,0 +1,13 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+822868,R,2026,2026-07-27T18:35:00Z,Final,Seattle Mariners,3.0,Texas Rangers,7.0,Globe Life Field
+824245,R,2026,2026-07-27T22:40:00Z,Final,Baltimore Orioles,8.0,Detroit Tigers,5.0,Comerica Park
+823353,R,2026,2026-07-27T22:40:00Z,Final,Arizona Diamondbacks,2.0,Pittsburgh Pirates,3.0,PNC Park
+823839,R,2026,2026-07-27T22:40:00Z,Final,Philadelphia Phillies,7.0,Miami Marlins,8.0,loanDepot park
+822705,R,2026,2026-07-27T22:45:00Z,Final,Toronto Blue Jays,3.0,Washington Nationals,2.0,Nationals Park
+823597,R,2026,2026-07-27T23:10:00Z,Final,Atlanta Braves,3.0,New York Mets,14.0,Citi Field
+824570,R,2026,2026-07-27T23:40:00Z,Final,New York Yankees,9.0,Chicago White Sox,5.0,Rate Field
+823025,R,2026,2026-07-27T23:45:00Z,Final,Chicago Cubs,7.0,St. Louis Cardinals,3.0,Busch Stadium
+824001,R,2026,2026-07-28T01:38:00Z,Final,Houston Astros,6.0,Los Angeles Angels,4.0,Angel Stadium
+824977,R,2026,2026-07-28T01:40:00Z,Final,Boston Red Sox,4.0,Athletics,2.0,Sutter Health Park
+823195,R,2026,2026-07-28T01:45:00Z,Final,Milwaukee Brewers,0.0,San Francisco Giants,3.0,Oracle Park
+824490,R,2026,2026-07-27T23:10:00Z,Postponed,Cleveland Guardians,,Cincinnati Reds,,Great American Ball Park
