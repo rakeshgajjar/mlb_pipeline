@@ -1,0 +1,17 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824490,R,2026,2026-07-28T17:40:00Z,Final,Cleveland Guardians,6.0,Cincinnati Reds,5.0,Great American Ball Park
+824489,R,2026,2026-07-28T23:10:00Z,Final,Cleveland Guardians,0.0,Cincinnati Reds,2.0,Great American Ball Park
+824243,R,2026,2026-07-28T22:40:00Z,Final,Baltimore Orioles,0.0,Detroit Tigers,14.0,Comerica Park
+823350,R,2026,2026-07-28T22:40:00Z,Final,Arizona Diamondbacks,8.0,Pittsburgh Pirates,7.0,PNC Park
+822949,R,2026,2026-07-28T22:40:00Z,Final,Texas Rangers,4.0,Tampa Bay Rays,1.0,Tropicana Field
+823838,R,2026,2026-07-28T22:40:00Z,Final,Philadelphia Phillies,0.0,Miami Marlins,1.0,loanDepot park
+822703,R,2026,2026-07-28T22:45:00Z,Final,Toronto Blue Jays,6.0,Washington Nationals,8.0,Nationals Park
+823676,R,2026,2026-07-28T23:40:00Z,Final,Kansas City Royals,2.0,Minnesota Twins,3.0,Target Field
+824569,R,2026,2026-07-28T23:40:00Z,Final,New York Yankees,3.0,Chicago White Sox,2.0,Rate Field
+823026,R,2026,2026-07-28T23:45:00Z,Final,Chicago Cubs,10.0,St. Louis Cardinals,2.0,Busch Stadium
+824003,R,2026,2026-07-29T01:38:00Z,Final,Houston Astros,3.0,Los Angeles Angels,2.0,Angel Stadium
+824976,R,2026,2026-07-29T01:40:00Z,Final,Boston Red Sox,3.0,Athletics,4.0,Sutter Health Park
+823275,R,2026,2026-07-29T01:40:00Z,Final,Colorado Rockies,7.0,San Diego Padres,8.0,Petco Park
+823193,R,2026,2026-07-29T01:45:00Z,Final,Milwaukee Brewers,8.0,San Francisco Giants,2.0,Oracle Park
+823923,R,2026,2026-07-29T02:10:00Z,Final,Seattle Mariners,7.0,Los Angeles Dodgers,6.0,UNIQLO Field at Dodger Stadium
+823598,R,2026,2026-07-28T23:10:00Z,Postponed,Atlanta Braves,,New York Mets,,Citi Field
