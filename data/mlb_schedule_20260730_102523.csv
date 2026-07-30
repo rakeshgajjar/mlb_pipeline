@@ -1,0 +1,17 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823837,R,2026,2026-07-29T16:10:00Z,Final,Philadelphia Phillies,6,Miami Marlins,8,loanDepot park
+823351,R,2026,2026-07-29T16:35:00Z,Final,Arizona Diamondbacks,3,Pittsburgh Pirates,0,PNC Park
+822702,R,2026,2026-07-29T17:05:00Z,Final,Toronto Blue Jays,5,Washington Nationals,2,Nationals Park
+824242,R,2026,2026-07-29T17:10:00Z,Final,Baltimore Orioles,10,Detroit Tigers,9,Comerica Park
+823596,R,2026,2026-07-29T17:10:00Z,Final,Atlanta Braves,2,New York Mets,3,Citi Field
+823598,R,2026,2026-07-29T23:10:00Z,Final,Atlanta Braves,1,New York Mets,0,Citi Field
+823192,R,2026,2026-07-29T19:45:00Z,Final,Milwaukee Brewers,3,San Francisco Giants,16,Oracle Park
+823273,R,2026,2026-07-29T20:10:00Z,Final,Colorado Rockies,1,San Diego Padres,3,Petco Park
+822947,R,2026,2026-07-29T22:40:00Z,Final,Texas Rangers,0,Tampa Bay Rays,3,Tropicana Field
+824487,R,2026,2026-07-29T23:10:00Z,Final,Cleveland Guardians,6,Cincinnati Reds,1,Great American Ball Park
+823677,R,2026,2026-07-29T23:40:00Z,Final,Kansas City Royals,4,Minnesota Twins,0,Target Field
+824567,R,2026,2026-07-29T23:40:00Z,Final,New York Yankees,5,Chicago White Sox,6,Rate Field
+823022,R,2026,2026-07-29T23:45:00Z,Final,Chicago Cubs,2,St. Louis Cardinals,3,Busch Stadium
+824002,R,2026,2026-07-30T01:38:00Z,Final,Houston Astros,7,Los Angeles Angels,4,Angel Stadium
+824973,R,2026,2026-07-30T01:40:00Z,Final,Boston Red Sox,4,Athletics,2,Sutter Health Park
+823924,R,2026,2026-07-30T02:10:00Z,Final,Seattle Mariners,2,Los Angeles Dodgers,4,UNIQLO Field at Dodger Stadium
