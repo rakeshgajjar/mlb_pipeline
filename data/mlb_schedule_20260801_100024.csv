@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824651,R,2026,2026-07-31T18:20:00Z,Final,New York Yankees,2,Chicago Cubs,0,Wrigley Field
+824486,R,2026,2026-07-31T22:10:00Z,Final,Pittsburgh Pirates,7,Cincinnati Reds,8,Great American Ball Park
+824809,R,2026,2026-07-31T23:05:00Z,Final,Philadelphia Phillies,4,Baltimore Orioles,6,Oriole Park at Camden Yards
+822782,R,2026,2026-07-31T23:07:00Z,Final,St. Louis Cardinals,1,Toronto Blue Jays,3,Rogers Centre
+824407,R,2026,2026-07-31T23:10:00Z,Final,Arizona Diamondbacks,4,Cleveland Guardians,1,Progressive Field
+822945,R,2026,2026-07-31T23:10:00Z,Final,Chicago White Sox,6,Tampa Bay Rays,1,Tropicana Field
+823593,R,2026,2026-07-31T23:10:00Z,Final,Miami Marlins,5,New York Mets,2,Citi Field
+824892,R,2026,2026-07-31T23:15:00Z,Final,Washington Nationals,2,Atlanta Braves,6,Truist Park
+824164,R,2026,2026-08-01T00:15:00Z,Final,Texas Rangers,2,Houston Astros,11,Daikin Park
+824325,R,2026,2026-08-01T00:40:00Z,Final,Kansas City Royals,1,Colorado Rockies,3,Coors Field
+823999,R,2026,2026-08-01T01:38:00Z,Final,Milwaukee Brewers,6,Los Angeles Angels,2,Angel Stadium
+824975,R,2026,2026-08-01T01:40:00Z,Final,Detroit Tigers,13,Athletics,1,Sutter Health Park
+823272,R,2026,2026-08-01T01:45:00Z,Final,San Francisco Giants,0,San Diego Padres,7,Petco Park
+823922,R,2026,2026-08-01T02:10:00Z,Final,Boston Red Sox,9,Los Angeles Dodgers,4,UNIQLO Field at Dodger Stadium
+823111,R,2026,2026-08-01T02:10:00Z,Final,Minnesota Twins,5,Seattle Mariners,3,T-Mobile Park
