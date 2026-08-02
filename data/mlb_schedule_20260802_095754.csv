@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+822781,R,2026,2026-08-01T19:07:00Z,Final,St. Louis Cardinals,1,Toronto Blue Jays,5,Rogers Centre
+823109,R,2026,2026-08-01T20:10:00Z,Final,Minnesota Twins,3,Seattle Mariners,4,T-Mobile Park
+822944,R,2026,2026-08-01T20:10:00Z,Final,Chicago White Sox,0,Tampa Bay Rays,1,Tropicana Field
+823594,R,2026,2026-08-01T20:10:00Z,Final,Miami Marlins,6,New York Mets,2,Citi Field
+824485,R,2026,2026-08-01T22:40:00Z,Final,Pittsburgh Pirates,4,Cincinnati Reds,1,Great American Ball Park
+824808,R,2026,2026-08-01T23:05:00Z,Final,Philadelphia Phillies,5,Baltimore Orioles,0,Oriole Park at Camden Yards
+824162,R,2026,2026-08-01T23:10:00Z,Final,Texas Rangers,4,Houston Astros,5,Daikin Park
+824405,R,2026,2026-08-01T23:15:00Z,Final,Arizona Diamondbacks,12,Cleveland Guardians,8,Progressive Field
+824890,R,2026,2026-08-01T23:15:00Z,Final,Washington Nationals,3,Atlanta Braves,8,Truist Park
+824649,R,2026,2026-08-01T23:15:00Z,Final,New York Yankees,2,Chicago Cubs,5,Wrigley Field
+824326,R,2026,2026-08-02T00:10:00Z,Final,Kansas City Royals,6,Colorado Rockies,12,Coors Field
+823269,R,2026,2026-08-02T00:40:00Z,Final,San Francisco Giants,5,San Diego Padres,6,Petco Park
+823920,R,2026,2026-08-02T01:10:00Z,Final,Boston Red Sox,3,Los Angeles Dodgers,2,UNIQLO Field at Dodger Stadium
+824000,R,2026,2026-08-02T01:38:00Z,Final,Milwaukee Brewers,3,Los Angeles Angels,1,Angel Stadium
+824972,R,2026,2026-08-02T01:40:00Z,Final,Detroit Tigers,8,Athletics,6,Sutter Health Park
