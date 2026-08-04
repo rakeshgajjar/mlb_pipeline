@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-08-03">
+        <Game>
+            <GamePk>823431</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-03T22:40:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Washington Nationals</Name>
+                    <Score>3</Score>
+                </Away>
+                <Home>
+                    <Name>Philadelphia Phillies</Name>
+                    <Score>6</Score>
+                </Home>
+            </Teams>
+            <Venue>Citizens Bank Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823520</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-03T23:05:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>St. Louis Cardinals</Name>
+                    <Score>13</Score>
+                </Away>
+                <Home>
+                    <Name>New York Yankees</Name>
+                    <Score>7</Score>
+                </Home>
+            </Teams>
+            <Venue>Yankee Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>823757</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-03T23:40:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Pittsburgh Pirates</Name>
+                    <Score>4</Score>
+                </Away>
+                <Home>
+                    <Name>Milwaukee Brewers</Name>
+                    <Score>3</Score>
+                </Home>
+            </Teams>
+            <Venue>American Family Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>824647</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-04T00:05:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Los Angeles Dodgers</Name>
+                    <Score>5</Score>
+                </Away>
+                <Home>
+                    <Name>Chicago Cubs</Name>
+                    <Score>10</Score>
+                </Home>
+            </Teams>
+            <Venue>Wrigley Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>822867</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-04T00:05:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>San Francisco Giants</Name>
+                    <Score>5</Score>
+                </Away>
+                <Home>
+                    <Name>Texas Rangers</Name>
+                    <Score>1</Score>
+                </Home>
+            </Teams>
+            <Venue>Globe Life Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>824160</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-04T00:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Toronto Blue Jays</Name>
+                    <Score>3</Score>
+                </Away>
+                <Home>
+                    <Name>Houston Astros</Name>
+                    <Score>1</Score>
+                </Home>
+            </Teams>
+            <Venue>Daikin Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>824324</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-04T00:40:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Tampa Bay Rays</Name>
+                    <Score>13</Score>
+                </Away>
+                <Home>
+                    <Name>Colorado Rockies</Name>
+                    <Score>9</Score>
+                </Home>
+            </Teams>
+            <Venue>Coors Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>825095</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-04T01:40:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>San Diego Padres</Name>
+                    <Score>1</Score>
+                </Away>
+                <Home>
+                    <Name>Arizona Diamondbacks</Name>
+                    <Score>5</Score>
+                </Home>
+            </Teams>
+            <Venue>Chase Field</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
