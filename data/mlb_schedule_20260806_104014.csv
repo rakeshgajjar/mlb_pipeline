@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824158,R,2026,2026-08-05T18:10:00Z,Final,Toronto Blue Jays,5,Houston Astros,4,Daikin Park
+824646,R,2026,2026-08-05T18:20:00Z,Final,Los Angeles Dodgers,6,Chicago Cubs,7,Wrigley Field
+822866,R,2026,2026-08-05T18:35:00Z,Final,San Francisco Giants,0,Texas Rangers,6,Globe Life Field
+824322,R,2026,2026-08-05T19:10:00Z,Final,Tampa Bay Rays,4,Colorado Rockies,0,Coors Field
+824806,R,2026,2026-08-05T22:35:00Z,Final,Los Angeles Angels,2,Baltimore Orioles,5,Oriole Park at Camden Yards
+824402,R,2026,2026-08-05T22:40:00Z,Final,New York Mets,6,Cleveland Guardians,5,Progressive Field
+824482,R,2026,2026-08-05T22:40:00Z,Final,Athletics,2,Cincinnati Reds,3,Great American Ball Park
+823429,R,2026,2026-08-05T22:40:00Z,Final,Washington Nationals,10,Philadelphia Phillies,4,Citizens Bank Park
+823516,R,2026,2026-08-05T23:05:00Z,Final,St. Louis Cardinals,3,New York Yankees,1,Yankee Stadium
+824728,R,2026,2026-08-05T23:10:00Z,Final,Chicago White Sox,0,Boston Red Sox,4,Fenway Park
+824889,R,2026,2026-08-05T23:15:00Z,Final,Miami Marlins,1,Atlanta Braves,4,Truist Park
+824082,R,2026,2026-08-05T23:40:00Z,Final,Minnesota Twins,1,Kansas City Royals,2,Kauffman Stadium
+823753,R,2026,2026-08-05T23:40:00Z,Final,Pittsburgh Pirates,2,Milwaukee Brewers,4,American Family Field
+825052,R,2026,2026-08-06T01:40:00Z,Final,San Diego Padres,4,Arizona Diamondbacks,10,Chase Field
+823106,R,2026,2026-08-06T01:40:00Z,Final,Detroit Tigers,2,Seattle Mariners,4,T-Mobile Park
