@@ -1,0 +1,12 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824804,R,2026,2026-08-06T16:35:00Z,Final,Los Angeles Angels,4,Baltimore Orioles,1,Oriole Park at Camden Yards
+824481,R,2026,2026-08-06T16:40:00Z,Final,Athletics,5,Cincinnati Reds,6,Great American Ball Park
+824401,R,2026,2026-08-06T17:10:00Z,Final,New York Mets,13,Cleveland Guardians,6,Progressive Field
+823754,R,2026,2026-08-06T18:10:00Z,Final,Pittsburgh Pirates,2,Milwaukee Brewers,5,American Family Field
+824664,R,2026,2026-08-06T18:20:00Z,Final,Toronto Blue Jays,2,Chicago Cubs,3,Wrigley Field
+823105,R,2026,2026-08-06T20:10:00Z,Final,Detroit Tigers,11,Seattle Mariners,0,T-Mobile Park
+823430,R,2026,2026-08-06T22:05:00Z,Final,Washington Nationals,3,Philadelphia Phillies,7,Citizens Bank Park
+824729,R,2026,2026-08-06T23:10:00Z,Final,Chicago White Sox,11,Boston Red Sox,12,Fenway Park
+824885,R,2026,2026-08-06T23:15:00Z,Final,Miami Marlins,3,Atlanta Braves,11,Truist Park
+824080,R,2026,2026-08-06T23:40:00Z,Final,Minnesota Twins,4,Kansas City Royals,3,Kauffman Stadium
+825053,R,2026,2026-08-07T01:40:00Z,Final,San Diego Padres,5,Arizona Diamondbacks,1,Chase Field
