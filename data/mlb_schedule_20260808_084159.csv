@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823349,R,2026,2026-08-07T22:40:00Z,Final,New York Mets,6,Pittsburgh Pirates,4,PNC Park
+823428,R,2026,2026-08-07T22:40:00Z,Final,Toronto Blue Jays,5,Philadelphia Phillies,4,Citizens Bank Park
+822699,R,2026,2026-08-07T22:45:00Z,Final,Cincinnati Reds,3,Washington Nationals,5,Nationals Park
+823515,R,2026,2026-08-07T23:05:00Z,Final,Atlanta Braves,2,New York Yankees,3,Yankee Stadium
+824727,R,2026,2026-08-07T23:10:00Z,Final,Athletics,1,Boston Red Sox,13,Fenway Park
+823836,R,2026,2026-08-07T23:10:00Z,Final,Los Angeles Angels,4,Miami Marlins,3,loanDepot park
+824566,R,2026,2026-08-07T23:40:00Z,Final,Cleveland Guardians,8,Chicago White Sox,2,Rate Field
+823750,R,2026,2026-08-07T23:40:00Z,Final,Minnesota Twins,8,Milwaukee Brewers,6,American Family Field
+824081,R,2026,2026-08-08T00:10:00Z,Final,Chicago Cubs,6,Kansas City Royals,4,Kauffman Stadium
+823024,R,2026,2026-08-08T00:15:00Z,Final,Colorado Rockies,2,St. Louis Cardinals,3,Busch Stadium
+822863,R,2026,2026-08-08T00:15:00Z,Final,Baltimore Orioles,1,Texas Rangers,2,Globe Life Field
+825051,R,2026,2026-08-08T01:40:00Z,Final,Los Angeles Dodgers,3,Arizona Diamondbacks,4,Chase Field
+823266,R,2026,2026-08-08T01:40:00Z,Final,Houston Astros,6,San Diego Padres,3,Petco Park
+823103,R,2026,2026-08-08T01:45:00Z,Final,Tampa Bay Rays,2,Seattle Mariners,1,T-Mobile Park
+823191,R,2026,2026-08-08T02:15:00Z,Final,Detroit Tigers,2,San Francisco Giants,5,Oracle Park
