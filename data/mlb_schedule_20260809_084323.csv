@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823514,R,2026,2026-08-08T19:05:00Z,Final,Atlanta Braves,4,New York Yankees,5,Yankee Stadium
+824726,R,2026,2026-08-08T20:10:00Z,Final,Athletics,7,Boston Red Sox,3,Fenway Park
+823834,R,2026,2026-08-08T20:10:00Z,Final,Los Angeles Angels,0,Miami Marlins,7,loanDepot park
+823426,R,2026,2026-08-08T22:05:00Z,Final,Toronto Blue Jays,7,Philadelphia Phillies,5,Citizens Bank Park
+823348,R,2026,2026-08-08T22:40:00Z,Final,New York Mets,0,Pittsburgh Pirates,9,PNC Park
+822701,R,2026,2026-08-08T22:45:00Z,Final,Cincinnati Reds,2,Washington Nationals,8,Nationals Park
+824079,R,2026,2026-08-08T23:10:00Z,Final,Chicago Cubs,3,Kansas City Royals,6,Kauffman Stadium
+823752,R,2026,2026-08-08T23:10:00Z,Final,Minnesota Twins,3,Milwaukee Brewers,4,American Family Field
+823267,R,2026,2026-08-08T23:15:00Z,Final,Houston Astros,2,San Diego Padres,3,Petco Park
+823188,R,2026,2026-08-08T23:15:00Z,Final,Detroit Tigers,8,San Francisco Giants,0,Oracle Park
+823021,R,2026,2026-08-08T23:15:00Z,Final,Colorado Rockies,8,St. Louis Cardinals,6,Busch Stadium
+822864,R,2026,2026-08-08T23:15:00Z,Final,Baltimore Orioles,1,Texas Rangers,5,Globe Life Field
+824565,R,2026,2026-08-08T23:15:00Z,Final,Cleveland Guardians,3,Chicago White Sox,6,Rate Field
+825049,R,2026,2026-08-09T00:10:00Z,Final,Los Angeles Dodgers,2,Arizona Diamondbacks,1,Chase Field
+823102,R,2026,2026-08-09T01:50:00Z,Final,Tampa Bay Rays,3,Seattle Mariners,2,T-Mobile Park
