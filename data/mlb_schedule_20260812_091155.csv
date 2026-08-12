@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824240,R,2026,2026-08-11T22:40:00Z,Final,Cleveland Guardians,4,Detroit Tigers,6,Comerica Park
+823832,R,2026,2026-08-11T22:40:00Z,Final,Pittsburgh Pirates,0,Miami Marlins,2,loanDepot park
+822697,R,2026,2026-08-11T22:45:00Z,Final,Chicago Cubs,8,Washington Nationals,6,Nationals Park
+823512,R,2026,2026-08-11T23:05:00Z,Final,Seattle Mariners,1,New York Yankees,4,Yankee Stadium
+822778,R,2026,2026-08-11T23:07:00Z,Final,Boston Red Sox,3,Toronto Blue Jays,5,Rogers Centre
+824886,R,2026,2026-08-11T23:15:00Z,Final,New York Mets,0,Atlanta Braves,4,Truist Park
+823673,R,2026,2026-08-11T23:40:00Z,Final,Baltimore Orioles,5,Minnesota Twins,2,Target Field
+824563,R,2026,2026-08-11T23:40:00Z,Final,Cincinnati Reds,5,Chicago White Sox,4,Rate Field
+823019,R,2026,2026-08-11T23:45:00Z,Final,Philadelphia Phillies,0,St. Louis Cardinals,2,Busch Stadium
+823997,R,2026,2026-08-12T01:38:00Z,Final,Texas Rangers,2,Los Angeles Angels,3,Angel Stadium
+825046,R,2026,2026-08-12T01:40:00Z,Final,Colorado Rockies,3,Arizona Diamondbacks,2,Chase Field
+824970,R,2026,2026-08-12T01:40:00Z,Final,Tampa Bay Rays,12,Athletics,4,Sutter Health Park
+823264,R,2026,2026-08-12T01:40:00Z,Final,Milwaukee Brewers,2,San Diego Padres,11,Petco Park
+823186,R,2026,2026-08-12T01:45:00Z,Final,Houston Astros,1,San Francisco Giants,4,Oracle Park
+823917,R,2026,2026-08-12T02:10:00Z,Final,Kansas City Royals,4,Los Angeles Dodgers,5,UNIQLO Field at Dodger Stadium
