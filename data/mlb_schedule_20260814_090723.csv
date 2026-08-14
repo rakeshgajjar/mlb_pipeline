@@ -1,0 +1,10 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824238,R,2026,2026-08-13T17:10:00Z,Final,Cleveland Guardians,0,Detroit Tigers,3,Comerica Park
+824561,R,2026,2026-08-13T17:10:00Z,Final,Cincinnati Reds,9,Chicago White Sox,8,Rate Field
+823829,R,2026,2026-08-13T17:10:00Z,Final,Pittsburgh Pirates,13,Miami Marlins,1,loanDepot park
+823508,R,2026,2026-08-13T17:35:00Z,Final,Seattle Mariners,1,New York Yankees,0,Yankee Stadium
+822776,R,2026,2026-08-13T19:07:00Z,Final,Boston Red Sox,7,Toronto Blue Jays,0,Rogers Centre
+822696,R,2026,2026-08-13T20:05:00Z,Final,Chicago Cubs,0,Washington Nationals,7,Nationals Park
+823669,R,2026,2026-08-13T23:30:00Z,Final,Philadelphia Phillies,7,Minnesota Twins,1,Field of Dreams
+823995,R,2026,2026-08-14T02:07:00Z,Final,Texas Rangers,0,Los Angeles Angels,7,Angel Stadium
+823915,R,2026,2026-08-14T02:10:00Z,Final,Milwaukee Brewers,5,Los Angeles Dodgers,4,UNIQLO Field at Dodger Stadium
