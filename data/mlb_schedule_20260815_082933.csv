@@ -1,0 +1,15 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824643,R,2026,2026-08-14T18:20:00Z,Final,St. Louis Cardinals,0,Chicago Cubs,3,Wrigley Field
+824479,R,2026,2026-08-14T22:10:00Z,Final,Miami Marlins,0,Cincinnati Reds,1,Great American Ball Park
+823346,R,2026,2026-08-14T22:40:00Z,Final,Boston Red Sox,4,Pittsburgh Pirates,8,PNC Park
+824237,R,2026,2026-08-14T22:40:00Z,Final,Chicago White Sox,9,Detroit Tigers,5,Comerica Park
+823591,R,2026,2026-08-14T23:10:00Z,Final,Washington Nationals,1,New York Mets,4,Citi Field
+824399,R,2026,2026-08-14T23:10:00Z,Final,San Diego Padres,7,Cleveland Guardians,5,Progressive Field
+822942,R,2026,2026-08-14T23:10:00Z,Final,Baltimore Orioles,6,Tampa Bay Rays,5,Tropicana Field
+824882,R,2026,2026-08-14T23:15:00Z,Final,Arizona Diamondbacks,2,Atlanta Braves,0,Truist Park
+822777,R,2026,2026-08-14T23:15:00Z,Final,New York Yankees,1,Toronto Blue Jays,3,Rogers Centre
+824159,R,2026,2026-08-15T00:10:00Z,Final,Seattle Mariners,7,Houston Astros,10,Daikin Park
+823993,R,2026,2026-08-15T01:38:00Z,Final,Kansas City Royals,7,Los Angeles Angels,6,Angel Stadium
+824968,R,2026,2026-08-15T01:40:00Z,Final,Texas Rangers,3,Athletics,8,Sutter Health Park
+823913,R,2026,2026-08-15T02:10:00Z,Final,Milwaukee Brewers,1,Los Angeles Dodgers,3,UNIQLO Field at Dodger Stadium
+823185,R,2026,2026-08-15T02:15:00Z,Final,Colorado Rockies,5,San Francisco Giants,2,Oracle Park
