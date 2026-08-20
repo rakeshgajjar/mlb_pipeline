@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823342,R,2026,2026-08-19T16:35:00Z,Final,Detroit Tigers,3,Pittsburgh Pirates,4,PNC Park
+823587,R,2026,2026-08-19T17:10:00Z,Final,San Diego Padres,2,New York Mets,4,Citi Field
+823664,R,2026,2026-08-19T17:40:00Z,Final,Atlanta Braves,4,Minnesota Twins,6,Target Field
+824640,R,2026,2026-08-19T18:20:00Z,Final,Chicago White Sox,3,Chicago Cubs,0,Wrigley Field
+824722,R,2026,2026-08-19T20:10:00Z,Final,Arizona Diamondbacks,7,Boston Red Sox,6,Fenway Park
+823424,R,2026,2026-08-19T22:05:00Z,Final,Miami Marlins,1,Philadelphia Phillies,4,Citizens Bank Park
+824801,R,2026,2026-08-19T22:35:00Z,Final,New York Yankees,5,Baltimore Orioles,3,Oriole Park at Camden Yards
+824394,R,2026,2026-08-19T22:40:00Z,Final,San Francisco Giants,1,Cleveland Guardians,0,Progressive Field
+824476,R,2026,2026-08-19T22:40:00Z,Final,St. Louis Cardinals,4,Cincinnati Reds,5,Great American Ball Park
+822937,R,2026,2026-08-19T22:40:00Z,Final,Toronto Blue Jays,6,Tampa Bay Rays,7,Tropicana Field
+824076,R,2026,2026-08-19T23:40:00Z,Final,Athletics,7,Kansas City Royals,9,Kauffman Stadium
+823748,R,2026,2026-08-19T23:40:00Z,Final,Seattle Mariners,7,Milwaukee Brewers,5,American Family Field
+822860,R,2026,2026-08-20T00:05:00Z,Final,Washington Nationals,6,Texas Rangers,0,Globe Life Field
+824155,R,2026,2026-08-20T00:10:00Z,Final,Los Angeles Angels,2,Houston Astros,3,Daikin Park
+824318,R,2026,2026-08-20T00:40:00Z,Final,Los Angeles Dodgers,6,Colorado Rockies,4,Coors Field
