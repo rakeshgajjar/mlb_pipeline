@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824799,R,2026,2026-08-23T17:35:00Z,Final,Tampa Bay Rays,3,Baltimore Orioles,1,Oriole Park at Camden Yards
+823421,R,2026,2026-08-23T17:35:00Z,Final,St. Louis Cardinals,4,Philadelphia Phillies,6,Citizens Bank Park
+823507,R,2026,2026-08-23T17:35:00Z,Final,Toronto Blue Jays,3,New York Yankees,8,Yankee Stadium
+823827,R,2026,2026-08-23T17:40:00Z,Final,Washington Nationals,2,Miami Marlins,6,loanDepot park
+824071,R,2026,2026-08-23T18:10:00Z,Final,Detroit Tigers,7,Kansas City Royals,11,Kauffman Stadium
+824150,R,2026,2026-08-23T18:10:00Z,Final,Athletics,7,Houston Astros,6,Daikin Park
+824558,R,2026,2026-08-23T18:10:00Z,Final,New York Mets,1,Chicago White Sox,2,Rate Field
+822856,R,2026,2026-08-23T18:35:00Z,Final,Los Angeles Angels,3,Texas Rangers,5,Globe Life Field
+824315,R,2026,2026-08-23T19:10:00Z,Final,Cleveland Guardians,7,Colorado Rockies,2,Coors Field
+824720,R,2026,2026-08-23T19:15:00Z,Final,San Francisco Giants,4,Boston Red Sox,5,Fenway Park
+823909,R,2026,2026-08-23T20:10:00Z,Final,Pittsburgh Pirates,0,Los Angeles Dodgers,4,UNIQLO Field at Dodger Stadium
+823099,R,2026,2026-08-23T20:10:00Z,Final,Chicago Cubs,19,Seattle Mariners,2,T-Mobile Park
+823258,R,2026,2026-08-23T20:10:00Z,Final,Minnesota Twins,1,San Diego Padres,8,Petco Park
+825043,R,2026,2026-08-23T20:15:00Z,Final,Cincinnati Reds,3,Arizona Diamondbacks,5,Chase Field
+823745,R,2026,2026-08-23T23:10:00Z,Final,Atlanta Braves,4,Milwaukee Brewers,2,Journey Bank Ballpark
