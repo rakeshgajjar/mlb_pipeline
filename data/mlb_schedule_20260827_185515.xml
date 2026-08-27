@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-08-27">
+        <Game>
+            <GamePk>822694</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-27T17:05:00Z</GameDate>
+            <Status>In Progress</Status>
+            <Teams>
+                <Away>
+                    <Name>Colorado Rockies</Name>
+                    <Score>1</Score>
+                </Away>
+                <Home>
+                    <Name>Washington Nationals</Name>
+                    <Score>4</Score>
+                </Home>
+            </Teams>
+            <Venue>Nationals Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823014</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-27T18:15:00Z</GameDate>
+            <Status>In Progress</Status>
+            <Teams>
+                <Away>
+                    <Name>Baltimore Orioles</Name>
+                    <Score>0</Score>
+                </Away>
+                <Home>
+                    <Name>St. Louis Cardinals</Name>
+                    <Score>3</Score>
+                </Home>
+            </Teams>
+            <Venue>Busch Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>823503</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-27T23:05:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Houston Astros</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>New York Yankees</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Yankee Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>822771</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-27T23:07:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Kansas City Royals</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Toronto Blue Jays</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Rogers Centre</Venue>
+        </Game>
+        <Game>
+            <GamePk>823581</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-27T23:10:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Milwaukee Brewers</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>New York Mets</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Citi Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>824879</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-27T23:15:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Los Angeles Dodgers</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Atlanta Braves</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Truist Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823179</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-08-28T01:45:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Arizona Diamondbacks</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>San Francisco Giants</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Oracle Park</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>

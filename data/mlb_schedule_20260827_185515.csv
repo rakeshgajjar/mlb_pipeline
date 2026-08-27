@@ -1,0 +1,8 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+822694,R,2026,2026-08-27T17:05:00Z,In Progress,Colorado Rockies,1.0,Washington Nationals,4.0,Nationals Park
+823014,R,2026,2026-08-27T18:15:00Z,In Progress,Baltimore Orioles,0.0,St. Louis Cardinals,3.0,Busch Stadium
+823503,R,2026,2026-08-27T23:05:00Z,Scheduled,Houston Astros,,New York Yankees,,Yankee Stadium
+822771,R,2026,2026-08-27T23:07:00Z,Scheduled,Kansas City Royals,,Toronto Blue Jays,,Rogers Centre
+823581,R,2026,2026-08-27T23:10:00Z,Scheduled,Milwaukee Brewers,,New York Mets,,Citi Field
+824879,R,2026,2026-08-27T23:15:00Z,Scheduled,Los Angeles Dodgers,,Atlanta Braves,,Truist Park
+823179,R,2026,2026-08-28T01:45:00Z,Scheduled,Arizona Diamondbacks,,San Francisco Giants,,Oracle Park
