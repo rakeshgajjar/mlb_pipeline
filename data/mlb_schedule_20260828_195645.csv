@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824638,R,2026,2026-08-28T18:20:00Z,In Progress,Cincinnati Reds,2.0,Chicago Cubs,3.0,Wrigley Field
+824231,R,2026,2026-08-28T22:40:00Z,Pre-Game,Los Angeles Dodgers,0.0,Detroit Tigers,0.0,Comerica Park
+822691,R,2026,2026-08-28T22:45:00Z,Pre-Game,Miami Marlins,,Washington Nationals,,Nationals Park
+824396,R,2026,2026-08-28T23:10:00Z,Pre-Game,Kansas City Royals,0.0,Cleveland Guardians,0.0,Progressive Field
+823583,R,2026,2026-08-28T23:10:00Z,Pre-Game,Houston Astros,,New York Mets,,Citi Field
+822935,R,2026,2026-08-28T23:10:00Z,Pre-Game,San Diego Padres,0.0,Tampa Bay Rays,0.0,Tropicana Field
+822769,R,2026,2026-08-28T23:15:00Z,Pre-Game,Seattle Mariners,0.0,Toronto Blue Jays,0.0,Rogers Centre
+824877,R,2026,2026-08-28T23:15:00Z,Pre-Game,Colorado Rockies,0.0,Atlanta Braves,0.0,Truist Park
+823504,R,2026,2026-08-28T23:15:00Z,Pre-Game,Boston Red Sox,0.0,New York Yankees,0.0,Yankee Stadium
+823744,R,2026,2026-08-28T23:40:00Z,Scheduled,Texas Rangers,,Milwaukee Brewers,,American Family Field
+823666,R,2026,2026-08-29T00:10:00Z,Scheduled,Chicago White Sox,,Minnesota Twins,,Target Field
+823013,R,2026,2026-08-29T00:15:00Z,Pre-Game,Pittsburgh Pirates,,St. Louis Cardinals,,Busch Stadium
+823985,R,2026,2026-08-29T01:38:00Z,Scheduled,Philadelphia Phillies,,Los Angeles Angels,,Angel Stadium
+824960,R,2026,2026-08-29T01:40:00Z,Scheduled,Baltimore Orioles,,Athletics,,Sutter Health Park
+823178,R,2026,2026-08-29T02:15:00Z,Scheduled,Arizona Diamondbacks,,San Francisco Giants,,Oracle Park
