@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824638,R,2026,2026-08-28T18:20:00Z,Final,Cincinnati Reds,10,Chicago Cubs,8,Wrigley Field
+824231,R,2026,2026-08-28T22:40:00Z,Final,Los Angeles Dodgers,2,Detroit Tigers,1,Comerica Park
+822691,R,2026,2026-08-28T22:45:00Z,Final,Miami Marlins,2,Washington Nationals,9,Nationals Park
+824396,R,2026,2026-08-28T23:10:00Z,Final,Kansas City Royals,3,Cleveland Guardians,0,Progressive Field
+823583,R,2026,2026-08-28T23:10:00Z,Final,Houston Astros,3,New York Mets,1,Citi Field
+822935,R,2026,2026-08-28T23:10:00Z,Final,San Diego Padres,4,Tampa Bay Rays,9,Tropicana Field
+822769,R,2026,2026-08-28T23:15:00Z,Final,Seattle Mariners,1,Toronto Blue Jays,8,Rogers Centre
+824877,R,2026,2026-08-28T23:15:00Z,Final,Colorado Rockies,4,Atlanta Braves,6,Truist Park
+823504,R,2026,2026-08-28T23:15:00Z,Final,Boston Red Sox,0,New York Yankees,1,Yankee Stadium
+823744,R,2026,2026-08-28T23:40:00Z,Final,Texas Rangers,1,Milwaukee Brewers,6,American Family Field
+823666,R,2026,2026-08-29T00:10:00Z,Final,Chicago White Sox,7,Minnesota Twins,4,Target Field
+823013,R,2026,2026-08-29T00:15:00Z,Final,Pittsburgh Pirates,1,St. Louis Cardinals,4,Busch Stadium
+823985,R,2026,2026-08-29T01:38:00Z,Final,Philadelphia Phillies,5,Los Angeles Angels,3,Angel Stadium
+824960,R,2026,2026-08-29T01:40:00Z,Final,Baltimore Orioles,4,Athletics,3,Sutter Health Park
+823178,R,2026,2026-08-29T02:15:00Z,Final,Arizona Diamondbacks,10,San Francisco Giants,6,Oracle Park
