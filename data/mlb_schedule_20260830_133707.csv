@@ -1,0 +1,18 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823539,R,2026,2026-08-29T17:05:00Z,Final,Boston Red Sox,6,New York Yankees,0,Yankee Stadium
+823501,R,2026,2026-08-29T23:15:00Z,Final,Boston Red Sox,2,New York Yankees,9,Yankee Stadium
+824230,R,2026,2026-08-29T17:10:00Z,Final,Los Angeles Dodgers,1,Detroit Tigers,2,Comerica Park
+823665,R,2026,2026-08-29T18:10:00Z,Final,Chicago White Sox,3,Minnesota Twins,2,Target Field
+823011,R,2026,2026-08-29T18:15:00Z,Final,Pittsburgh Pirates,6,St. Louis Cardinals,2,Busch Stadium
+824637,R,2026,2026-08-29T18:20:00Z,Final,Cincinnati Reds,5,Chicago Cubs,17,Wrigley Field
+822770,R,2026,2026-08-29T19:07:00Z,Final,Seattle Mariners,3,Toronto Blue Jays,4,Rogers Centre
+823177,R,2026,2026-08-29T20:05:00Z,Final,Arizona Diamondbacks,7,San Francisco Giants,1,Oracle Park
+823176,R,2026,2026-08-30T02:05:00Z,Final,Arizona Diamondbacks,2,San Francisco Giants,7,Oracle Park
+822690,R,2026,2026-08-29T20:05:00Z,Final,Miami Marlins,4,Washington Nationals,5,Nationals Park
+824392,R,2026,2026-08-29T20:10:00Z,Final,Kansas City Royals,8,Cleveland Guardians,3,Progressive Field
+823582,R,2026,2026-08-29T20:10:00Z,Final,Houston Astros,2,New York Mets,6,Citi Field
+822936,R,2026,2026-08-29T20:10:00Z,Final,San Diego Padres,6,Tampa Bay Rays,7,Tropicana Field
+824874,R,2026,2026-08-29T20:10:00Z,Final,Colorado Rockies,1,Atlanta Braves,2,Truist Park
+823741,R,2026,2026-08-29T23:15:00Z,Final,Texas Rangers,3,Milwaukee Brewers,5,American Family Field
+824961,R,2026,2026-08-30T02:05:00Z,Final,Baltimore Orioles,5,Athletics,3,Sutter Health Park
+823986,R,2026,2026-08-30T02:07:00Z,Final,Philadelphia Phillies,4,Los Angeles Angels,2,Angel Stadium
