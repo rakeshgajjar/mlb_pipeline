@@ -1,0 +1,31 @@
+league,team,wins,losses,win_pct,games_back,streak
+Unknown,Rays,82,55,.599,-,L1
+Unknown,Yankees,78,60,.565,4.5,L1
+Unknown,Red Sox,75,63,.543,7.5,W1
+Unknown,Orioles,69,69,.500,13.5,W4
+Unknown,Blue Jays,68,70,.493,14.5,W3
+Unknown,White Sox,72,65,.526,-,L2
+Unknown,Guardians,69,68,.504,3.0,W1
+Unknown,Twins,66,72,.478,6.5,W2
+Unknown,Tigers,63,74,.460,9.0,L2
+Unknown,Royals,62,76,.449,10.5,L1
+Unknown,Astros,70,68,.507,-,W2
+Unknown,Rangers,68,70,.493,2.0,W2
+Unknown,Mariners,64,74,.464,6.0,L5
+Unknown,Athletics,53,85,.384,17.0,L4
+Unknown,Angels,53,85,.384,17.0,W1
+Unknown,Braves,82,56,.594,-,L1
+Unknown,Phillies,78,60,.565,4.0,W5
+Unknown,Marlins,69,69,.500,13.0,L1
+Unknown,Nationals,66,74,.471,17.0,W1
+Unknown,Mets,62,76,.449,20.0,W1
+Unknown,Brewers,85,53,.616,-,L2
+Unknown,Cubs,78,60,.565,7.0,W1
+Unknown,Cardinals,68,70,.493,17.0,L2
+Unknown,Pirates,67,71,.486,18.0,W2
+Unknown,Reds,65,73,.471,20.0,L1
+Unknown,Dodgers,82,55,.599,-,W1
+Unknown,Padres,73,65,.529,9.5,W1
+Unknown,D-backs,73,66,.525,10.0,L2
+Unknown,Giants,57,81,.413,25.5,W2
+Unknown,Rockies,52,86,.377,30.5,L5
