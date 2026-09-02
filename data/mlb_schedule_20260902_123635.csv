@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824472,R,2026,2026-09-01T22:40:00Z,Final,San Diego Padres,3,Cincinnati Reds,4,Great American Ball Park
+823340,R,2026,2026-09-01T22:40:00Z,Final,San Francisco Giants,12,Pittsburgh Pirates,13,PNC Park
+822929,R,2026,2026-09-01T22:40:00Z,Final,New York Mets,2,Tampa Bay Rays,6,Tropicana Field
+824391,R,2026,2026-09-01T22:40:00Z,Final,Toronto Blue Jays,1,Cleveland Guardians,6,Progressive Field
+824716,R,2026,2026-09-01T22:45:00Z,Final,Seattle Mariners,9,Boston Red Sox,6,Fenway Park
+822687,R,2026,2026-09-01T22:45:00Z,Final,Atlanta Braves,5,Washington Nationals,9,Nationals Park
+823661,R,2026,2026-09-01T23:40:00Z,Final,Detroit Tigers,2,Minnesota Twins,15,Target Field
+824070,R,2026,2026-09-01T23:40:00Z,Final,Miami Marlins,6,Kansas City Royals,3,Kauffman Stadium
+824633,R,2026,2026-09-01T23:40:00Z,Final,Milwaukee Brewers,9,Chicago Cubs,4,Wrigley Field
+822854,R,2026,2026-09-02T00:05:00Z,Final,Athletics,5,Texas Rangers,8,Globe Life Field
+824148,R,2026,2026-09-02T00:10:00Z,Final,Chicago White Sox,5,Houston Astros,1,Daikin Park
+824313,R,2026,2026-09-02T00:40:00Z,Final,Baltimore Orioles,2,Colorado Rockies,4,Coors Field
+823984,R,2026,2026-09-02T01:38:00Z,Final,New York Yankees,7,Los Angeles Angels,3,Angel Stadium
+825038,R,2026,2026-09-02T01:40:00Z,Final,Philadelphia Phillies,7,Arizona Diamondbacks,1,Chase Field
+823908,R,2026,2026-09-02T02:10:00Z,Final,St. Louis Cardinals,13,Los Angeles Dodgers,8,UNIQLO Field at Dodger Stadium
