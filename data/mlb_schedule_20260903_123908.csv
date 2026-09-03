@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824470,R,2026,2026-09-02T16:40:00Z,Final,San Diego Padres,3,Cincinnati Reds,7,Great American Ball Park
+822686,R,2026,2026-09-02T17:05:00Z,Final,Atlanta Braves,9,Washington Nationals,0,Nationals Park
+822851,R,2026,2026-09-02T18:35:00Z,Final,Athletics,9,Texas Rangers,2,Globe Life Field
+824312,R,2026,2026-09-02T19:10:00Z,Final,Baltimore Orioles,5,Colorado Rockies,6,Coors Field
+825037,R,2026,2026-09-02T19:40:00Z,Final,Philadelphia Phillies,0,Arizona Diamondbacks,1,Chase Field
+824717,R,2026,2026-09-02T20:10:00Z,Final,Seattle Mariners,8,Boston Red Sox,3,Fenway Park
+823339,R,2026,2026-09-02T22:40:00Z,Final,San Francisco Giants,5,Pittsburgh Pirates,4,PNC Park
+822931,R,2026,2026-09-02T22:40:00Z,Final,New York Mets,10,Tampa Bay Rays,4,Tropicana Field
+824390,R,2026,2026-09-02T22:40:00Z,Final,Toronto Blue Jays,11,Cleveland Guardians,0,Progressive Field
+823660,R,2026,2026-09-02T23:40:00Z,Final,Detroit Tigers,11,Minnesota Twins,6,Target Field
+824068,R,2026,2026-09-02T23:40:00Z,Final,Miami Marlins,9,Kansas City Royals,6,Kauffman Stadium
+824634,R,2026,2026-09-02T23:40:00Z,Final,Milwaukee Brewers,9,Chicago Cubs,5,Wrigley Field
+824147,R,2026,2026-09-03T00:10:00Z,Final,Chicago White Sox,0,Houston Astros,2,Daikin Park
+823983,R,2026,2026-09-03T01:38:00Z,Final,New York Yankees,6,Los Angeles Angels,3,Angel Stadium
+823906,R,2026,2026-09-03T02:10:00Z,Final,St. Louis Cardinals,8,Los Angeles Dodgers,6,UNIQLO Field at Dodger Stadium
