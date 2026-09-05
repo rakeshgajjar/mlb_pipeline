@@ -1,0 +1,277 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-09-04">
+        <Game>
+            <GamePk>824424</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-04T18:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Detroit Tigers</Name>
+                    <Score>6</Score>
+                </Away>
+                <Home>
+                    <Name>Cleveland Guardians</Name>
+                    <Score>7</Score>
+                </Home>
+            </Teams>
+            <Venue>Progressive Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>824387</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-04T23:15:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Detroit Tigers</Name>
+                    <Score>3</Score>
+                </Away>
+                <Home>
+                    <Name>Cleveland Guardians</Name>
+                    <Score>4</Score>
+                </Home>
+            </Teams>
+            <Venue>Progressive Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>824471</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-04T22:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Milwaukee Brewers</Name>
+                    <Score>10</Score>
+                </Away>
+                <Home>
+                    <Name>Cincinnati Reds</Name>
+                    <Score>7</Score>
+                </Home>
+            </Teams>
+            <Venue>Great American Ball Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823418</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-04T22:40:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Atlanta Braves</Name>
+                    <Score>5</Score>
+                </Away>
+                <Home>
+                    <Name>Philadelphia Phillies</Name>
+                    <Score>2</Score>
+                </Home>
+            </Teams>
+            <Venue>Citizens Bank Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823338</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-04T22:45:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Los Angeles Angels</Name>
+                    <Score>0</Score>
+                </Away>
+                <Home>
+                    <Name>Pittsburgh Pirates</Name>
+                    <Score>1</Score>
+                </Home>
+            </Teams>
+            <Venue>PNC Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>824797</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-04T23:05:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Boston Red Sox</Name>
+                    <Score>1</Score>
+                </Away>
+                <Home>
+                    <Name>Baltimore Orioles</Name>
+                    <Score>0</Score>
+                </Home>
+            </Teams>
+            <Venue>Oriole Park at Camden Yards</Venue>
+        </Game>
+        <Game>
+            <GamePk>823579</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-04T23:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>San Francisco Giants</Name>
+                    <Score>6</Score>
+                </Away>
+                <Home>
+                    <Name>New York Mets</Name>
+                    <Score>10</Score>
+                </Home>
+            </Teams>
+            <Venue>Citi Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>823824</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-04T23:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Chicago Cubs</Name>
+                    <Score>6</Score>
+                </Away>
+                <Home>
+                    <Name>Miami Marlins</Name>
+                    <Score>1</Score>
+                </Home>
+            </Teams>
+            <Venue>loanDepot park</Venue>
+        </Game>
+        <Game>
+            <GamePk>824554</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-04T23:40:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Minnesota Twins</Name>
+                    <Score>1</Score>
+                </Away>
+                <Home>
+                    <Name>Chicago White Sox</Name>
+                    <Score>4</Score>
+                </Home>
+            </Teams>
+            <Venue>Rate Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>822852</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-05T00:05:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Tampa Bay Rays</Name>
+                    <Score>7</Score>
+                </Away>
+                <Home>
+                    <Name>Texas Rangers</Name>
+                    <Score>6</Score>
+                </Home>
+            </Teams>
+            <Venue>Globe Life Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>824146</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-05T00:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Arizona Diamondbacks</Name>
+                    <Score>1</Score>
+                </Away>
+                <Home>
+                    <Name>Houston Astros</Name>
+                    <Score>3</Score>
+                </Home>
+            </Teams>
+            <Venue>Daikin Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>824067</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-05T00:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Toronto Blue Jays</Name>
+                    <Score>9</Score>
+                </Away>
+                <Home>
+                    <Name>Kansas City Royals</Name>
+                    <Score>2</Score>
+                </Home>
+            </Teams>
+            <Venue>Kauffman Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>824311</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-05T00:40:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>St. Louis Cardinals</Name>
+                    <Score>7</Score>
+                </Away>
+                <Home>
+                    <Name>Colorado Rockies</Name>
+                    <Score>6</Score>
+                </Home>
+            </Teams>
+            <Venue>Coors Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>823256</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-05T01:40:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>New York Yankees</Name>
+                    <Score>2</Score>
+                </Away>
+                <Home>
+                    <Name>San Diego Padres</Name>
+                    <Score>3</Score>
+                </Home>
+            </Teams>
+            <Venue>Petco Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823905</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-05T02:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Washington Nationals</Name>
+                    <Score>3</Score>
+                </Away>
+                <Home>
+                    <Name>Los Angeles Dodgers</Name>
+                    <Score>5</Score>
+                </Home>
+            </Teams>
+            <Venue>UNIQLO Field at Dodger Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>823093</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-05T02:10:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Athletics</Name>
+                    <Score>7</Score>
+                </Away>
+                <Home>
+                    <Name>Seattle Mariners</Name>
+                    <Score>6</Score>
+                </Home>
+            </Teams>
+            <Venue>T-Mobile Park</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
