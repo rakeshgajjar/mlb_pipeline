@@ -1,0 +1,3470 @@
+{
+    "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+    "stats": [
+        {
+            "type": {
+                "displayName": "season"
+            },
+            "group": {
+                "displayName": "hitting"
+            },
+            "totalSplits": 732,
+            "exemptions": [],
+            "splits": [
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 25,
+                        "gamesPlayed": 23,
+                        "groundOuts": 0,
+                        "airOuts": 0,
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "intentionalWalks": 0,
+                        "hits": 1,
+                        "hitByPitch": 0,
+                        "avg": "1.000",
+                        "atBats": 1,
+                        "obp": "1.000",
+                        "slg": "1.000",
+                        "ops": "2.000",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 3,
+                        "plateAppearances": 1,
+                        "totalBases": 1,
+                        "rbi": 2,
+                        "leftOnBase": 0,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": "1.000",
+                        "groundOutsToAirouts": "-.--",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 144,
+                        "name": "Atlanta Braves",
+                        "link": "/api/v1/teams/144"
+                    },
+                    "player": {
+                        "id": 682989,
+                        "fullName": "Victor Mederos",
+                        "link": "/api/v1/people/682989",
+                        "firstName": "Victor",
+                        "lastName": "Mederos"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 1,
+                    "position": {
+                        "code": "1",
+                        "name": "Pitcher",
+                        "type": "Pitcher",
+                        "abbreviation": "P"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 26,
+                        "gamesPlayed": 4,
+                        "groundOuts": 1,
+                        "airOuts": 0,
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "intentionalWalks": 0,
+                        "hits": 1,
+                        "hitByPitch": 1,
+                        "avg": ".500",
+                        "atBats": 2,
+                        "obp": ".667",
+                        "slg": ".500",
+                        "ops": "1.167",
+                        "caughtStealing": 0,
+                        "stolenBases": 1,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 13,
+                        "plateAppearances": 4,
+                        "totalBases": 1,
+                        "rbi": 0,
+                        "leftOnBase": 0,
+                        "sacBunts": 1,
+                        "sacFlies": 0,
+                        "babip": "1.000",
+                        "groundOutsToAirouts": "1.00",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 158,
+                        "name": "Milwaukee Brewers",
+                        "link": "/api/v1/teams/158"
+                    },
+                    "player": {
+                        "id": 678225,
+                        "fullName": "Jihwan Bae",
+                        "link": "/api/v1/people/678225",
+                        "firstName": "Jihwan",
+                        "lastName": "Bae"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 2,
+                    "position": {
+                        "code": "4",
+                        "name": "Second Base",
+                        "type": "Infielder",
+                        "abbreviation": "2B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 26,
+                        "gamesPlayed": 1,
+                        "groundOuts": 0,
+                        "airOuts": 0,
+                        "runs": 1,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "intentionalWalks": 0,
+                        "hits": 1,
+                        "hitByPitch": 0,
+                        "avg": ".500",
+                        "atBats": 2,
+                        "obp": ".500",
+                        "slg": "1.000",
+                        "ops": "1.500",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 7,
+                        "plateAppearances": 2,
+                        "totalBases": 2,
+                        "rbi": 0,
+                        "leftOnBase": 0,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": "1.000",
+                        "groundOutsToAirouts": "-.--",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 144,
+                        "name": "Atlanta Braves",
+                        "link": "/api/v1/teams/144"
+                    },
+                    "player": {
+                        "id": 665856,
+                        "fullName": "Jair Camargo",
+                        "link": "/api/v1/people/665856",
+                        "firstName": "Jair",
+                        "lastName": "Camargo"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 2,
+                    "position": {
+                        "code": "2",
+                        "name": "Catcher",
+                        "type": "Catcher",
+                        "abbreviation": "C"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 24,
+                        "gamesPlayed": 4,
+                        "groundOuts": 1,
+                        "airOuts": 0,
+                        "runs": 2,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 5,
+                        "baseOnBalls": 0,
+                        "intentionalWalks": 0,
+                        "hits": 5,
+                        "hitByPitch": 0,
+                        "avg": ".455",
+                        "atBats": 11,
+                        "obp": ".455",
+                        "slg": ".909",
+                        "ops": "1.364",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 45,
+                        "plateAppearances": 11,
+                        "totalBases": 10,
+                        "rbi": 1,
+                        "leftOnBase": 4,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".800",
+                        "groundOutsToAirouts": "1.00",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "11.00"
+                    },
+                    "team": {
+                        "id": 120,
+                        "name": "Washington Nationals",
+                        "link": "/api/v1/teams/120"
+                    },
+                    "player": {
+                        "id": 691002,
+                        "fullName": "Yohandy Morales",
+                        "link": "/api/v1/people/691002",
+                        "firstName": "Yohandy",
+                        "lastName": "Morales"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 4,
+                    "position": {
+                        "code": "3",
+                        "name": "First Base",
+                        "type": "Infielder",
+                        "abbreviation": "1B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 23,
+                        "gamesPlayed": 16,
+                        "groundOuts": 19,
+                        "airOuts": 9,
+                        "runs": 8,
+                        "doubles": 7,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 7,
+                        "baseOnBalls": 1,
+                        "intentionalWalks": 0,
+                        "hits": 25,
+                        "hitByPitch": 1,
+                        "avg": ".417",
+                        "atBats": 60,
+                        "obp": ".435",
+                        "slg": ".583",
+                        "ops": "1.018",
+                        "caughtStealing": 1,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".000",
+                        "caughtStealingPercentage": "1.000",
+                        "groundIntoDoublePlay": 3,
+                        "numberOfPitches": 226,
+                        "plateAppearances": 62,
+                        "totalBases": 35,
+                        "rbi": 4,
+                        "leftOnBase": 18,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".462",
+                        "groundOutsToAirouts": "2.11",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "60.00"
+                    },
+                    "team": {
+                        "id": 133,
+                        "name": "Athletics",
+                        "link": "/api/v1/teams/133"
+                    },
+                    "player": {
+                        "id": 811965,
+                        "fullName": "Joshua Kuroda-Grauer",
+                        "link": "/api/v1/people/811965",
+                        "firstName": "Joshua",
+                        "lastName": "Kuroda-Grauer"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 5,
+                    "position": {
+                        "code": "5",
+                        "name": "Third Base",
+                        "type": "Infielder",
+                        "abbreviation": "3B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 23,
+                        "gamesPlayed": 9,
+                        "groundOuts": 5,
+                        "airOuts": 6,
+                        "runs": 9,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 2,
+                        "strikeOuts": 5,
+                        "baseOnBalls": 4,
+                        "intentionalWalks": 1,
+                        "hits": 10,
+                        "hitByPitch": 0,
+                        "avg": ".400",
+                        "atBats": 25,
+                        "obp": ".483",
+                        "slg": ".720",
+                        "ops": "1.203",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 102,
+                        "plateAppearances": 30,
+                        "totalBases": 18,
+                        "rbi": 9,
+                        "leftOnBase": 10,
+                        "sacBunts": 1,
+                        "sacFlies": 0,
+                        "babip": ".444",
+                        "groundOutsToAirouts": "0.83",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "12.50"
+                    },
+                    "team": {
+                        "id": 115,
+                        "name": "Colorado Rockies",
+                        "link": "/api/v1/teams/115"
+                    },
+                    "player": {
+                        "id": 691182,
+                        "fullName": "Adael Amador",
+                        "link": "/api/v1/people/691182",
+                        "firstName": "Adael",
+                        "lastName": "Amador"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 6,
+                    "position": {
+                        "code": "4",
+                        "name": "Second Base",
+                        "type": "Infielder",
+                        "abbreviation": "2B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 30,
+                        "gamesPlayed": 9,
+                        "groundOuts": 5,
+                        "airOuts": 3,
+                        "runs": 2,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 2,
+                        "intentionalWalks": 0,
+                        "hits": 7,
+                        "hitByPitch": 0,
+                        "avg": ".389",
+                        "atBats": 18,
+                        "obp": ".450",
+                        "slg": ".444",
+                        "ops": ".894",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 81,
+                        "plateAppearances": 20,
+                        "totalBases": 8,
+                        "rbi": 2,
+                        "leftOnBase": 9,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".467",
+                        "groundOutsToAirouts": "1.67",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 133,
+                        "name": "Athletics",
+                        "link": "/api/v1/teams/133"
+                    },
+                    "player": {
+                        "id": 683021,
+                        "fullName": "Michael Stefanic",
+                        "link": "/api/v1/people/683021",
+                        "firstName": "Michael",
+                        "lastName": "Stefanic"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 7,
+                    "position": {
+                        "code": "4",
+                        "name": "Second Base",
+                        "type": "Infielder",
+                        "abbreviation": "2B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 29,
+                        "gamesPlayed": 17,
+                        "groundOuts": 1,
+                        "airOuts": 0,
+                        "runs": 3,
+                        "doubles": 0,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 2,
+                        "intentionalWalks": 0,
+                        "hits": 3,
+                        "hitByPitch": 0,
+                        "avg": ".375",
+                        "atBats": 8,
+                        "obp": ".500",
+                        "slg": ".625",
+                        "ops": "1.125",
+                        "caughtStealing": 0,
+                        "stolenBases": 1,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 37,
+                        "plateAppearances": 10,
+                        "totalBases": 5,
+                        "rbi": 3,
+                        "leftOnBase": 8,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".750",
+                        "groundOutsToAirouts": "1.00",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 112,
+                        "name": "Chicago Cubs",
+                        "link": "/api/v1/teams/112"
+                    },
+                    "player": {
+                        "id": 681909,
+                        "fullName": "Justin Dean",
+                        "link": "/api/v1/people/681909",
+                        "firstName": "Justin",
+                        "lastName": "Dean"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 8,
+                    "position": {
+                        "code": "9",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "RF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 28,
+                        "gamesPlayed": 4,
+                        "groundOuts": 0,
+                        "airOuts": 4,
+                        "runs": 0,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 0,
+                        "intentionalWalks": 0,
+                        "hits": 4,
+                        "hitByPitch": 0,
+                        "avg": ".364",
+                        "atBats": 11,
+                        "obp": ".333",
+                        "slg": ".455",
+                        "ops": ".788",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 50,
+                        "plateAppearances": 12,
+                        "totalBases": 5,
+                        "rbi": 2,
+                        "leftOnBase": 4,
+                        "sacBunts": 0,
+                        "sacFlies": 1,
+                        "babip": ".500",
+                        "groundOutsToAirouts": "0.00",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 108,
+                        "name": "Los Angeles Angels",
+                        "link": "/api/v1/teams/108"
+                    },
+                    "player": {
+                        "id": 672569,
+                        "fullName": "Gustavo Campero",
+                        "link": "/api/v1/people/672569",
+                        "firstName": "Gustavo",
+                        "lastName": "Campero"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 9,
+                    "position": {
+                        "code": "7",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "LF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 30,
+                        "gamesPlayed": 12,
+                        "groundOuts": 2,
+                        "airOuts": 2,
+                        "runs": 7,
+                        "doubles": 4,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 10,
+                        "baseOnBalls": 6,
+                        "intentionalWalks": 0,
+                        "hits": 8,
+                        "hitByPitch": 0,
+                        "avg": ".364",
+                        "atBats": 22,
+                        "obp": ".500",
+                        "slg": ".545",
+                        "ops": "1.045",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 113,
+                        "plateAppearances": 28,
+                        "totalBases": 12,
+                        "rbi": 3,
+                        "leftOnBase": 10,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".667",
+                        "groundOutsToAirouts": "1.00",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 144,
+                        "name": "Atlanta Braves",
+                        "link": "/api/v1/teams/144"
+                    },
+                    "player": {
+                        "id": 676551,
+                        "fullName": "Brewer Hicklen",
+                        "link": "/api/v1/people/676551",
+                        "firstName": "Brewer",
+                        "lastName": "Hicklen"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 9,
+                    "position": {
+                        "code": "9",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "RF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 30,
+                        "gamesPlayed": 11,
+                        "groundOuts": 5,
+                        "airOuts": 2,
+                        "runs": 2,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 1,
+                        "intentionalWalks": 0,
+                        "hits": 6,
+                        "hitByPitch": 0,
+                        "avg": ".353",
+                        "atBats": 17,
+                        "obp": ".389",
+                        "slg": ".471",
+                        "ops": ".860",
+                        "caughtStealing": 0,
+                        "stolenBases": 1,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 69,
+                        "plateAppearances": 18,
+                        "totalBases": 8,
+                        "rbi": 0,
+                        "leftOnBase": 10,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".462",
+                        "groundOutsToAirouts": "2.50",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 144,
+                        "name": "Atlanta Braves",
+                        "link": "/api/v1/teams/144"
+                    },
+                    "player": {
+                        "id": 640492,
+                        "fullName": "Jos\u00e9 Az\u00f3car",
+                        "link": "/api/v1/people/640492",
+                        "firstName": "Jos\u00e9",
+                        "lastName": "Az\u00f3car"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 11,
+                    "position": {
+                        "code": "9",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "RF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 22,
+                        "gamesPlayed": 5,
+                        "groundOuts": 2,
+                        "airOuts": 7,
+                        "runs": 4,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 2,
+                        "intentionalWalks": 0,
+                        "hits": 7,
+                        "hitByPitch": 0,
+                        "avg": ".350",
+                        "atBats": 20,
+                        "obp": ".409",
+                        "slg": ".550",
+                        "ops": ".959",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 65,
+                        "plateAppearances": 22,
+                        "totalBases": 11,
+                        "rbi": 4,
+                        "leftOnBase": 7,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".400",
+                        "groundOutsToAirouts": "0.29",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "20.00"
+                    },
+                    "team": {
+                        "id": 138,
+                        "name": "St. Louis Cardinals",
+                        "link": "/api/v1/teams/138"
+                    },
+                    "player": {
+                        "id": 699024,
+                        "fullName": "Leo Bernal",
+                        "link": "/api/v1/people/699024",
+                        "firstName": "Leo",
+                        "lastName": "Bernal"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 12,
+                    "position": {
+                        "code": "2",
+                        "name": "Catcher",
+                        "type": "Catcher",
+                        "abbreviation": "C"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 25,
+                        "gamesPlayed": 9,
+                        "groundOuts": 7,
+                        "airOuts": 4,
+                        "runs": 2,
+                        "doubles": 4,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 7,
+                        "baseOnBalls": 1,
+                        "intentionalWalks": 0,
+                        "hits": 9,
+                        "hitByPitch": 0,
+                        "avg": ".333",
+                        "atBats": 27,
+                        "obp": ".357",
+                        "slg": ".481",
+                        "ops": ".838",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 1,
+                        "numberOfPitches": 97,
+                        "plateAppearances": 28,
+                        "totalBases": 13,
+                        "rbi": 7,
+                        "leftOnBase": 11,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".450",
+                        "groundOutsToAirouts": "1.75",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 158,
+                        "name": "Milwaukee Brewers",
+                        "link": "/api/v1/teams/158"
+                    },
+                    "player": {
+                        "id": 672012,
+                        "fullName": "Tyler Black",
+                        "link": "/api/v1/people/672012",
+                        "firstName": "Tyler",
+                        "lastName": "Black"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 13,
+                    "position": {
+                        "code": "10",
+                        "name": "Designated Hitter",
+                        "type": "Hitter",
+                        "abbreviation": "DH"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 29,
+                        "gamesPlayed": 24,
+                        "groundOuts": 13,
+                        "airOuts": 10,
+                        "runs": 6,
+                        "doubles": 3,
+                        "triples": 0,
+                        "homeRuns": 2,
+                        "strikeOuts": 13,
+                        "baseOnBalls": 2,
+                        "intentionalWalks": 0,
+                        "hits": 17,
+                        "hitByPitch": 2,
+                        "avg": ".333",
+                        "atBats": 51,
+                        "obp": ".368",
+                        "slg": ".510",
+                        "ops": ".878",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 2,
+                        "numberOfPitches": 217,
+                        "plateAppearances": 57,
+                        "totalBases": 26,
+                        "rbi": 11,
+                        "leftOnBase": 22,
+                        "sacBunts": 0,
+                        "sacFlies": 2,
+                        "babip": ".395",
+                        "groundOutsToAirouts": "1.30",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "25.50"
+                    },
+                    "team": {
+                        "id": 143,
+                        "name": "Philadelphia Phillies",
+                        "link": "/api/v1/teams/143"
+                    },
+                    "player": {
+                        "id": 650559,
+                        "fullName": "Bryan De La Cruz",
+                        "link": "/api/v1/people/650559",
+                        "firstName": "Bryan",
+                        "lastName": "De La Cruz"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 13,
+                    "position": {
+                        "code": "9",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "RF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 23,
+                        "gamesPlayed": 7,
+                        "groundOuts": 4,
+                        "airOuts": 1,
+                        "runs": 0,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 0,
+                        "intentionalWalks": 0,
+                        "hits": 4,
+                        "hitByPitch": 0,
+                        "avg": ".333",
+                        "atBats": 12,
+                        "obp": ".333",
+                        "slg": ".500",
+                        "ops": ".833",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 50,
+                        "plateAppearances": 12,
+                        "totalBases": 6,
+                        "rbi": 0,
+                        "leftOnBase": 3,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".444",
+                        "groundOutsToAirouts": "4.00",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 146,
+                        "name": "Miami Marlins",
+                        "link": "/api/v1/teams/146"
+                    },
+                    "player": {
+                        "id": 691277,
+                        "fullName": "Deyvison De Los Santos",
+                        "link": "/api/v1/people/691277",
+                        "firstName": "Deyvison",
+                        "lastName": "De Los Santos"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 13,
+                    "position": {
+                        "code": "3",
+                        "name": "First Base",
+                        "type": "Infielder",
+                        "abbreviation": "1B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 24,
+                        "gamesPlayed": 5,
+                        "groundOuts": 0,
+                        "airOuts": 1,
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "intentionalWalks": 0,
+                        "hits": 1,
+                        "hitByPitch": 0,
+                        "avg": ".333",
+                        "atBats": 3,
+                        "obp": ".333",
+                        "slg": ".333",
+                        "ops": ".666",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 12,
+                        "plateAppearances": 3,
+                        "totalBases": 1,
+                        "rbi": 0,
+                        "leftOnBase": 2,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".500",
+                        "groundOutsToAirouts": "0.00",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 108,
+                        "name": "Los Angeles Angels",
+                        "link": "/api/v1/teams/108"
+                    },
+                    "player": {
+                        "id": 683079,
+                        "fullName": "Omar Martinez",
+                        "link": "/api/v1/people/683079",
+                        "firstName": "Omar",
+                        "lastName": "Martinez"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 13,
+                    "position": {
+                        "code": "2",
+                        "name": "Catcher",
+                        "type": "Catcher",
+                        "abbreviation": "C"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 24,
+                        "gamesPlayed": 24,
+                        "groundOuts": 32,
+                        "airOuts": 14,
+                        "runs": 16,
+                        "doubles": 4,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 23,
+                        "baseOnBalls": 10,
+                        "intentionalWalks": 0,
+                        "hits": 32,
+                        "hitByPitch": 1,
+                        "avg": ".327",
+                        "atBats": 98,
+                        "obp": ".391",
+                        "slg": ".388",
+                        "ops": ".779",
+                        "caughtStealing": 0,
+                        "stolenBases": 3,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 411,
+                        "plateAppearances": 112,
+                        "totalBases": 38,
+                        "rbi": 7,
+                        "leftOnBase": 37,
+                        "sacBunts": 2,
+                        "sacFlies": 1,
+                        "babip": ".421",
+                        "groundOutsToAirouts": "2.29",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 141,
+                        "name": "Toronto Blue Jays",
+                        "link": "/api/v1/teams/141"
+                    },
+                    "player": {
+                        "id": 703520,
+                        "fullName": "Brett Bateman",
+                        "link": "/api/v1/people/703520",
+                        "firstName": "Brett",
+                        "lastName": "Bateman"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 17,
+                    "position": {
+                        "code": "8",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "CF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 29,
+                        "gamesPlayed": 134,
+                        "groundOuts": 151,
+                        "airOuts": 206,
+                        "runs": 64,
+                        "doubles": 29,
+                        "triples": 7,
+                        "homeRuns": 6,
+                        "strikeOuts": 25,
+                        "baseOnBalls": 28,
+                        "intentionalWalks": 4,
+                        "hits": 170,
+                        "hitByPitch": 4,
+                        "avg": ".318",
+                        "atBats": 535,
+                        "obp": ".349",
+                        "slg": ".432",
+                        "ops": ".781",
+                        "caughtStealing": 0,
+                        "stolenBases": 10,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 14,
+                        "numberOfPitches": 2176,
+                        "plateAppearances": 584,
+                        "totalBases": 231,
+                        "rbi": 56,
+                        "leftOnBase": 178,
+                        "sacBunts": 6,
+                        "sacFlies": 11,
+                        "babip": ".318",
+                        "groundOutsToAirouts": "0.73",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "89.17"
+                    },
+                    "team": {
+                        "id": 143,
+                        "name": "Philadelphia Phillies",
+                        "link": "/api/v1/teams/143"
+                    },
+                    "player": {
+                        "id": 650333,
+                        "fullName": "Luis Arraez",
+                        "link": "/api/v1/people/650333",
+                        "firstName": "Luis",
+                        "lastName": "Arraez"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 2,
+                    "rank": 18,
+                    "position": {
+                        "code": "4",
+                        "name": "Second Base",
+                        "type": "Infielder",
+                        "abbreviation": "2B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 29,
+                        "gamesPlayed": 141,
+                        "groundOuts": 83,
+                        "airOuts": 159,
+                        "runs": 93,
+                        "doubles": 29,
+                        "triples": 1,
+                        "homeRuns": 37,
+                        "strikeOuts": 108,
+                        "baseOnBalls": 99,
+                        "intentionalWalks": 31,
+                        "hits": 159,
+                        "hitByPitch": 10,
+                        "avg": ".315",
+                        "atBats": 504,
+                        "obp": ".434",
+                        "slg": ".597",
+                        "ops": "1.031",
+                        "caughtStealing": 0,
+                        "stolenBases": 1,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 5,
+                        "numberOfPitches": 2337,
+                        "plateAppearances": 618,
+                        "totalBases": 301,
+                        "rbi": 94,
+                        "leftOnBase": 154,
+                        "sacBunts": 0,
+                        "sacFlies": 5,
+                        "babip": ".335",
+                        "groundOutsToAirouts": "0.52",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "13.62"
+                    },
+                    "team": {
+                        "id": 117,
+                        "name": "Houston Astros",
+                        "link": "/api/v1/teams/117"
+                    },
+                    "player": {
+                        "id": 670541,
+                        "fullName": "Yordan Alvarez",
+                        "link": "/api/v1/people/670541",
+                        "firstName": "Yordan",
+                        "lastName": "Alvarez"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 19,
+                    "position": {
+                        "code": "10",
+                        "name": "Designated Hitter",
+                        "type": "Hitter",
+                        "abbreviation": "DH"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 30,
+                        "gamesPlayed": 31,
+                        "groundOuts": 13,
+                        "airOuts": 10,
+                        "runs": 12,
+                        "doubles": 4,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 23,
+                        "baseOnBalls": 2,
+                        "intentionalWalks": 0,
+                        "hits": 21,
+                        "hitByPitch": 2,
+                        "avg": ".313",
+                        "atBats": 67,
+                        "obp": ".352",
+                        "slg": ".418",
+                        "ops": ".770",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 260,
+                        "plateAppearances": 71,
+                        "totalBases": 28,
+                        "rbi": 5,
+                        "leftOnBase": 24,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".465",
+                        "groundOutsToAirouts": "1.30",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "67.00"
+                    },
+                    "team": {
+                        "id": 142,
+                        "name": "Minnesota Twins",
+                        "link": "/api/v1/teams/142"
+                    },
+                    "player": {
+                        "id": 656577,
+                        "fullName": "Alex Jackson",
+                        "link": "/api/v1/people/656577",
+                        "firstName": "Alex",
+                        "lastName": "Jackson"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 20,
+                    "position": {
+                        "code": "2",
+                        "name": "Catcher",
+                        "type": "Catcher",
+                        "abbreviation": "C"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 28,
+                        "gamesPlayed": 95,
+                        "groundOuts": 68,
+                        "airOuts": 69,
+                        "runs": 32,
+                        "doubles": 17,
+                        "triples": 2,
+                        "homeRuns": 6,
+                        "strikeOuts": 47,
+                        "baseOnBalls": 33,
+                        "intentionalWalks": 1,
+                        "hits": 83,
+                        "hitByPitch": 6,
+                        "avg": ".313",
+                        "atBats": 265,
+                        "obp": ".399",
+                        "slg": ".460",
+                        "ops": ".859",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 7,
+                        "numberOfPitches": 1258,
+                        "plateAppearances": 306,
+                        "totalBases": 122,
+                        "rbi": 42,
+                        "leftOnBase": 143,
+                        "sacBunts": 0,
+                        "sacFlies": 2,
+                        "babip": ".360",
+                        "groundOutsToAirouts": "0.99",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "44.17"
+                    },
+                    "team": {
+                        "id": 158,
+                        "name": "Milwaukee Brewers",
+                        "link": "/api/v1/teams/158"
+                    },
+                    "player": {
+                        "id": 683734,
+                        "fullName": "Andrew Vaughn",
+                        "link": "/api/v1/people/683734",
+                        "firstName": "Andrew",
+                        "lastName": "Vaughn"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 21,
+                    "position": {
+                        "code": "3",
+                        "name": "First Base",
+                        "type": "Infielder",
+                        "abbreviation": "1B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 27,
+                        "gamesPlayed": 90,
+                        "groundOuts": 67,
+                        "airOuts": 50,
+                        "runs": 34,
+                        "doubles": 12,
+                        "triples": 2,
+                        "homeRuns": 4,
+                        "strikeOuts": 59,
+                        "baseOnBalls": 17,
+                        "intentionalWalks": 1,
+                        "hits": 78,
+                        "hitByPitch": 4,
+                        "avg": ".311",
+                        "atBats": 251,
+                        "obp": ".363",
+                        "slg": ".422",
+                        "ops": ".785",
+                        "caughtStealing": 3,
+                        "stolenBases": 10,
+                        "stolenBasePercentage": ".769",
+                        "caughtStealingPercentage": ".231",
+                        "groundIntoDoublePlay": 5,
+                        "numberOfPitches": 1045,
+                        "plateAppearances": 277,
+                        "totalBases": 106,
+                        "rbi": 30,
+                        "leftOnBase": 87,
+                        "sacBunts": 2,
+                        "sacFlies": 1,
+                        "babip": ".392",
+                        "groundOutsToAirouts": "1.34",
+                        "catchersInterference": 2,
+                        "atBatsPerHomeRun": "62.75"
+                    },
+                    "team": {
+                        "id": 110,
+                        "name": "Baltimore Orioles",
+                        "link": "/api/v1/teams/110"
+                    },
+                    "player": {
+                        "id": 677942,
+                        "fullName": "Blaze Alexander",
+                        "link": "/api/v1/people/677942",
+                        "firstName": "Blaze",
+                        "lastName": "Alexander"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 22,
+                    "position": {
+                        "code": "5",
+                        "name": "Third Base",
+                        "type": "Infielder",
+                        "abbreviation": "3B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 27,
+                        "gamesPlayed": 18,
+                        "groundOuts": 13,
+                        "airOuts": 17,
+                        "runs": 7,
+                        "doubles": 5,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 9,
+                        "baseOnBalls": 8,
+                        "intentionalWalks": 0,
+                        "hits": 16,
+                        "hitByPitch": 2,
+                        "avg": ".308",
+                        "atBats": 52,
+                        "obp": ".400",
+                        "slg": ".404",
+                        "ops": ".804",
+                        "caughtStealing": 1,
+                        "stolenBases": 1,
+                        "stolenBasePercentage": ".500",
+                        "caughtStealingPercentage": ".500",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 245,
+                        "plateAppearances": 65,
+                        "totalBases": 21,
+                        "rbi": 12,
+                        "leftOnBase": 23,
+                        "sacBunts": 0,
+                        "sacFlies": 3,
+                        "babip": ".348",
+                        "groundOutsToAirouts": "0.76",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 137,
+                        "name": "San Francisco Giants",
+                        "link": "/api/v1/teams/137"
+                    },
+                    "player": {
+                        "id": 806367,
+                        "fullName": "Turner Hill",
+                        "link": "/api/v1/people/806367",
+                        "firstName": "Turner",
+                        "lastName": "Hill"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 23,
+                    "position": {
+                        "code": "7",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "LF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 34,
+                        "gamesPlayed": 5,
+                        "groundOuts": 4,
+                        "airOuts": 3,
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 0,
+                        "intentionalWalks": 0,
+                        "hits": 4,
+                        "hitByPitch": 0,
+                        "avg": ".308",
+                        "atBats": 13,
+                        "obp": ".286",
+                        "slg": ".462",
+                        "ops": ".748",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 1,
+                        "numberOfPitches": 49,
+                        "plateAppearances": 14,
+                        "totalBases": 6,
+                        "rbi": 4,
+                        "leftOnBase": 8,
+                        "sacBunts": 0,
+                        "sacFlies": 1,
+                        "babip": ".364",
+                        "groundOutsToAirouts": "1.33",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 108,
+                        "name": "Los Angeles Angels",
+                        "link": "/api/v1/teams/108"
+                    },
+                    "player": {
+                        "id": 641820,
+                        "fullName": "Trey Mancini",
+                        "link": "/api/v1/people/641820",
+                        "firstName": "Trey",
+                        "lastName": "Mancini"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 23,
+                    "position": {
+                        "code": "3",
+                        "name": "First Base",
+                        "type": "Infielder",
+                        "abbreviation": "1B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 27,
+                        "gamesPlayed": 31,
+                        "groundOuts": 29,
+                        "airOuts": 10,
+                        "runs": 16,
+                        "doubles": 1,
+                        "triples": 2,
+                        "homeRuns": 1,
+                        "strikeOuts": 36,
+                        "baseOnBalls": 13,
+                        "intentionalWalks": 0,
+                        "hits": 32,
+                        "hitByPitch": 1,
+                        "avg": ".308",
+                        "atBats": 104,
+                        "obp": ".390",
+                        "slg": ".385",
+                        "ops": ".775",
+                        "caughtStealing": 2,
+                        "stolenBases": 7,
+                        "stolenBasePercentage": ".778",
+                        "caughtStealingPercentage": ".222",
+                        "groundIntoDoublePlay": 2,
+                        "numberOfPitches": 496,
+                        "plateAppearances": 121,
+                        "totalBases": 40,
+                        "rbi": 11,
+                        "leftOnBase": 34,
+                        "sacBunts": 3,
+                        "sacFlies": 0,
+                        "babip": ".463",
+                        "groundOutsToAirouts": "2.90",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "104.00"
+                    },
+                    "team": {
+                        "id": 135,
+                        "name": "San Diego Padres",
+                        "link": "/api/v1/teams/135"
+                    },
+                    "player": {
+                        "id": 669392,
+                        "fullName": "Samad Taylor",
+                        "link": "/api/v1/people/669392",
+                        "firstName": "Samad",
+                        "lastName": "Taylor"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 23,
+                    "position": {
+                        "code": "7",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "LF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 25,
+                        "gamesPlayed": 134,
+                        "groundOuts": 192,
+                        "airOuts": 127,
+                        "runs": 55,
+                        "doubles": 14,
+                        "triples": 6,
+                        "homeRuns": 0,
+                        "strikeOuts": 45,
+                        "baseOnBalls": 24,
+                        "intentionalWalks": 1,
+                        "hits": 155,
+                        "hitByPitch": 0,
+                        "avg": ".308",
+                        "atBats": 504,
+                        "obp": ".335",
+                        "slg": ".359",
+                        "ops": ".694",
+                        "caughtStealing": 14,
+                        "stolenBases": 38,
+                        "stolenBasePercentage": ".731",
+                        "caughtStealingPercentage": ".269",
+                        "groundIntoDoublePlay": 5,
+                        "numberOfPitches": 1760,
+                        "plateAppearances": 543,
+                        "totalBases": 181,
+                        "rbi": 31,
+                        "leftOnBase": 170,
+                        "sacBunts": 9,
+                        "sacFlies": 6,
+                        "babip": ".333",
+                        "groundOutsToAirouts": "1.51",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 139,
+                        "name": "Tampa Bay Rays",
+                        "link": "/api/v1/teams/139"
+                    },
+                    "player": {
+                        "id": 802415,
+                        "fullName": "Chandler Simpson",
+                        "link": "/api/v1/people/802415",
+                        "firstName": "Chandler",
+                        "lastName": "Simpson"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 26,
+                    "position": {
+                        "code": "7",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "LF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 27,
+                        "gamesPlayed": 133,
+                        "groundOuts": 146,
+                        "airOuts": 112,
+                        "runs": 67,
+                        "doubles": 24,
+                        "triples": 1,
+                        "homeRuns": 6,
+                        "strikeOuts": 90,
+                        "baseOnBalls": 39,
+                        "intentionalWalks": 0,
+                        "hits": 154,
+                        "hitByPitch": 12,
+                        "avg": ".307",
+                        "atBats": 501,
+                        "obp": ".371",
+                        "slg": ".395",
+                        "ops": ".766",
+                        "caughtStealing": 3,
+                        "stolenBases": 7,
+                        "stolenBasePercentage": ".700",
+                        "caughtStealingPercentage": ".300",
+                        "groundIntoDoublePlay": 13,
+                        "numberOfPitches": 2024,
+                        "plateAppearances": 553,
+                        "totalBases": 198,
+                        "rbi": 59,
+                        "leftOnBase": 210,
+                        "sacBunts": 0,
+                        "sacFlies": 1,
+                        "babip": ".365",
+                        "groundOutsToAirouts": "1.30",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "83.50"
+                    },
+                    "team": {
+                        "id": 134,
+                        "name": "Pittsburgh Pirates",
+                        "link": "/api/v1/teams/134"
+                    },
+                    "player": {
+                        "id": 693304,
+                        "fullName": "Nick Gonzales",
+                        "link": "/api/v1/people/693304",
+                        "firstName": "Nick",
+                        "lastName": "Gonzales"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 27,
+                    "position": {
+                        "code": "5",
+                        "name": "Third Base",
+                        "type": "Infielder",
+                        "abbreviation": "3B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 23,
+                        "gamesPlayed": 24,
+                        "groundOuts": 20,
+                        "airOuts": 23,
+                        "runs": 14,
+                        "doubles": 5,
+                        "triples": 0,
+                        "homeRuns": 3,
+                        "strikeOuts": 19,
+                        "baseOnBalls": 6,
+                        "intentionalWalks": 0,
+                        "hits": 27,
+                        "hitByPitch": 2,
+                        "avg": ".307",
+                        "atBats": 88,
+                        "obp": ".361",
+                        "slg": ".466",
+                        "ops": ".827",
+                        "caughtStealing": 0,
+                        "stolenBases": 1,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 1,
+                        "numberOfPitches": 384,
+                        "plateAppearances": 97,
+                        "totalBases": 41,
+                        "rbi": 10,
+                        "leftOnBase": 42,
+                        "sacBunts": 0,
+                        "sacFlies": 1,
+                        "babip": ".358",
+                        "groundOutsToAirouts": "0.87",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "29.33"
+                    },
+                    "team": {
+                        "id": 142,
+                        "name": "Minnesota Twins",
+                        "link": "/api/v1/teams/142"
+                    },
+                    "player": {
+                        "id": 701785,
+                        "fullName": "Kaelen Culpepper",
+                        "link": "/api/v1/people/701785",
+                        "firstName": "Kaelen",
+                        "lastName": "Culpepper"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 28,
+                    "position": {
+                        "code": "6",
+                        "name": "Shortstop",
+                        "type": "Infielder",
+                        "abbreviation": "SS"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 26,
+                        "gamesPlayed": 29,
+                        "groundOuts": 22,
+                        "airOuts": 13,
+                        "runs": 14,
+                        "doubles": 8,
+                        "triples": 0,
+                        "homeRuns": 6,
+                        "strikeOuts": 26,
+                        "baseOnBalls": 1,
+                        "intentionalWalks": 0,
+                        "hits": 27,
+                        "hitByPitch": 1,
+                        "avg": ".307",
+                        "atBats": 88,
+                        "obp": ".322",
+                        "slg": ".602",
+                        "ops": ".924",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 3,
+                        "numberOfPitches": 341,
+                        "plateAppearances": 90,
+                        "totalBases": 53,
+                        "rbi": 18,
+                        "leftOnBase": 42,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".375",
+                        "groundOutsToAirouts": "1.69",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "14.67"
+                    },
+                    "team": {
+                        "id": 116,
+                        "name": "Detroit Tigers",
+                        "link": "/api/v1/teams/116"
+                    },
+                    "player": {
+                        "id": 680664,
+                        "fullName": "Eduardo Valencia",
+                        "link": "/api/v1/people/680664",
+                        "firstName": "Eduardo",
+                        "lastName": "Valencia"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 28,
+                    "position": {
+                        "code": "10",
+                        "name": "Designated Hitter",
+                        "type": "Hitter",
+                        "abbreviation": "DH"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 28,
+                        "gamesPlayed": 70,
+                        "groundOuts": 30,
+                        "airOuts": 30,
+                        "runs": 31,
+                        "doubles": 5,
+                        "triples": 0,
+                        "homeRuns": 3,
+                        "strikeOuts": 25,
+                        "baseOnBalls": 12,
+                        "intentionalWalks": 0,
+                        "hits": 35,
+                        "hitByPitch": 1,
+                        "avg": ".304",
+                        "atBats": 115,
+                        "obp": ".372",
+                        "slg": ".426",
+                        "ops": ".798",
+                        "caughtStealing": 3,
+                        "stolenBases": 21,
+                        "stolenBasePercentage": ".875",
+                        "caughtStealingPercentage": ".125",
+                        "groundIntoDoublePlay": 3,
+                        "numberOfPitches": 464,
+                        "plateAppearances": 133,
+                        "totalBases": 49,
+                        "rbi": 8,
+                        "leftOnBase": 57,
+                        "sacBunts": 4,
+                        "sacFlies": 1,
+                        "babip": ".364",
+                        "groundOutsToAirouts": "1.00",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "38.33"
+                    },
+                    "team": {
+                        "id": 118,
+                        "name": "Kansas City Royals",
+                        "link": "/api/v1/teams/118"
+                    },
+                    "player": {
+                        "id": 686475,
+                        "fullName": "Tyler Tolbert",
+                        "link": "/api/v1/people/686475",
+                        "firstName": "Tyler",
+                        "lastName": "Tolbert"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 30,
+                    "position": {
+                        "code": "6",
+                        "name": "Shortstop",
+                        "type": "Infielder",
+                        "abbreviation": "SS"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 34,
+                        "gamesPlayed": 137,
+                        "groundOuts": 170,
+                        "airOuts": 127,
+                        "runs": 82,
+                        "doubles": 24,
+                        "triples": 1,
+                        "homeRuns": 21,
+                        "strikeOuts": 86,
+                        "baseOnBalls": 52,
+                        "intentionalWalks": 6,
+                        "hits": 165,
+                        "hitByPitch": 10,
+                        "avg": ".304",
+                        "atBats": 543,
+                        "obp": ".372",
+                        "slg": ".468",
+                        "ops": ".840",
+                        "caughtStealing": 1,
+                        "stolenBases": 3,
+                        "stolenBasePercentage": ".750",
+                        "caughtStealingPercentage": ".250",
+                        "groundIntoDoublePlay": 15,
+                        "numberOfPitches": 2255,
+                        "plateAppearances": 610,
+                        "totalBases": 254,
+                        "rbi": 76,
+                        "leftOnBase": 176,
+                        "sacBunts": 0,
+                        "sacFlies": 5,
+                        "babip": ".327",
+                        "groundOutsToAirouts": "1.34",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "25.86"
+                    },
+                    "team": {
+                        "id": 139,
+                        "name": "Tampa Bay Rays",
+                        "link": "/api/v1/teams/139"
+                    },
+                    "player": {
+                        "id": 650490,
+                        "fullName": "Yandy D\u00edaz",
+                        "link": "/api/v1/people/650490",
+                        "firstName": "Yandy",
+                        "lastName": "D\u00edaz"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 31,
+                    "position": {
+                        "code": "10",
+                        "name": "Designated Hitter",
+                        "type": "Hitter",
+                        "abbreviation": "DH"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 36,
+                        "gamesPlayed": 137,
+                        "groundOuts": 135,
+                        "airOuts": 132,
+                        "runs": 71,
+                        "doubles": 32,
+                        "triples": 1,
+                        "homeRuns": 16,
+                        "strikeOuts": 98,
+                        "baseOnBalls": 64,
+                        "intentionalWalks": 3,
+                        "hits": 155,
+                        "hitByPitch": 4,
+                        "avg": ".302",
+                        "atBats": 514,
+                        "obp": ".379",
+                        "slg": ".461",
+                        "ops": ".840",
+                        "caughtStealing": 0,
+                        "stolenBases": 6,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 18,
+                        "numberOfPitches": 2418,
+                        "plateAppearances": 588,
+                        "totalBases": 237,
+                        "rbi": 66,
+                        "leftOnBase": 224,
+                        "sacBunts": 0,
+                        "sacFlies": 6,
+                        "babip": ".342",
+                        "groundOutsToAirouts": "1.02",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "32.12"
+                    },
+                    "team": {
+                        "id": 119,
+                        "name": "Los Angeles Dodgers",
+                        "link": "/api/v1/teams/119"
+                    },
+                    "player": {
+                        "id": 518692,
+                        "fullName": "Freddie Freeman",
+                        "link": "/api/v1/people/518692",
+                        "firstName": "Freddie",
+                        "lastName": "Freeman"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 32,
+                    "position": {
+                        "code": "3",
+                        "name": "First Base",
+                        "type": "Infielder",
+                        "abbreviation": "1B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 27,
+                        "gamesPlayed": 139,
+                        "groundOuts": 173,
+                        "airOuts": 149,
+                        "runs": 83,
+                        "doubles": 31,
+                        "triples": 8,
+                        "homeRuns": 10,
+                        "strikeOuts": 78,
+                        "baseOnBalls": 32,
+                        "intentionalWalks": 0,
+                        "hits": 167,
+                        "hitByPitch": 5,
+                        "avg": ".300",
+                        "atBats": 556,
+                        "obp": ".338",
+                        "slg": ".439",
+                        "ops": ".777",
+                        "caughtStealing": 4,
+                        "stolenBases": 29,
+                        "stolenBasePercentage": ".879",
+                        "caughtStealingPercentage": ".121",
+                        "groundIntoDoublePlay": 13,
+                        "numberOfPitches": 2198,
+                        "plateAppearances": 604,
+                        "totalBases": 244,
+                        "rbi": 62,
+                        "leftOnBase": 220,
+                        "sacBunts": 0,
+                        "sacFlies": 11,
+                        "babip": ".328",
+                        "groundOutsToAirouts": "1.16",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "55.60"
+                    },
+                    "team": {
+                        "id": 146,
+                        "name": "Miami Marlins",
+                        "link": "/api/v1/teams/146"
+                    },
+                    "player": {
+                        "id": 672640,
+                        "fullName": "Otto Lopez",
+                        "link": "/api/v1/people/672640",
+                        "firstName": "Otto",
+                        "lastName": "Lopez"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 33,
+                    "position": {
+                        "code": "6",
+                        "name": "Shortstop",
+                        "type": "Infielder",
+                        "abbreviation": "SS"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 26,
+                        "gamesPlayed": 112,
+                        "groundOuts": 105,
+                        "airOuts": 114,
+                        "runs": 59,
+                        "doubles": 30,
+                        "triples": 1,
+                        "homeRuns": 12,
+                        "strikeOuts": 72,
+                        "baseOnBalls": 53,
+                        "intentionalWalks": 0,
+                        "hits": 121,
+                        "hitByPitch": 4,
+                        "avg": ".300",
+                        "atBats": 403,
+                        "obp": ".380",
+                        "slg": ".469",
+                        "ops": ".849",
+                        "caughtStealing": 2,
+                        "stolenBases": 5,
+                        "stolenBasePercentage": ".714",
+                        "caughtStealingPercentage": ".286",
+                        "groundIntoDoublePlay": 8,
+                        "numberOfPitches": 2075,
+                        "plateAppearances": 469,
+                        "totalBases": 189,
+                        "rbi": 69,
+                        "leftOnBase": 169,
+                        "sacBunts": 0,
+                        "sacFlies": 9,
+                        "babip": ".332",
+                        "groundOutsToAirouts": "0.92",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "33.58"
+                    },
+                    "team": {
+                        "id": 109,
+                        "name": "Arizona Diamondbacks",
+                        "link": "/api/v1/teams/109"
+                    },
+                    "player": {
+                        "id": 672515,
+                        "fullName": "Gabriel Moreno",
+                        "link": "/api/v1/people/672515",
+                        "firstName": "Gabriel",
+                        "lastName": "Moreno"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 34,
+                    "position": {
+                        "code": "2",
+                        "name": "Catcher",
+                        "type": "Catcher",
+                        "abbreviation": "C"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 26,
+                        "gamesPlayed": 78,
+                        "groundOuts": 66,
+                        "airOuts": 48,
+                        "runs": 34,
+                        "doubles": 13,
+                        "triples": 0,
+                        "homeRuns": 3,
+                        "strikeOuts": 53,
+                        "baseOnBalls": 25,
+                        "intentionalWalks": 0,
+                        "hits": 70,
+                        "hitByPitch": 2,
+                        "avg": ".298",
+                        "atBats": 235,
+                        "obp": ".370",
+                        "slg": ".391",
+                        "ops": ".761",
+                        "caughtStealing": 0,
+                        "stolenBases": 6,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 1,
+                        "numberOfPitches": 958,
+                        "plateAppearances": 264,
+                        "totalBases": 92,
+                        "rbi": 25,
+                        "leftOnBase": 87,
+                        "sacBunts": 2,
+                        "sacFlies": 0,
+                        "babip": ".374",
+                        "groundOutsToAirouts": "1.38",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "78.33"
+                    },
+                    "team": {
+                        "id": 108,
+                        "name": "Los Angeles Angels",
+                        "link": "/api/v1/teams/108"
+                    },
+                    "player": {
+                        "id": 685133,
+                        "fullName": "Wade Meckler",
+                        "link": "/api/v1/people/685133",
+                        "firstName": "Wade",
+                        "lastName": "Meckler"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 35,
+                    "position": {
+                        "code": "7",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "LF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 36,
+                        "gamesPlayed": 44,
+                        "groundOuts": 32,
+                        "airOuts": 27,
+                        "runs": 15,
+                        "doubles": 6,
+                        "triples": 0,
+                        "homeRuns": 5,
+                        "strikeOuts": 36,
+                        "baseOnBalls": 6,
+                        "intentionalWalks": 0,
+                        "hits": 39,
+                        "hitByPitch": 1,
+                        "avg": ".295",
+                        "atBats": 132,
+                        "obp": ".331",
+                        "slg": ".455",
+                        "ops": ".786",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 5,
+                        "numberOfPitches": 524,
+                        "plateAppearances": 141,
+                        "totalBases": 60,
+                        "rbi": 23,
+                        "leftOnBase": 42,
+                        "sacBunts": 2,
+                        "sacFlies": 0,
+                        "babip": ".374",
+                        "groundOutsToAirouts": "1.19",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "26.40"
+                    },
+                    "team": {
+                        "id": 109,
+                        "name": "Arizona Diamondbacks",
+                        "link": "/api/v1/teams/109"
+                    },
+                    "player": {
+                        "id": 543510,
+                        "fullName": "James McCann",
+                        "link": "/api/v1/people/543510",
+                        "firstName": "James",
+                        "lastName": "McCann"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 36,
+                    "position": {
+                        "code": "2",
+                        "name": "Catcher",
+                        "type": "Catcher",
+                        "abbreviation": "C"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 26,
+                        "gamesPlayed": 138,
+                        "groundOuts": 132,
+                        "airOuts": 135,
+                        "runs": 59,
+                        "doubles": 27,
+                        "triples": 3,
+                        "homeRuns": 15,
+                        "strikeOuts": 77,
+                        "baseOnBalls": 65,
+                        "intentionalWalks": 0,
+                        "hits": 143,
+                        "hitByPitch": 9,
+                        "avg": ".295",
+                        "atBats": 485,
+                        "obp": ".387",
+                        "slg": ".456",
+                        "ops": ".843",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 5,
+                        "numberOfPitches": 2117,
+                        "plateAppearances": 561,
+                        "totalBases": 221,
+                        "rbi": 66,
+                        "leftOnBase": 182,
+                        "sacBunts": 0,
+                        "sacFlies": 2,
+                        "babip": ".324",
+                        "groundOutsToAirouts": "0.98",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "32.33"
+                    },
+                    "team": {
+                        "id": 115,
+                        "name": "Colorado Rockies",
+                        "link": "/api/v1/teams/115"
+                    },
+                    "player": {
+                        "id": 681198,
+                        "fullName": "TJ Rumfield",
+                        "link": "/api/v1/people/681198",
+                        "firstName": "TJ",
+                        "lastName": "Rumfield"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 37,
+                    "position": {
+                        "code": "3",
+                        "name": "First Base",
+                        "type": "Infielder",
+                        "abbreviation": "1B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 24,
+                        "gamesPlayed": 120,
+                        "groundOuts": 113,
+                        "airOuts": 130,
+                        "runs": 56,
+                        "doubles": 28,
+                        "triples": 3,
+                        "homeRuns": 13,
+                        "strikeOuts": 74,
+                        "baseOnBalls": 51,
+                        "intentionalWalks": 0,
+                        "hits": 131,
+                        "hitByPitch": 0,
+                        "avg": ".294",
+                        "atBats": 445,
+                        "obp": ".365",
+                        "slg": ".458",
+                        "ops": ".823",
+                        "caughtStealing": 2,
+                        "stolenBases": 10,
+                        "stolenBasePercentage": ".833",
+                        "caughtStealingPercentage": ".167",
+                        "groundIntoDoublePlay": 8,
+                        "numberOfPitches": 1931,
+                        "plateAppearances": 499,
+                        "totalBases": 204,
+                        "rbi": 60,
+                        "leftOnBase": 194,
+                        "sacBunts": 0,
+                        "sacFlies": 3,
+                        "babip": ".327",
+                        "groundOutsToAirouts": "0.87",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "34.23"
+                    },
+                    "team": {
+                        "id": 114,
+                        "name": "Cleveland Guardians",
+                        "link": "/api/v1/teams/114"
+                    },
+                    "player": {
+                        "id": 800050,
+                        "fullName": "Chase DeLauter",
+                        "link": "/api/v1/people/800050",
+                        "firstName": "Chase",
+                        "lastName": "DeLauter"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 38,
+                    "position": {
+                        "code": "9",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "RF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 28,
+                        "gamesPlayed": 92,
+                        "groundOuts": 88,
+                        "airOuts": 94,
+                        "runs": 46,
+                        "doubles": 23,
+                        "triples": 1,
+                        "homeRuns": 9,
+                        "strikeOuts": 71,
+                        "baseOnBalls": 33,
+                        "intentionalWalks": 0,
+                        "hits": 104,
+                        "hitByPitch": 6,
+                        "avg": ".294",
+                        "atBats": 354,
+                        "obp": ".361",
+                        "slg": ".441",
+                        "ops": ".802",
+                        "caughtStealing": 1,
+                        "stolenBases": 1,
+                        "stolenBasePercentage": ".500",
+                        "caughtStealingPercentage": ".500",
+                        "groundIntoDoublePlay": 14,
+                        "numberOfPitches": 1461,
+                        "plateAppearances": 396,
+                        "totalBases": 156,
+                        "rbi": 35,
+                        "leftOnBase": 140,
+                        "sacBunts": 0,
+                        "sacFlies": 3,
+                        "babip": ".343",
+                        "groundOutsToAirouts": "0.94",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "39.33"
+                    },
+                    "team": {
+                        "id": 140,
+                        "name": "Texas Rangers",
+                        "link": "/api/v1/teams/140"
+                    },
+                    "player": {
+                        "id": 673962,
+                        "fullName": "Josh Jung",
+                        "link": "/api/v1/people/673962",
+                        "firstName": "Josh",
+                        "lastName": "Jung"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 39,
+                    "position": {
+                        "code": "5",
+                        "name": "Third Base",
+                        "type": "Infielder",
+                        "abbreviation": "3B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 31,
+                        "gamesPlayed": 116,
+                        "groundOuts": 85,
+                        "airOuts": 93,
+                        "runs": 50,
+                        "doubles": 19,
+                        "triples": 2,
+                        "homeRuns": 20,
+                        "strikeOuts": 93,
+                        "baseOnBalls": 33,
+                        "intentionalWalks": 1,
+                        "hits": 109,
+                        "hitByPitch": 12,
+                        "avg": ".292",
+                        "atBats": 373,
+                        "obp": ".362",
+                        "slg": ".515",
+                        "ops": ".877",
+                        "caughtStealing": 1,
+                        "stolenBases": 1,
+                        "stolenBasePercentage": ".500",
+                        "caughtStealingPercentage": ".500",
+                        "groundIntoDoublePlay": 9,
+                        "numberOfPitches": 1703,
+                        "plateAppearances": 426,
+                        "totalBases": 192,
+                        "rbi": 62,
+                        "leftOnBase": 162,
+                        "sacBunts": 0,
+                        "sacFlies": 7,
+                        "babip": ".333",
+                        "groundOutsToAirouts": "0.91",
+                        "catchersInterference": 1,
+                        "atBatsPerHomeRun": "18.65"
+                    },
+                    "team": {
+                        "id": 135,
+                        "name": "San Diego Padres",
+                        "link": "/api/v1/teams/135"
+                    },
+                    "player": {
+                        "id": 664034,
+                        "fullName": "Ty France",
+                        "link": "/api/v1/people/664034",
+                        "firstName": "Ty",
+                        "lastName": "France"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 40,
+                    "position": {
+                        "code": "3",
+                        "name": "First Base",
+                        "type": "Infielder",
+                        "abbreviation": "1B"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 25,
+                        "gamesPlayed": 136,
+                        "groundOuts": 139,
+                        "airOuts": 122,
+                        "runs": 67,
+                        "doubles": 32,
+                        "triples": 1,
+                        "homeRuns": 24,
+                        "strikeOuts": 109,
+                        "baseOnBalls": 20,
+                        "intentionalWalks": 1,
+                        "hits": 150,
+                        "hitByPitch": 2,
+                        "avg": ".291",
+                        "atBats": 515,
+                        "obp": ".319",
+                        "slg": ".497",
+                        "ops": ".816",
+                        "caughtStealing": 3,
+                        "stolenBases": 10,
+                        "stolenBasePercentage": ".769",
+                        "caughtStealingPercentage": ".231",
+                        "groundIntoDoublePlay": 3,
+                        "numberOfPitches": 1939,
+                        "plateAppearances": 542,
+                        "totalBases": 256,
+                        "rbi": 80,
+                        "leftOnBase": 182,
+                        "sacBunts": 2,
+                        "sacFlies": 3,
+                        "babip": ".327",
+                        "groundOutsToAirouts": "1.14",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "21.46"
+                    },
+                    "team": {
+                        "id": 144,
+                        "name": "Atlanta Braves",
+                        "link": "/api/v1/teams/144"
+                    },
+                    "player": {
+                        "id": 671739,
+                        "fullName": "Michael Harris II",
+                        "link": "/api/v1/people/671739",
+                        "firstName": "Michael",
+                        "lastName": "Harris"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 41,
+                    "position": {
+                        "code": "8",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "CF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 24,
+                        "gamesPlayed": 43,
+                        "groundOuts": 11,
+                        "airOuts": 13,
+                        "runs": 17,
+                        "doubles": 2,
+                        "triples": 2,
+                        "homeRuns": 4,
+                        "strikeOuts": 35,
+                        "baseOnBalls": 5,
+                        "intentionalWalks": 0,
+                        "hits": 23,
+                        "hitByPitch": 0,
+                        "avg": ".291",
+                        "atBats": 79,
+                        "obp": ".333",
+                        "slg": ".519",
+                        "ops": ".852",
+                        "caughtStealing": 1,
+                        "stolenBases": 9,
+                        "stolenBasePercentage": ".900",
+                        "caughtStealingPercentage": ".100",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 324,
+                        "plateAppearances": 87,
+                        "totalBases": 41,
+                        "rbi": 10,
+                        "leftOnBase": 23,
+                        "sacBunts": 3,
+                        "sacFlies": 0,
+                        "babip": ".475",
+                        "groundOutsToAirouts": "0.85",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "19.75"
+                    },
+                    "team": {
+                        "id": 137,
+                        "name": "San Francisco Giants",
+                        "link": "/api/v1/teams/137"
+                    },
+                    "player": {
+                        "id": 813841,
+                        "fullName": "Jonah Cox",
+                        "link": "/api/v1/people/813841",
+                        "firstName": "Jonah",
+                        "lastName": "Cox"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 42,
+                    "position": {
+                        "code": "8",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "CF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 30,
+                        "gamesPlayed": 27,
+                        "groundOuts": 17,
+                        "airOuts": 23,
+                        "runs": 10,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 2,
+                        "strikeOuts": 16,
+                        "baseOnBalls": 6,
+                        "intentionalWalks": 0,
+                        "hits": 23,
+                        "hitByPitch": 1,
+                        "avg": ".291",
+                        "atBats": 79,
+                        "obp": ".349",
+                        "slg": ".367",
+                        "ops": ".716",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 1,
+                        "numberOfPitches": 356,
+                        "plateAppearances": 86,
+                        "totalBases": 29,
+                        "rbi": 6,
+                        "leftOnBase": 32,
+                        "sacBunts": 0,
+                        "sacFlies": 0,
+                        "babip": ".344",
+                        "groundOutsToAirouts": "0.74",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "39.50"
+                    },
+                    "team": {
+                        "id": 136,
+                        "name": "Seattle Mariners",
+                        "link": "/api/v1/teams/136"
+                    },
+                    "player": {
+                        "id": 640902,
+                        "fullName": "Jhonny Pereda",
+                        "link": "/api/v1/people/640902",
+                        "firstName": "Jhonny",
+                        "lastName": "Pereda"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 42,
+                    "position": {
+                        "code": "2",
+                        "name": "Catcher",
+                        "type": "Catcher",
+                        "abbreviation": "C"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 26,
+                        "gamesPlayed": 26,
+                        "groundOuts": 19,
+                        "airOuts": 18,
+                        "runs": 10,
+                        "doubles": 2,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 10,
+                        "baseOnBalls": 7,
+                        "intentionalWalks": 0,
+                        "hits": 18,
+                        "hitByPitch": 1,
+                        "avg": ".290",
+                        "atBats": 62,
+                        "obp": ".366",
+                        "slg": ".355",
+                        "ops": ".721",
+                        "caughtStealing": 1,
+                        "stolenBases": 6,
+                        "stolenBasePercentage": ".857",
+                        "caughtStealingPercentage": ".143",
+                        "groundIntoDoublePlay": 0,
+                        "numberOfPitches": 253,
+                        "plateAppearances": 73,
+                        "totalBases": 22,
+                        "rbi": 6,
+                        "leftOnBase": 29,
+                        "sacBunts": 2,
+                        "sacFlies": 1,
+                        "babip": ".340",
+                        "groundOutsToAirouts": "1.06",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 135,
+                        "name": "San Diego Padres",
+                        "link": "/api/v1/teams/135"
+                    },
+                    "player": {
+                        "id": 687957,
+                        "fullName": "Dustin Harris",
+                        "link": "/api/v1/people/687957",
+                        "firstName": "Dustin",
+                        "lastName": "Harris"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 3,
+                    "rank": 44,
+                    "position": {
+                        "code": "7",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "LF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 29,
+                        "gamesPlayed": 12,
+                        "groundOuts": 7,
+                        "airOuts": 9,
+                        "runs": 2,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 7,
+                        "baseOnBalls": 3,
+                        "intentionalWalks": 0,
+                        "hits": 9,
+                        "hitByPitch": 0,
+                        "avg": ".290",
+                        "atBats": 31,
+                        "obp": ".343",
+                        "slg": ".290",
+                        "ops": ".633",
+                        "caughtStealing": 0,
+                        "stolenBases": 0,
+                        "stolenBasePercentage": ".---",
+                        "caughtStealingPercentage": ".---",
+                        "groundIntoDoublePlay": 1,
+                        "numberOfPitches": 130,
+                        "plateAppearances": 35,
+                        "totalBases": 9,
+                        "rbi": 3,
+                        "leftOnBase": 12,
+                        "sacBunts": 0,
+                        "sacFlies": 1,
+                        "babip": ".360",
+                        "groundOutsToAirouts": "0.78",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 141,
+                        "name": "Toronto Blue Jays",
+                        "link": "/api/v1/teams/141"
+                    },
+                    "player": {
+                        "id": 650391,
+                        "fullName": "Eloy Jim\u00e9nez",
+                        "link": "/api/v1/people/650391",
+                        "firstName": "Eloy",
+                        "lastName": "Jim\u00e9nez"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 44,
+                    "position": {
+                        "code": "10",
+                        "name": "Designated Hitter",
+                        "type": "Hitter",
+                        "abbreviation": "DH"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 26,
+                        "gamesPlayed": 9,
+                        "groundOuts": 9,
+                        "airOuts": 10,
+                        "runs": 4,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 2,
+                        "intentionalWalks": 0,
+                        "hits": 9,
+                        "hitByPitch": 0,
+                        "avg": ".290",
+                        "atBats": 31,
+                        "obp": ".333",
+                        "slg": ".323",
+                        "ops": ".656",
+                        "caughtStealing": 0,
+                        "stolenBases": 1,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 3,
+                        "numberOfPitches": 129,
+                        "plateAppearances": 34,
+                        "totalBases": 10,
+                        "rbi": 2,
+                        "leftOnBase": 15,
+                        "sacBunts": 1,
+                        "sacFlies": 0,
+                        "babip": ".333",
+                        "groundOutsToAirouts": "0.90",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "-.--"
+                    },
+                    "team": {
+                        "id": 134,
+                        "name": "Pittsburgh Pirates",
+                        "link": "/api/v1/teams/134"
+                    },
+                    "player": {
+                        "id": 682927,
+                        "fullName": "Ronny Simon",
+                        "link": "/api/v1/people/682927",
+                        "firstName": "Ronny",
+                        "lastName": "Simon"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 44,
+                    "position": {
+                        "code": "9",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "RF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 28,
+                        "gamesPlayed": 127,
+                        "groundOuts": 129,
+                        "airOuts": 128,
+                        "runs": 69,
+                        "doubles": 29,
+                        "triples": 8,
+                        "homeRuns": 14,
+                        "strikeOuts": 83,
+                        "baseOnBalls": 28,
+                        "intentionalWalks": 1,
+                        "hits": 135,
+                        "hitByPitch": 6,
+                        "avg": ".290",
+                        "atBats": 466,
+                        "obp": ".335",
+                        "slg": ".476",
+                        "ops": ".811",
+                        "caughtStealing": 5,
+                        "stolenBases": 29,
+                        "stolenBasePercentage": ".853",
+                        "caughtStealingPercentage": ".147",
+                        "groundIntoDoublePlay": 8,
+                        "numberOfPitches": 1680,
+                        "plateAppearances": 510,
+                        "totalBases": 222,
+                        "rbi": 72,
+                        "leftOnBase": 156,
+                        "sacBunts": 4,
+                        "sacFlies": 5,
+                        "babip": ".324",
+                        "groundOutsToAirouts": "1.01",
+                        "catchersInterference": 1,
+                        "atBatsPerHomeRun": "33.29"
+                    },
+                    "team": {
+                        "id": 115,
+                        "name": "Colorado Rockies",
+                        "link": "/api/v1/teams/115"
+                    },
+                    "player": {
+                        "id": 664983,
+                        "fullName": "Jake McCarthy",
+                        "link": "/api/v1/people/664983",
+                        "firstName": "Jake",
+                        "lastName": "McCarthy"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 47,
+                    "position": {
+                        "code": "7",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "LF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 27,
+                        "gamesPlayed": 126,
+                        "groundOuts": 125,
+                        "airOuts": 143,
+                        "runs": 62,
+                        "doubles": 13,
+                        "triples": 1,
+                        "homeRuns": 17,
+                        "strikeOuts": 48,
+                        "baseOnBalls": 50,
+                        "intentionalWalks": 3,
+                        "hits": 125,
+                        "hitByPitch": 10,
+                        "avg": ".289",
+                        "atBats": 433,
+                        "obp": ".370",
+                        "slg": ".441",
+                        "ops": ".811",
+                        "caughtStealing": 0,
+                        "stolenBases": 3,
+                        "stolenBasePercentage": "1.000",
+                        "caughtStealingPercentage": ".000",
+                        "groundIntoDoublePlay": 7,
+                        "numberOfPitches": 1821,
+                        "plateAppearances": 501,
+                        "totalBases": 191,
+                        "rbi": 76,
+                        "leftOnBase": 166,
+                        "sacBunts": 1,
+                        "sacFlies": 7,
+                        "babip": ".288",
+                        "groundOutsToAirouts": "0.87",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "25.47"
+                    },
+                    "team": {
+                        "id": 139,
+                        "name": "Tampa Bay Rays",
+                        "link": "/api/v1/teams/139"
+                    },
+                    "player": {
+                        "id": 689414,
+                        "fullName": "Liam Hicks",
+                        "link": "/api/v1/people/689414",
+                        "firstName": "Liam",
+                        "lastName": "Hicks"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "AL",
+                        "link": "/api/v1/league/103"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 2,
+                    "rank": 48,
+                    "position": {
+                        "code": "2",
+                        "name": "Catcher",
+                        "type": "Catcher",
+                        "abbreviation": "C"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 29,
+                        "gamesPlayed": 118,
+                        "groundOuts": 93,
+                        "airOuts": 102,
+                        "runs": 39,
+                        "doubles": 29,
+                        "triples": 1,
+                        "homeRuns": 4,
+                        "strikeOuts": 70,
+                        "baseOnBalls": 36,
+                        "intentionalWalks": 0,
+                        "hits": 104,
+                        "hitByPitch": 7,
+                        "avg": ".287",
+                        "atBats": 363,
+                        "obp": ".358",
+                        "slg": ".405",
+                        "ops": ".763",
+                        "caughtStealing": 5,
+                        "stolenBases": 4,
+                        "stolenBasePercentage": ".444",
+                        "caughtStealingPercentage": ".556",
+                        "groundIntoDoublePlay": 6,
+                        "numberOfPitches": 1498,
+                        "plateAppearances": 412,
+                        "totalBases": 147,
+                        "rbi": 48,
+                        "leftOnBase": 155,
+                        "sacBunts": 1,
+                        "sacFlies": 5,
+                        "babip": ".340",
+                        "groundOutsToAirouts": "0.91",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "90.75"
+                    },
+                    "team": {
+                        "id": 115,
+                        "name": "Colorado Rockies",
+                        "link": "/api/v1/teams/115"
+                    },
+                    "player": {
+                        "id": 687859,
+                        "fullName": "Troy Johnston",
+                        "link": "/api/v1/people/687859",
+                        "firstName": "Troy",
+                        "lastName": "Johnston"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 49,
+                    "position": {
+                        "code": "9",
+                        "name": "Outfielder",
+                        "type": "Outfielder",
+                        "abbreviation": "RF"
+                    }
+                },
+                {
+                    "season": "2026",
+                    "stat": {
+                        "age": 23,
+                        "gamesPlayed": 125,
+                        "groundOuts": 110,
+                        "airOuts": 133,
+                        "runs": 38,
+                        "doubles": 29,
+                        "triples": 2,
+                        "homeRuns": 7,
+                        "strikeOuts": 33,
+                        "baseOnBalls": 23,
+                        "intentionalWalks": 0,
+                        "hits": 110,
+                        "hitByPitch": 0,
+                        "avg": ".286",
+                        "atBats": 384,
+                        "obp": ".326",
+                        "slg": ".427",
+                        "ops": ".753",
+                        "caughtStealing": 4,
+                        "stolenBases": 9,
+                        "stolenBasePercentage": ".692",
+                        "caughtStealingPercentage": ".308",
+                        "groundIntoDoublePlay": 7,
+                        "numberOfPitches": 1401,
+                        "plateAppearances": 409,
+                        "totalBases": 164,
+                        "rbi": 53,
+                        "leftOnBase": 160,
+                        "sacBunts": 1,
+                        "sacFlies": 1,
+                        "babip": ".299",
+                        "groundOutsToAirouts": "0.83",
+                        "catchersInterference": 0,
+                        "atBatsPerHomeRun": "54.86"
+                    },
+                    "team": {
+                        "id": 146,
+                        "name": "Miami Marlins",
+                        "link": "/api/v1/teams/146"
+                    },
+                    "player": {
+                        "id": 691594,
+                        "fullName": "Javier Sanoja",
+                        "link": "/api/v1/people/691594",
+                        "firstName": "Javier",
+                        "lastName": "Sanoja"
+                    },
+                    "league": {
+                        "id": 104,
+                        "name": "NL",
+                        "link": "/api/v1/league/104"
+                    },
+                    "sport": {
+                        "id": 1,
+                        "link": "/api/v1/sports/1",
+                        "abbreviation": "MLB"
+                    },
+                    "numTeams": 1,
+                    "rank": 50,
+                    "position": {
+                        "code": "5",
+                        "name": "Third Base",
+                        "type": "Infielder",
+                        "abbreviation": "3B"
+                    }
+                }
+            ],
+            "splitsTiedWithOffset": [],
+            "splitsTiedWithLimit": [],
+            "playerPool": "ALL"
+        }
+    ]
+}

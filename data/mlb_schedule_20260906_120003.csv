@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823577,R,2026,2026-09-05T20:10:00Z,Final,San Francisco Giants,9,New York Mets,5,Citi Field
+823823,R,2026,2026-09-05T20:10:00Z,Final,Chicago Cubs,6,Miami Marlins,5,loanDepot park
+823419,R,2026,2026-09-05T22:05:00Z,Final,Atlanta Braves,2,Philadelphia Phillies,4,Citizens Bank Park
+824389,R,2026,2026-09-05T22:10:00Z,Final,Detroit Tigers,6,Cleveland Guardians,0,Progressive Field
+823335,R,2026,2026-09-05T22:40:00Z,Final,Los Angeles Angels,6,Pittsburgh Pirates,1,PNC Park
+824468,R,2026,2026-09-05T22:40:00Z,Final,Milwaukee Brewers,3,Cincinnati Reds,5,Great American Ball Park
+824795,R,2026,2026-09-05T23:05:00Z,Final,Boston Red Sox,5,Baltimore Orioles,0,Oriole Park at Camden Yards
+822850,R,2026,2026-09-05T23:05:00Z,Final,Tampa Bay Rays,6,Texas Rangers,3,Globe Life Field
+824066,R,2026,2026-09-05T23:10:00Z,Final,Toronto Blue Jays,4,Kansas City Royals,3,Kauffman Stadium
+824553,R,2026,2026-09-05T23:10:00Z,Final,Minnesota Twins,6,Chicago White Sox,4,Rate Field
+824145,R,2026,2026-09-05T23:15:00Z,Final,Arizona Diamondbacks,4,Houston Astros,3,Daikin Park
+823257,R,2026,2026-09-05T23:15:00Z,Final,New York Yankees,5,San Diego Padres,1,Petco Park
+824310,R,2026,2026-09-06T00:10:00Z,Final,St. Louis Cardinals,7,Colorado Rockies,10,Coors Field
+823904,R,2026,2026-09-06T01:10:00Z,Final,Washington Nationals,5,Los Angeles Dodgers,6,UNIQLO Field at Dodger Stadium
+823094,R,2026,2026-09-06T01:40:00Z,Final,Athletics,6,Seattle Mariners,2,T-Mobile Park
