@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-09-07">
+        <Game>
+            <GamePk>823415</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-07T17:05:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Atlanta Braves</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Philadelphia Phillies</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Citizens Bank Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823820</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-07T17:10:00Z</GameDate>
+            <Status>Pre-Game</Status>
+            <Teams>
+                <Away>
+                    <Name>New York Mets</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Miami Marlins</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>loanDepot park</Venue>
+        </Game>
+        <Game>
+            <GamePk>824715</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-07T17:35:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Los Angeles Angels</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Boston Red Sox</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Fenway Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>824793</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-07T17:35:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Cleveland Guardians</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Baltimore Orioles</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Oriole Park at Camden Yards</Venue>
+        </Game>
+        <Game>
+            <GamePk>824062</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-07T18:10:00Z</GameDate>
+            <Status>Pre-Game</Status>
+            <Teams>
+                <Away>
+                    <Name>Arizona Diamondbacks</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Kansas City Royals</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Kauffman Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>823742</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-07T18:10:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Chicago Cubs</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Milwaukee Brewers</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>American Family Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>824229</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-07T19:10:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Minnesota Twins</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Detroit Tigers</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Comerica Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823254</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-07T21:10:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Washington Nationals</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>San Diego Padres</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Petco Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823175</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-08T00:10:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>St. Louis Cardinals</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>San Francisco Giants</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Oracle Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>823902</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-08T01:10:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Cincinnati Reds</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Los Angeles Dodgers</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>UNIQLO Field at Dodger Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>824958</GamePk>
+            <GameType>R</GameType>
+            <GameDate>2026-09-08T02:05:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Toronto Blue Jays</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Athletics</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Sutter Health Park</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>

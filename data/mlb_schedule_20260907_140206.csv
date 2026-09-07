@@ -1,0 +1,12 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823415,R,2026,2026-09-07T17:05:00Z,Scheduled,Atlanta Braves,,Philadelphia Phillies,,Citizens Bank Park
+823820,R,2026,2026-09-07T17:10:00Z,Pre-Game,New York Mets,,Miami Marlins,,loanDepot park
+824715,R,2026,2026-09-07T17:35:00Z,Scheduled,Los Angeles Angels,,Boston Red Sox,,Fenway Park
+824793,R,2026,2026-09-07T17:35:00Z,Scheduled,Cleveland Guardians,,Baltimore Orioles,,Oriole Park at Camden Yards
+824062,R,2026,2026-09-07T18:10:00Z,Pre-Game,Arizona Diamondbacks,,Kansas City Royals,,Kauffman Stadium
+823742,R,2026,2026-09-07T18:10:00Z,Scheduled,Chicago Cubs,,Milwaukee Brewers,,American Family Field
+824229,R,2026,2026-09-07T19:10:00Z,Scheduled,Minnesota Twins,,Detroit Tigers,,Comerica Park
+823254,R,2026,2026-09-07T21:10:00Z,Scheduled,Washington Nationals,,San Diego Padres,,Petco Park
+823175,R,2026,2026-09-08T00:10:00Z,Scheduled,St. Louis Cardinals,,San Francisco Giants,,Oracle Park
+823902,R,2026,2026-09-08T01:10:00Z,Scheduled,Cincinnati Reds,,Los Angeles Dodgers,,UNIQLO Field at Dodger Stadium
+824958,R,2026,2026-09-08T02:05:00Z,Scheduled,Toronto Blue Jays,,Athletics,,Sutter Health Park
