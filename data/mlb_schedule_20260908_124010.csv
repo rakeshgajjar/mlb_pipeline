@@ -1,0 +1,12 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+823415,R,2026,2026-09-07T17:05:00Z,Final,Atlanta Braves,0,Philadelphia Phillies,1,Citizens Bank Park
+823820,R,2026,2026-09-07T17:10:00Z,Final,New York Mets,9,Miami Marlins,4,loanDepot park
+824715,R,2026,2026-09-07T17:35:00Z,Final,Los Angeles Angels,2,Boston Red Sox,5,Fenway Park
+824793,R,2026,2026-09-07T17:35:00Z,Final,Cleveland Guardians,4,Baltimore Orioles,6,Oriole Park at Camden Yards
+824062,R,2026,2026-09-07T18:10:00Z,Final,Arizona Diamondbacks,5,Kansas City Royals,4,Kauffman Stadium
+823742,R,2026,2026-09-07T18:10:00Z,Final,Chicago Cubs,3,Milwaukee Brewers,4,American Family Field
+824229,R,2026,2026-09-07T19:10:00Z,Final,Minnesota Twins,4,Detroit Tigers,5,Comerica Park
+823254,R,2026,2026-09-07T21:10:00Z,Final,Washington Nationals,2,San Diego Padres,3,Petco Park
+823175,R,2026,2026-09-08T00:10:00Z,Final,St. Louis Cardinals,4,San Francisco Giants,5,Oracle Park
+823902,R,2026,2026-09-08T01:10:00Z,Final,Cincinnati Reds,3,Los Angeles Dodgers,6,UNIQLO Field at Dodger Stadium
+824958,R,2026,2026-09-08T02:05:00Z,Final,Toronto Blue Jays,5,Athletics,6,Sutter Health Park
