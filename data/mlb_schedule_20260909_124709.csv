@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824792,R,2026,2026-09-08T22:35:00Z,Final,Cleveland Guardians,9,Baltimore Orioles,5,Oriole Park at Camden Yards
+824228,R,2026,2026-09-08T22:40:00Z,Final,Minnesota Twins,3,Detroit Tigers,2,Comerica Park
+823414,R,2026,2026-09-08T22:40:00Z,Final,Houston Astros,6,Philadelphia Phillies,5,Citizens Bank Park
+823821,R,2026,2026-09-08T22:40:00Z,Final,New York Mets,7,Miami Marlins,5,loanDepot park
+824714,R,2026,2026-09-08T22:45:00Z,Final,Los Angeles Angels,6,Boston Red Sox,1,Fenway Park
+823500,R,2026,2026-09-08T23:05:00Z,Final,Colorado Rockies,3,New York Yankees,5,Yankee Stadium
+824875,R,2026,2026-09-08T23:15:00Z,Final,Tampa Bay Rays,7,Atlanta Braves,1,Truist Park
+824063,R,2026,2026-09-08T23:40:00Z,Final,Arizona Diamondbacks,5,Kansas City Royals,3,Kauffman Stadium
+824551,R,2026,2026-09-08T23:40:00Z,Final,Pittsburgh Pirates,9,Chicago White Sox,3,Rate Field
+823738,R,2026,2026-09-08T23:40:00Z,Final,Chicago Cubs,3,Milwaukee Brewers,4,American Family Field
+823250,R,2026,2026-09-09T01:40:00Z,Final,Washington Nationals,4,San Diego Padres,5,Petco Park
+823092,R,2026,2026-09-09T01:40:00Z,Final,Texas Rangers,10,Seattle Mariners,5,T-Mobile Park
+824957,R,2026,2026-09-09T01:40:00Z,Final,Toronto Blue Jays,4,Athletics,2,Sutter Health Park
+823174,R,2026,2026-09-09T01:45:00Z,Final,St. Louis Cardinals,1,San Francisco Giants,2,Oracle Park
+823901,R,2026,2026-09-09T02:10:00Z,Final,Cincinnati Reds,2,Los Angeles Dodgers,3,UNIQLO Field at Dodger Stadium
