@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824226,R,2026,2026-09-09T17:10:00Z,Final,Minnesota Twins,2,Detroit Tigers,7,Comerica Park
+824956,R,2026,2026-09-09T19:05:00Z,Final,Toronto Blue Jays,0,Athletics,2,Sutter Health Park
+823172,R,2026,2026-09-09T19:45:00Z,Final,St. Louis Cardinals,6,San Francisco Giants,7,Oracle Park
+823251,R,2026,2026-09-09T20:10:00Z,Final,Washington Nationals,2,San Diego Padres,9,Petco Park
+823090,R,2026,2026-09-09T20:10:00Z,Final,Texas Rangers,2,Seattle Mariners,3,T-Mobile Park
+824791,R,2026,2026-09-09T22:35:00Z,Final,Cleveland Guardians,5,Baltimore Orioles,9,Oriole Park at Camden Yards
+823416,R,2026,2026-09-09T22:40:00Z,Final,Houston Astros,7,Philadelphia Phillies,11,Citizens Bank Park
+823818,R,2026,2026-09-09T22:40:00Z,Final,New York Mets,15,Miami Marlins,14,loanDepot park
+824713,R,2026,2026-09-09T22:45:00Z,Final,Los Angeles Angels,6,Boston Red Sox,4,Fenway Park
+823497,R,2026,2026-09-09T23:05:00Z,Final,Colorado Rockies,1,New York Yankees,6,Yankee Stadium
+824871,R,2026,2026-09-09T23:15:00Z,Final,Tampa Bay Rays,7,Atlanta Braves,2,Truist Park
+824064,R,2026,2026-09-09T23:40:00Z,Final,Arizona Diamondbacks,2,Kansas City Royals,5,Kauffman Stadium
+824549,R,2026,2026-09-09T23:40:00Z,Final,Pittsburgh Pirates,4,Chicago White Sox,2,Rate Field
+823739,R,2026,2026-09-09T23:40:00Z,Final,Chicago Cubs,6,Milwaukee Brewers,8,American Family Field
+823900,R,2026,2026-09-10T02:10:00Z,Final,Cincinnati Reds,1,Los Angeles Dodgers,14,UNIQLO Field at Dodger Stadium
