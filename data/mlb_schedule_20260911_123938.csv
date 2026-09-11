@@ -1,0 +1,6 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824872,R,2026,2026-09-10T16:15:00Z,Final,Tampa Bay Rays,1,Atlanta Braves,3,Truist Park
+823413,R,2026,2026-09-10T17:05:00Z,Final,Houston Astros,2,Philadelphia Phillies,1,Citizens Bank Park
+823088,R,2026,2026-09-10T20:10:00Z,Final,Texas Rangers,3,Seattle Mariners,4,T-Mobile Park
+823499,R,2026,2026-09-10T23:05:00Z,Final,Colorado Rockies,3,New York Yankees,10,Yankee Stadium
+824550,R,2026,2026-09-10T23:40:00Z,Final,Pittsburgh Pirates,2,Chicago White Sox,0,Rate Field
