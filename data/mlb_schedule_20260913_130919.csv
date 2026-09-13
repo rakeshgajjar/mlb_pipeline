@@ -1,0 +1,16 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824224,R,2026,2026-09-12T17:10:00Z,Final,Colorado Rockies,7,Detroit Tigers,11,Comerica Park
+823496,R,2026,2026-09-12T17:35:00Z,Final,New York Mets,12,New York Yankees,2,Yankee Stadium
+824630,R,2026,2026-09-12T18:20:00Z,Final,Pittsburgh Pirates,3,Chicago Cubs,4,Wrigley Field
+822768,R,2026,2026-09-12T19:07:00Z,Final,Baltimore Orioles,3,Toronto Blue Jays,7,Rogers Centre
+822685,R,2026,2026-09-12T20:05:00Z,Final,Los Angeles Angels,5,Washington Nationals,6,Nationals Park
+823170,R,2026,2026-09-12T20:05:00Z,Final,San Diego Padres,7,San Francisco Giants,6,Oracle Park
+824712,R,2026,2026-09-12T20:10:00Z,Final,Kansas City Royals,1,Boston Red Sox,5,Fenway Park
+823657,R,2026,2026-09-12T20:10:00Z,Final,Cleveland Guardians,3,Minnesota Twins,4,Target Field
+823819,R,2026,2026-09-12T20:10:00Z,Final,Los Angeles Dodgers,3,Miami Marlins,4,loanDepot park
+822927,R,2026,2026-09-12T22:10:00Z,Final,Houston Astros,2,Tampa Bay Rays,3,Tropicana Field
+823737,R,2026,2026-09-12T23:10:00Z,Final,Cincinnati Reds,9,Milwaukee Brewers,13,American Family Field
+824870,R,2026,2026-09-12T23:15:00Z,Final,Philadelphia Phillies,2,Atlanta Braves,12,Truist Park
+823009,R,2026,2026-09-12T23:15:00Z,Final,Chicago White Sox,6,St. Louis Cardinals,5,Busch Stadium
+825035,R,2026,2026-09-13T00:10:00Z,Final,Texas Rangers,6,Arizona Diamondbacks,2,Chase Field
+824955,R,2026,2026-09-13T01:40:00Z,Final,Seattle Mariners,19,Athletics,1,Sutter Health Park
