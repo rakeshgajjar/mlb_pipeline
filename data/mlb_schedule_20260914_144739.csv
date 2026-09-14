@@ -1,0 +1,11 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824465,R,2026,2026-09-14T22:40:00Z,Scheduled,Los Angeles Dodgers,,Cincinnati Reds,,Great American Ball Park
+824386,R,2026,2026-09-14T22:40:00Z,Scheduled,Chicago White Sox,,Cleveland Guardians,,Progressive Field
+822765,R,2026,2026-09-14T23:07:00Z,Scheduled,Detroit Tigers,,Toronto Blue Jays,,Rogers Centre
+823575,R,2026,2026-09-14T23:10:00Z,Scheduled,Baltimore Orioles,,New York Mets,,Citi Field
+824629,R,2026,2026-09-14T23:40:00Z,Scheduled,Atlanta Braves,,Chicago Cubs,,Wrigley Field
+823656,R,2026,2026-09-14T23:40:00Z,Scheduled,New York Yankees,,Minnesota Twins,,Target Field
+823006,R,2026,2026-09-14T23:45:00Z,Scheduled,San Francisco Giants,,St. Louis Cardinals,,Busch Stadium
+824308,R,2026,2026-09-15T00:40:00Z,Scheduled,San Diego Padres,,Colorado Rockies,,Coors Field
+823981,R,2026,2026-09-15T01:38:00Z,Scheduled,Seattle Mariners,,Los Angeles Angels,,Angel Stadium
+825034,R,2026,2026-09-15T01:40:00Z,Scheduled,Miami Marlins,,Arizona Diamondbacks,,Chase Field
