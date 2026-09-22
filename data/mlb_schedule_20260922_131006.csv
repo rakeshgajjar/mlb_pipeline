@@ -1,0 +1,4 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824787,R,2026,2026-09-21T22:35:00Z,Final,Toronto Blue Jays,3,Baltimore Orioles,4,Oriole Park at Camden Yards
+824221,R,2026,2026-09-21T22:40:00Z,Final,Washington Nationals,2,Detroit Tigers,9,Comerica Park
+823169,R,2026,2026-09-22T01:45:00Z,Final,Minnesota Twins,2,San Francisco Giants,5,Oracle Park
