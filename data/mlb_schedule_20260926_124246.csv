@@ -1,0 +1,18 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+824703,R,2026,2026-09-25T17:05:00Z,Final,Chicago Cubs,3,Boston Red Sox,4,Fenway Park
+824706,R,2026,2026-09-25T21:35:00Z,Final,Chicago Cubs,0,Boston Red Sox,2,Fenway Park
+823491,R,2026,2026-09-25T20:05:00Z,Final,Baltimore Orioles,10,New York Yankees,2,Yankee Stadium
+823489,R,2026,2026-09-25T20:10:00Z,Final,Baltimore Orioles,3,New York Yankees,6,Yankee Stadium
+824220,R,2026,2026-09-25T22:40:00Z,Final,Pittsburgh Pirates,7,Detroit Tigers,8,Comerica Park
+823409,R,2026,2026-09-25T22:40:00Z,Final,Tampa Bay Rays,2,Philadelphia Phillies,0,Citizens Bank Park
+822681,R,2026,2026-09-25T22:45:00Z,Final,New York Mets,6,Washington Nationals,7,Nationals Park
+822760,R,2026,2026-09-25T23:07:00Z,Final,Cincinnati Reds,5,Toronto Blue Jays,6,Rogers Centre
+823816,R,2026,2026-09-25T23:10:00Z,Final,Atlanta Braves,0,Miami Marlins,3,loanDepot park
+824058,R,2026,2026-09-25T23:40:00Z,Final,Cleveland Guardians,12,Kansas City Royals,9,Kauffman Stadium
+824544,R,2026,2026-09-25T23:40:00Z,Final,Colorado Rockies,1,Chicago White Sox,6,Rate Field
+823735,R,2026,2026-09-25T23:40:00Z,Final,St. Louis Cardinals,4,Milwaukee Brewers,8,American Family Field
+823652,R,2026,2026-09-26T00:10:00Z,Final,Texas Rangers,2,Minnesota Twins,10,Target Field
+824947,R,2026,2026-09-26T01:40:00Z,Final,Houston Astros,5,Athletics,6,Sutter Health Park
+823248,R,2026,2026-09-26T01:40:00Z,Final,Arizona Diamondbacks,11,San Diego Padres,4,Petco Park
+823085,R,2026,2026-09-26T02:10:00Z,Final,Los Angeles Angels,7,Seattle Mariners,5,T-Mobile Park
+823167,R,2026,2026-09-26T02:15:00Z,Final,Los Angeles Dodgers,2,San Francisco Giants,0,Oracle Park
