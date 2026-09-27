@@ -1,0 +1,14 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+822678,R,2026,2026-09-26T16:35:00Z,Final,New York Mets,7,Washington Nationals,1,Nationals Park
+824219,R,2026,2026-09-26T17:10:00Z,Final,Pittsburgh Pirates,3,Detroit Tigers,4,Comerica Park
+822759,R,2026,2026-09-26T19:07:00Z,Final,Cincinnati Reds,5,Toronto Blue Jays,1,Rogers Centre
+823165,R,2026,2026-09-26T20:05:00Z,Final,Los Angeles Dodgers,4,San Francisco Giants,3,Oracle Park
+823653,R,2026,2026-09-26T20:10:00Z,Final,Texas Rangers,6,Minnesota Twins,2,Target Field
+823813,R,2026,2026-09-26T20:10:00Z,Final,Atlanta Braves,8,Miami Marlins,3,loanDepot park
+824057,R,2026,2026-09-26T23:10:00Z,Final,Cleveland Guardians,11,Kansas City Royals,5,Kauffman Stadium
+824543,R,2026,2026-09-26T23:10:00Z,Final,Colorado Rockies,9,Chicago White Sox,6,Rate Field
+823733,R,2026,2026-09-26T23:10:00Z,Final,St. Louis Cardinals,2,Milwaukee Brewers,3,American Family Field
+823407,R,2026,2026-09-26T23:15:00Z,Final,Tampa Bay Rays,12,Philadelphia Phillies,1,Citizens Bank Park
+823245,R,2026,2026-09-27T00:40:00Z,Final,Arizona Diamondbacks,7,San Diego Padres,10,Petco Park
+824949,R,2026,2026-09-27T01:40:00Z,Final,Houston Astros,13,Athletics,2,Sutter Health Park
+823083,R,2026,2026-09-27T01:40:00Z,Final,Los Angeles Angels,4,Seattle Mariners,8,T-Mobile Park
