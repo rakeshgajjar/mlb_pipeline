@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-09-29">
+        <Game>
+            <GamePk>849845</GamePk>
+            <GameType>F</GameType>
+            <GameDate>2026-09-29T18:00:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Philadelphia Phillies</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Atlanta Braves</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Truist Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>849849</GamePk>
+            <GameType>F</GameType>
+            <GameDate>2026-09-29T21:00:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Chicago White Sox</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Houston Astros</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Daikin Park</Venue>
+        </Game>
+        <Game>
+            <GamePk>849851</GamePk>
+            <GameType>F</GameType>
+            <GameDate>2026-09-30T00:00:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Boston Red Sox</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>New York Yankees</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Yankee Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>849843</GamePk>
+            <GameType>F</GameType>
+            <GameDate>2026-09-30T02:00:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Chicago Cubs</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>San Diego Padres</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Petco Park</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
