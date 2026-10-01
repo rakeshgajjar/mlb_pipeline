@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-10-01">
+        <Game>
+            <GamePk>849844</GamePk>
+            <GameType>F</GameType>
+            <GameDate>2026-10-02T00:00:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Philadelphia Phillies</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Atlanta Braves</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Truist Park</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
