@@ -1,0 +1,5 @@
+game_pk,game_type,season,game_date,status,away_team,away_score,home_team,home_score,venue
+849829,D,2026,2026-10-03T17:00:00Z,Final,Chicago White Sox,3,Cleveland Guardians,0,Progressive Field
+849828,D,2026,2026-10-03T20:00:00Z,Final,Atlanta Braves,3,Los Angeles Dodgers,5,UNIQLO Field at Dodger Stadium
+849835,D,2026,2026-10-03T22:30:00Z,Final,New York Yankees,0,Tampa Bay Rays,1,Tropicana Field
+849830,D,2026,2026-10-04T00:30:00Z,Final,San Diego Padres,2,Milwaukee Brewers,3,American Family Field

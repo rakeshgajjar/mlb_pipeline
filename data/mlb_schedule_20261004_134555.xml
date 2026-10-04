@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-10-03">
+        <Game>
+            <GamePk>849829</GamePk>
+            <GameType>D</GameType>
+            <GameDate>2026-10-03T17:00:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Chicago White Sox</Name>
+                    <Score>3</Score>
+                </Away>
+                <Home>
+                    <Name>Cleveland Guardians</Name>
+                    <Score>0</Score>
+                </Home>
+            </Teams>
+            <Venue>Progressive Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>849828</GamePk>
+            <GameType>D</GameType>
+            <GameDate>2026-10-03T20:00:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Atlanta Braves</Name>
+                    <Score>3</Score>
+                </Away>
+                <Home>
+                    <Name>Los Angeles Dodgers</Name>
+                    <Score>5</Score>
+                </Home>
+            </Teams>
+            <Venue>UNIQLO Field at Dodger Stadium</Venue>
+        </Game>
+        <Game>
+            <GamePk>849835</GamePk>
+            <GameType>D</GameType>
+            <GameDate>2026-10-03T22:30:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>New York Yankees</Name>
+                    <Score>0</Score>
+                </Away>
+                <Home>
+                    <Name>Tampa Bay Rays</Name>
+                    <Score>1</Score>
+                </Home>
+            </Teams>
+            <Venue>Tropicana Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>849830</GamePk>
+            <GameType>D</GameType>
+            <GameDate>2026-10-04T00:30:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>San Diego Padres</Name>
+                    <Score>2</Score>
+                </Away>
+                <Home>
+                    <Name>Milwaukee Brewers</Name>
+                    <Score>3</Score>
+                </Home>
+            </Teams>
+            <Venue>American Family Field</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
