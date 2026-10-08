@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-10-08">
+        <Game>
+            <GamePk>849832</GamePk>
+            <GameType>D</GameType>
+            <GameDate>2026-10-09T00:00:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Cleveland Guardians</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Chicago White Sox</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Rate Field</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
