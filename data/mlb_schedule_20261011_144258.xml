@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-10-11">
+        <Game>
+            <GamePk>849809</GamePk>
+            <GameType>L</GameType>
+            <GameDate>2026-10-12T00:00:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Los Angeles Dodgers</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Milwaukee Brewers</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>American Family Field</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
