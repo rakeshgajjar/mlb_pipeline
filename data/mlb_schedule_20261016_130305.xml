@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-10-15">
+        <Game>
+            <GamePk>849818</GamePk>
+            <GameType>L</GameType>
+            <GameDate>2026-10-15T17:00:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Tampa Bay Rays</Name>
+                    <Score>2</Score>
+                </Away>
+                <Home>
+                    <Name>Cleveland Guardians</Name>
+                    <Score>3</Score>
+                </Home>
+            </Teams>
+            <Venue>Progressive Field</Venue>
+        </Game>
+        <Game>
+            <GamePk>849810</GamePk>
+            <GameType>L</GameType>
+            <GameDate>2026-10-16T00:00:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Milwaukee Brewers</Name>
+                    <Score>6</Score>
+                </Away>
+                <Home>
+                    <Name>Los Angeles Dodgers</Name>
+                    <Score>4</Score>
+                </Home>
+            </Teams>
+            <Venue>UNIQLO Field at Dodger Stadium</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
