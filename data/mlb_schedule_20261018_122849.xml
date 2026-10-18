@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-10-17">
+        <Game>
+            <GamePk>849816</GamePk>
+            <GameType>L</GameType>
+            <GameDate>2026-10-18T00:08:00Z</GameDate>
+            <Status>Final</Status>
+            <Teams>
+                <Away>
+                    <Name>Tampa Bay Rays</Name>
+                    <Score>7</Score>
+                </Away>
+                <Home>
+                    <Name>Cleveland Guardians</Name>
+                    <Score>3</Score>
+                </Home>
+            </Teams>
+            <Venue>Progressive Field</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
