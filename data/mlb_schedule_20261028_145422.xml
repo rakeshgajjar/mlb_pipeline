@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<MLBSchedule>
+    <Date value="2026-10-28">
+        <Game>
+            <GamePk>849799</GamePk>
+            <GameType>W</GameType>
+            <GameDate>2026-10-29T00:00:00Z</GameDate>
+            <Status>Scheduled</Status>
+            <Teams>
+                <Away>
+                    <Name>Milwaukee Brewers</Name>
+                    <Score/>
+                </Away>
+                <Home>
+                    <Name>Tampa Bay Rays</Name>
+                    <Score/>
+                </Home>
+            </Teams>
+            <Venue>Tropicana Field</Venue>
+        </Game>
+    </Date>
+</MLBSchedule>
